@@ -1,7 +1,7 @@
 # debian-cn
 
 #### 介绍
-debian cn
+debian-cn 项目地址：https://gitee.com/atzlinux/debian-cn
 
 Debian 是一款非常优秀的 Linux 操作系统，但默认安装缺少中国人常用的软件。
 本项目的目的是收集这些常用软件，利用自动化脚本在 Debian 上安装，节省大家定制 Debian 的时间。
@@ -47,7 +47,7 @@ cd debian-cn
 #### 兼容性说明
 
 Debian 下有多个图像界面系统，本项目默认在 Xfce 下完成兼容性测试。
-在 Debian 的其它桌面环境下，如何 gnome，KDE 等，也应该能够正常运行，欢迎大家测试并反馈。
+在 Debian 的其它桌面环境下，如何 gnome、KDE 等，也应该能够正常运行，欢迎大家测试并反馈。
 
 #### 警告
 本项目是在 64 位的 Debian 10.1 下安装测试，期间需要大量 32位的 i386 deb 软件包，如果你是在 32 位的 Debian 运行本项目的安装脚本，
