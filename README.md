@@ -40,6 +40,12 @@ cd debian-cn
 ./install-wine32.sh
 ./install-qq.sh
 
+#### 卸载说明
+
+1. ./uninstall.sh 卸载本项目的所有中文套件
+2. ./xxx/uninstall-xxx.sh 各个子目录下，卸载该目录软件
+
+注：wine32 是 QQ 运行的基础软件，卸载 wine32 会导致 QQ 也会被卸载。
 #### 使用说明
 
 1. 因为 QQ 依赖 wine32，所以安装 QQ 时，请先安装 wine32，再安装 QQ。
