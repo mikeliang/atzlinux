@@ -9,25 +9,49 @@ Debian 是一款非常优秀的 Linux 操作系统，但默认安装缺少中国
 #### 软件架构
 目前以 Debian 10.1 为基础，使用 Debian 的软件包管理工具 apt、dpkg 安装各类软件。
 
-目前收录的软件如下：
+目前收录的应用软件如下：
 
-QQ：deepin wine32 
+QQ：
+在 deepin wine32 上运行的版本
+
+架构层次关系如下：
+Debian 10.1 64位操作系统 ---> deepin wine32 32位的 wine 虚拟机  --->  QQ 程序
+
+注：在 64 位 Debian 10.1 操作系统上安装 32位 的 wine 虚拟机，需要下载 180 多个 i386 包。
 
 
 #### 安装教程
 
+(一)下载安装文件
+1.用 git
+git clone https://gitee.com/atzlinux/debian-cn.git
+
+2.直接下载安装包。需用用浏览器打开如下网址，并注册登录。
+https://gitee.com/atzlinux/debian-cn/repository/archive/master.zip
+下载完成后，在终端用命令行解压缩。
+unzip master.zip
+
+(二)执行安装脚本
+cd debian-cn
+
 1. ./install.sh  安装本项目集成的所有中文软件
 2. ./install-xxx.sh 安装某个具体的中文软件
+如安装 QQ，则依次执行：
+./install-wine32.sh
+./install-qq.sh
 
 #### 使用说明
 
-1. xxxx
-2. xxxx
-3. xxxx
+1. 因为 QQ 依赖 wine32，所以安装 QQ 时，请先安装 wine32，再安装 QQ。
 
 #### 兼容性说明
 
 Debian 下有多个图像界面系统，本项目默认在 Xfce 下完成兼容性测试。
+在 Debian 的其它桌面环境下，如何 gnome，KDE 等，也应该能够正常运行，欢迎大家测试并反馈。
+
+#### 警告
+本项目是在 64 位的 Debian 10.1 下安装测试，期间需要大量 32位的 i386 deb 软件包，如果你是在 32 位的 Debian 运行本项目的安装脚本，
+请务必小心，不建议新手安装。
 
 #### 参与贡献
 
@@ -45,3 +69,7 @@ Debian 下有多个图像界面系统，本项目默认在 Xfce 下完成兼容�
 QQ：  909868357
 
 访问：https://gitee.com/atzlinux/debian-cn  发表点评，报告问题，提交需求。
+
+#### 免责声明
+本项目基于开源软件和各个厂家的商业软件集成，对使用此项目的造成任何问题和损失，本人和本项目以及参与该项目的任何人，均不承担任何赔偿责任。
+
