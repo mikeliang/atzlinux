@@ -1,11 +1,15 @@
 #!/bin/bash
 cd `dirname $0`; pwd
-echo '即将开始安装 Debian QQ ...'
-sudo dpkg -i ./Debian/deepin.com.qq.im_8.9.19983deepin23_i386.deb
+echo '即将开始安装  ...'
+./install-deepin-keyring.sh  
+echo '增加 deepin 软件包安装仓库'
+apt-add-repository 'deb http://mirrors.huaweicloud.com/deepin stable main non-free contrib'
+apt update
+apt -y install deepin-wine deepin-wine-helper:i386 deepin-wine-plugin deepin-wine-plugin-virtual deepin-wine-uninstaller:i386 deepin-wine32-preloader:i386
 echo '安装完成，正在自动安装依赖...'
-sudo apt install -f
-echo '修改 QQ 在 Debian 的应用程序菜单分类到互联网 ...'
-sudo sed -i s/chat/Network/ /usr/share/applications/deepin.com.qq.im.desktop
-echo '启动 QQ ...' 
-"/opt/deepinwine/apps/Deepin-QQ/run.sh" -u %u &
-echo '出现 QQ 登录界面后，QQ 就已经安装完成。请关闭该终端窗口，忽略终端窗口的提示信息'
+apt install -f
+echo '清理 deepin 软件包安装仓库'
+apt-add-repository -r 'deb http://mirrors.huaweicloud.com/deepin stable main non-free contrib'
+./deepin/uninstall-deepin-keyring.sh
+rm -fv /var/lib/apt/lists/*deepin*
+apt update
