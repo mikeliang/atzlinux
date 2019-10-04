@@ -1,7 +1,7 @@
 #!/bin/bash
 cd `dirname $0`; pwd
 echo '即将开始卸载 ...'
-sudo apt purge -y \
+apt purge -y \
 udis86 \
 deepin-fonts-wine \
 deepin-libwine \
