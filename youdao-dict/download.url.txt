@@ -1,0 +1,2 @@
+# http://cidian.youdao.com/index-linux.html
+http://codown.youdao.com/cidian/linux/youdao-dict_1.1.0-0-ubuntu_amd64.deb
