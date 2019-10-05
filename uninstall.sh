@@ -2,6 +2,9 @@
 cd `dirname $0`; pwd
 echo "开始卸载 Debian 中文套件 ... ：-（..."
 
+echo "开始卸载 deepin-keyring  ..."
+./deepin/uninstall-deepin-keyring.sh
+
 echo "开始卸载  qq ..."
 ./qq/uninstall-qq.sh
 
@@ -22,3 +25,6 @@ echo "开始卸载 youdao-dict ..."
 
 echo "开始卸载 sogoupinyin ..."
 ./sogoupinyin/uninstall-sogoupinyin.sh
+
+echo "开始卸载 wps ..."
+./wps/uninstall-wps.sh
