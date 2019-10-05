@@ -25,6 +25,3 @@ echo "开始安装 wps ..."
 
 echo "开始安装 youdao-dict ..."
 ./install-youdao-dict.sh
-
-echo "开始安装 ..."
-echo " ..."
