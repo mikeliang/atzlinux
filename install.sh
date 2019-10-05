@@ -23,3 +23,5 @@ echo "开始安装 sogoupinyin ..."
 echo "开始安装 wps ..."
 ./install-wps.sh
 
+echo "开始安装 youdao-dict ..."
+./install-youdao-dict.sh
