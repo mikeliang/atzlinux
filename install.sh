@@ -19,3 +19,7 @@ echo "开始安装 netease-cloud-music ..."
 
 echo "开始安装 sogoupinyin ..."
 ./install-sogoupinyin.sh
+
+echo "开始安装 wps ..."
+./install-wps.sh
+
