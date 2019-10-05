@@ -25,3 +25,5 @@ echo "开始安装 wps ..."
 
 echo "开始安装 youdao-dict ..."
 ./install-youdao-dict.sh
+
+echo "恭喜您！安装完成！谢谢使用 Debian-cn 中文套件！"

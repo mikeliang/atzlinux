@@ -29,4 +29,4 @@ echo "开始卸载 sogoupinyin ..."
 echo "开始卸载 wps ..."
 ./wps/uninstall-wps.sh
 
-echo "开始卸载 ..."
+echo "卸载完成！感谢您使用 Debian-cn 中文套件！期待下次再见！"
