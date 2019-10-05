@@ -14,5 +14,8 @@ echo "开始安装 wechat ..."
 echo "开始安装 baidunetdisk ..."
 ./install-baidunetdisk.sh
 
-echo "开始安装 ..."
-echo " ..."
+echo "开始安装 netease-cloud-music ..."
+./install-netease-cloud-music.sh 
+
+echo "开始安装 sogoupinyin ..."
+./install-sogoupinyin.sh
