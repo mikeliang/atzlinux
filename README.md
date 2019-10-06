@@ -79,6 +79,15 @@ md5sum -c MD5SUM.txt
 sha256sum -c SHA256SUM.txt
 命令，看输出是否显示都成功，对显示不成功的软件包，请重新执行该软件的安装脚本。
 
+2.安装时出现依赖性报错
+请检查您 Debian 系统原有的安装源仓库设置是否完整。
+我本人的安装源文件： /etc/apt/sources.list 包含有如下这行：
+deb http://mirrors.163.com/debian buster main non-free contrib
+
+设置好安装源后，运行  apt update 更新安装源软件列表，再重新执行本项目的安装脚本。
+
+如果还有依赖性问题，请联系我反馈，联系方式见本文最后。
+
 #### 兼容性说明
 
 Debian 下有多个图像界面系统，本项目默认在 Xfce 下完成兼容性测试。
