@@ -5,4 +5,4 @@ bbfd2ed65fc540f96d7d3ab0f626803c2638e2d8da04b6291f13ca2e832ec72a  ./deepin/deepi
 24b825423d46724d9695677809821673af0a30731edb8393e578164710acc141  ./baidunetdisk/baidunetdisk_linux_2.0.2.deb
 d25d3fb7c55ba9d71a022efbad8807450dbae55760bca922020d5526801cbd5f  ./wps/wps-office_11.1.0.8865_amd64.deb
 497481e27a2fbb7899c9b030f978372e17467ba332c958c2fd9d1a76ec4e40df  ./wps/wps-office-fonts_1.0_all.deb
-3ef3929b312beca921e4770aa97372a6e41b75f1de4e75a7001440d3c7ff44b8  ./wechat/electronic-wechat_2.0.1_amd64.deb
+a96a6945d5e7c63a1f4a354d92642dfaff5241231cca28818abf107656015eaf  ./wechat/electronic-wechat_2.0.1_amd64.deb

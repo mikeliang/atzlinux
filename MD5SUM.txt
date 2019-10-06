@@ -5,4 +5,4 @@ c84b6adcf2c4fe9e2f4910c97bacd392  ./youdao-dict/youdao-dict_1.1.0-0-deepin_amd64
 280497ecc39e550c08935625ef2c0f2d  ./baidunetdisk/baidunetdisk_linux_2.0.2.deb
 fb0b0ebb81dc57036106a8ec0a515150  ./wps/wps-office_11.1.0.8865_amd64.deb
 3e531c85602302221058569d893b95ca  ./wps/wps-office-fonts_1.0_all.deb
-d9f11fa00cb37814716948581b24b383  ./wechat/electronic-wechat_2.0.1_amd64.deb
+98c33091c13de25e88b2f3f86981302d  ./wechat/electronic-wechat_2.0.1_amd64.deb
