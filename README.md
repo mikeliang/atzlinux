@@ -6,7 +6,7 @@ debian-cn 项目地址：
 https://gitee.com/atzlinux/debian-cn
 
 Debian 是一款非常优秀的 Linux 操作系统，但默认安装缺少中国人常用的软件。
-本项目的目的是收集这些常用软件，利用自动化脚本在 Debian 上安装，节省大家定制 Debian 的时间。
+本项目的目的是收集这些常用软件，利用自动化脚本在 Debian 上一键安装，节省大家定制 Debian 的时间。
 
 #### 软件架构
 目前以 Debian 10.1 为基础，使用 Debian 的软件包管理工具 apt、dpkg 安装各类软件。
@@ -36,6 +36,7 @@ Debian 10.1 64位操作系统 ---> deepin wine32 32位的 wine 虚拟机  --->  
 #### 安装教程
 
 (一)下载安装文件
+
 1.用 git
 git clone https://gitee.com/atzlinux/debian-cn.git
 
