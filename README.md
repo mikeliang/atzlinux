@@ -1,7 +1,9 @@
 # debian-cn
 
 #### 介绍
-debian-cn 项目地址：https://gitee.com/atzlinux/debian-cn
+debian-cn 项目地址：
+
+https://gitee.com/atzlinux/debian-cn
 
 Debian 是一款非常优秀的 Linux 操作系统，但默认安装缺少中国人常用的软件。
 本项目的目的是收集这些常用软件，利用自动化脚本在 Debian 上安装，节省大家定制 Debian 的时间。
@@ -43,13 +45,21 @@ https://gitee.com/atzlinux/debian-cn/repository/archive/master.zip
 unzip master.zip
 
 (二)执行安装脚本
+安装脚本需要在命令行下，用 root 账号执行。
+su - root
 cd debian-cn
 
 1. ./install.sh  安装本项目集成的所有中文软件
 2. ./install-xxx.sh 安装某个具体的中文软件
-如安装 QQ，则依次执行：
+
+注：因为 QQ 依赖 wine32，所以安装 QQ 时，请先安装 wine32，再安装 QQ。 
+安装 QQ，则依次执行如下两个脚本：
 ./install-wine32.sh
 ./install-qq.sh
+
+其它软件的安装，执行各自名称的 ./install-xxx.sh 的脚本即可。xxx 替换为中文软件的字母名称。
+
+（三）退出登录，再重新登录，让所有安装生效。
 
 #### 卸载说明
 
@@ -57,9 +67,9 @@ cd debian-cn
 2. ./xxx/uninstall-xxx.sh 各个子目录下，卸载该目录软件
 
 注：wine32 是 QQ 运行的基础软件，卸载 wine32 会导致 QQ 也会被卸载。
-#### 使用说明
 
-1. 因为 QQ 依赖 wine32，所以安装 QQ 时，请先安装 wine32，再安装 QQ。
+#### 使用说明
+搜狗拼音输入法安装完成后，需要退出当前登录的图像界面，再重新登录，才能够让搜狗输入法生效。
 
 #### 兼容性说明
 
