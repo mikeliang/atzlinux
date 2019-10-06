@@ -30,3 +30,4 @@ echo "开始卸载 wps ..."
 ./wps/uninstall-wps.sh
 
 echo "卸载完成！感谢您使用 Debian-cn 中文套件！期待下次再见！"
+echo "请退出当前登录图像界面，再重新登录，让所有卸载生效。"

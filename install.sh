@@ -27,3 +27,4 @@ echo "开始安装 youdao-dict ..."
 ./install-youdao-dict.sh
 
 echo "恭喜您！安装完成！谢谢使用 Debian-cn 中文套件！"
+echo "请退出当前登录图像界面，再重新登录，让所有安装生效。"
