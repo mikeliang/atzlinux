@@ -50,13 +50,14 @@ https://gitee.com/atzlinux/debian-cn/repository/archive/master.zip
 unzip master.zip
 
 (二)执行安装脚本
+
 安装脚本需要在命令行下，用 root 账号执行。
 
 su - root
 
 cd debian-cn
 
-1. ./install.sh  安装本项目集成的所有中文软件
+1. ./install.sh  一键安装本项目集成的所有中文软件
 2. ./install-xxx.sh 安装某个具体的中文软件
 
 注：因为 QQ 依赖 wine32，所以安装 QQ 时，请先安装 wine32，再安装 QQ。 
@@ -68,11 +69,11 @@ cd debian-cn
 
 其它软件的安装，执行各自名称的 ./install-xxx.sh 的脚本即可。xxx 替换为中文软件的字母名称。
 
-（三）退出登录，再重新登录，让所有安装生效。
+（三）安装完成后，请退出当前登录的图像界面，再重新登录，让所有安装生效。
 
 #### 卸载说明
 
-1. ./uninstall.sh 卸载本项目的所有中文套件
+1. ./uninstall.sh 一键卸载本项目安装的所有中文软件
 2. ./xxx/uninstall-xxx.sh 各个子目录下，卸载该目录软件
 
 注：wine32 是 QQ 运行的基础软件，卸载 wine32 会导致 QQ 也会被卸载。
@@ -82,13 +83,16 @@ cd debian-cn
 
 #### 问题排查
 1.下载完整性检查
+
 执行
 md5sum -c MD5SUM.txt 
 或者
 sha256sum -c SHA256SUM.txt
 命令，看输出是否显示都成功，对显示不成功的软件包，请重新执行该软件的安装脚本。
+该项目的所有安装脚本和卸载脚本都可用重新执行，没有其它影响。
 
 2.安装时出现依赖性报错
+
 请检查您 Debian 系统原有的安装源仓库设置是否完整。
 我本人的安装源文件： /etc/apt/sources.list 包含有如下这行：
 
