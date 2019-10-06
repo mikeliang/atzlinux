@@ -38,16 +38,22 @@ Debian 10.1 64位操作系统 ---> deepin wine32 32位的 wine 虚拟机  --->  
 (一)下载安装文件
 
 1.用 git
+
 git clone https://gitee.com/atzlinux/debian-cn.git
 
 2.直接下载安装包。需用用浏览器打开如下网址，并注册登录。
+
 https://gitee.com/atzlinux/debian-cn/repository/archive/master.zip
+
 下载完成后，在终端用命令行解压缩。
+
 unzip master.zip
 
 (二)执行安装脚本
 安装脚本需要在命令行下，用 root 账号执行。
+
 su - root
+
 cd debian-cn
 
 1. ./install.sh  安装本项目集成的所有中文软件
@@ -55,7 +61,9 @@ cd debian-cn
 
 注：因为 QQ 依赖 wine32，所以安装 QQ 时，请先安装 wine32，再安装 QQ。 
 安装 QQ，则依次执行如下两个脚本：
+
 ./install-wine32.sh
+
 ./install-qq.sh
 
 其它软件的安装，执行各自名称的 ./install-xxx.sh 的脚本即可。xxx 替换为中文软件的字母名称。
@@ -83,6 +91,7 @@ sha256sum -c SHA256SUM.txt
 2.安装时出现依赖性报错
 请检查您 Debian 系统原有的安装源仓库设置是否完整。
 我本人的安装源文件： /etc/apt/sources.list 包含有如下这行：
+
 deb http://mirrors.163.com/debian buster main non-free contrib
 
 设置好安装源后，运行  apt update 更新安装源软件列表，再重新执行本项目的安装脚本。
