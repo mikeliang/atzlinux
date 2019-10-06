@@ -3,6 +3,7 @@ cd `dirname $0`; pwd
 echo '即将开始安装  ...'
 ./install-deepin-keyring.sh  
 echo '增加 deepin 软件包安装仓库'
+apt -y software-properties-common
 apt-add-repository 'deb http://mirrors.huaweicloud.com/deepin stable main non-free contrib'
 dpkg --add-architecture i386
 apt update
