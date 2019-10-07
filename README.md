@@ -37,17 +37,49 @@ Debian 10.1 64位操作系统 ---> deepin wine32 32位的 wine 虚拟机  --->  
 
 (一)下载安装文件
 
+有如下几种方式下载安装文件，请根据自身情况选择一种下载：
+
 1.用 git
 
 git clone https://gitee.com/atzlinux/debian-cn.git
 
-2.直接下载安装包。需用用浏览器打开如下网址，并注册登录。
+2.从码云下载安装包
+
+需用用浏览器打开如下网址，并在码云注册登录。
 
 https://gitee.com/atzlinux/debian-cn/repository/archive/master.zip
 
 下载完成后，在终端用命令行解压缩。
 
 unzip master.zip
+
+3.从 CDN 下载安装大包
+
+该安装包目前放在 CDN 上，有 760 多 M，Debian 操作系统自身不包含的软件包，全部已经集成在该安装大包里。
+使用此种方式，可以减少在安装过程中，从网上下载软件的时间。
+
+下载方法：
+在终端命令行依次执行：
+
+wget http://debian-cn.lilishare.com/debian-cn.tar.gz
+
+wget http://debian-cn.lilishare.com/MD5SUM.txt
+
+下载完成后，在终端用命令行先检查下载完整性。
+
+md5sum -c MD5SUM.txt
+
+显示 成功 OK ，则说明下载正确。
+如果显示 失败，也可以先继续尝试后续步骤，看是否有报错。如果后续步骤有报错中断，再来重新下载吧。
+由于软件包比较大，下载过程中个别错误，不一定会影响安装。
+
+下载完成后，在终端用命令行解压缩。
+
+tar zxvf debian-cn.tar.gz
+
+注：该 CDN 下载方式，是用的云平台每个月 50G 的免费流量，先到先得。
+如果提示文件无法下载，则是免费流量用完了，则麻烦用上面的两种方法下载吧。
+
 
 (二)执行安装脚本
 
