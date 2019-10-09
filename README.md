@@ -89,6 +89,14 @@ tar zxvf debian-cn.tar.gz
 注：该 CDN 下载方式，是用的云平台每个月 50G 的免费流量，先到先得。
 如果提示文件无法下载，则是免费流量用完了，则麻烦用上面的两种方法下载吧。
 
+## 4.百度网盘下载：
+安装大包文件：
+
+链接: https://pan.baidu.com/s/1qSCX17vZRZrB6R7-tHaBtQ  密码: j1vr
+
+安装大包文件校验和文件：
+
+链接: https://pan.baidu.com/s/1JWYi783borl-5zjAwvAy6g  密码: d7bk
 
 (二)执行安装脚本
 
