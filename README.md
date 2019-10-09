@@ -76,7 +76,7 @@ wget http://debian-cn.lilishare.com/debian-cn.tar.gz
 wget http://debian-cn.lilishare.com/MD5SUM.txt
 
 注：该 CDN 下载方式，是用的云平台每个月 50G 的免费流量，先到先得。
-如果提示文件无法下载，则是免费流量用完了，则麻烦用其它方法下载。
+如果提示文件无法下载，则是免费流量用完了，麻烦用其它方法下载。
 
 ##### 3.2 从百度网盘下载安装大包文件
 
