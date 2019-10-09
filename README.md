@@ -8,6 +8,15 @@ https://gitee.com/atzlinux/debian-cn
 Debian 是一款非常优秀的 Linux 操作系统，但默认安装缺少中国人常用的软件。
 本项目的目的是收集这些常用软件，利用自动化脚本在 Debian 上一键安装，节省大家定制 Debian 的时间。
 
+#### 支持硬件平台
+本项目支持 32 位和 64 位操作系统
+
+32 位操作系统请访问：
+
+https://gitee.com/atzlinux/debian-cn/tree/install-32bit/
+
+64 位操作系统请继续往下阅读。
+
 #### 软件架构
 目前以 Debian 10.1 为基础，使用 Debian 的软件包管理工具 apt、dpkg 安装各类软件。
 
