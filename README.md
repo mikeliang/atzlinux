@@ -48,11 +48,11 @@ Debian 10.1 64位操作系统 ---> deepin wine32 32位的 wine 虚拟机  --->  
 
 有如下几种方式下载安装文件，请根据自身情况选择一种下载：
 
-#####1.用 git
+##### 1.用 git
 
 git clone https://gitee.com/atzlinux/debian-cn.git
 
-#####2.从码云下载安装包
+##### 2.从码云下载安装包
 
 需用用浏览器打开如下网址，并在码云注册登录。
 
@@ -62,7 +62,7 @@ https://gitee.com/atzlinux/debian-cn/repository/archive/master.zip
 
 unzip master.zip
 
-#####3.从 CDN 下载安装大包
+##### 3.从 CDN 下载安装大包
 
 该安装包目前放在 CDN 上，有 760 多 M，Debian 操作系统自身不包含的软件包，全部已经集成在该安装大包里。
 使用此种方式，可以减少在安装过程中，从网上下载软件的时间。
@@ -156,8 +156,8 @@ deb http://mirrors.163.com/debian buster main non-free contrib
 Debian 下有多个图像界面系统，本项目默认在 Xfce 下完成兼容性测试。
 在 Debian 的其它桌面环境下，如何 gnome、KDE 等，也应该能够正常运行，欢迎大家测试并反馈。
 
-#### 警告
-本项目是在 64 位的 Debian 10.1 下安装测试，期间需要大量 32位的 i386 deb 软件包，如果你是在 32 位的 Debian 运行本项目的安装脚本，
+### 警告
+本项目是在 64 位的 Debian 10.1 下安装测试，期间需要大量 32 位的 i386 deb 软件包，如果你是在 32 位的 Debian 运行本项目的安装脚本，
 请务必小心，不建议新手安装。
 
 #### 参与贡献
