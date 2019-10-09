@@ -62,10 +62,11 @@ https://gitee.com/atzlinux/debian-cn/repository/archive/master.zip
 
 unzip master.zip
 
-##### 3.从 CDN 下载安装大包
-
-该安装包目前放在 CDN 上，有 760 多 M，Debian 操作系统自身不包含的软件包，全部已经集成在该安装大包里。
+##### 3.下载安装大包
+该安装包目前放在 CDN 和百度网盘上，有 760 多 M，Debian 操作系统自身不包含的软件包，全部已经集成在该安装大包里。
 使用此种方式，可以减少在安装过程中，从网上下载软件的时间。
+
+##### 3.1 从 CDN 下载安装大包文件
 
 下载方法：
 在终端命令行依次执行：
@@ -73,6 +74,23 @@ unzip master.zip
 wget http://debian-cn.lilishare.com/debian-cn.tar.gz
 
 wget http://debian-cn.lilishare.com/MD5SUM.txt
+
+注：该 CDN 下载方式，是用的云平台每个月 50G 的免费流量，先到先得。
+如果提示文件无法下载，则是免费流量用完了，则麻烦用其它方法下载。
+
+##### 3.2 从百度网盘下载安装大包文件
+
+安装大包文件文件：
+
+链接: https://pan.baidu.com/s/1qSCX17vZRZrB6R7-tHaBtQ  密码: j1vr
+
+安装大包文件校验和文件：
+
+链接: https://pan.baidu.com/s/1JWYi783borl-5zjAwvAy6g  密码: d7bk
+
+注：请将这两个文件，放到同一个目录下。
+
+##### 3.3 安装大包完整性检查和解压缩
 
 下载完成后，在终端用命令行先检查下载完整性。
 
@@ -85,18 +103,6 @@ md5sum -c MD5SUM.txt
 下载完成后，在终端用命令行解压缩。
 
 tar zxvf debian-cn.tar.gz
-
-注：该 CDN 下载方式，是用的云平台每个月 50G 的免费流量，先到先得。
-如果提示文件无法下载，则是免费流量用完了，则麻烦用上面的两种方法下载吧。
-
-##### 4.百度网盘下载：
-安装大包文件：
-
-链接: https://pan.baidu.com/s/1qSCX17vZRZrB6R7-tHaBtQ  密码: j1vr
-
-安装大包文件校验和文件：
-
-链接: https://pan.baidu.com/s/1JWYi783borl-5zjAwvAy6g  密码: d7bk
 
 #### (二)执行安装脚本
 
