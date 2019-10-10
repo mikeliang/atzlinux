@@ -6,6 +6,8 @@ wget -c -O  sogoupinyin_2.2.0.0108_amd64.deb "http://cdn2.ime.sogou.com/dl/index
 
 apt -y install ./sogoupinyin_2.2.0.0108_amd64.deb
 
+rm -fv /etc/apt/sources.list.d/sogoupinyin.list
+
 cd ..
 
 echo '搜狗拼音输入法安装完成后，需要退出当前登录的图像界面，再重新登录，才能够让搜狗输入法生效。'
