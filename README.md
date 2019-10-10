@@ -128,13 +128,15 @@ cd debian-cn
 
 #### 更新升级
 
-== QQ 升级
+* QQ 升级
+
 ./qq/update-qq.sh
 
-== 搜狗拼音升级
+* 搜狗拼音升级
+
 ./sogoupinyin/update-sogoupinyin.sh
 
-== 其余各软件升级
+* 其余各软件升级
 
 在软件名称子目录下，有一个 download.url.txt 文件，里面与记录各软件的下载页面地址。
 可以访问该页面下载最新版本安装。
