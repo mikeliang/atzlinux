@@ -12,4 +12,5 @@ sogoupinyin \
 electronic-wechat \
 youdao-dict \
 wps-office wps-office-fonts
-rm -fv /etc/apt/sources.list.d/sogoupinyin.list
+rm -f /etc/apt/sources.list.d/sogoupinyin.list
+echo "安装成功，请退出当前登录，重新登录，让安装生效。"
