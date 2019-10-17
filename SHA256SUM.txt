@@ -1,8 +1,0 @@
-1ee9f02842e6c2c8c79c48b2e932074f9c213a8eb4238e5e63f20438562fecbb  ./netease-cloud-music/netease-cloud-music_1.2.1_amd64_ubuntu_20190428.deb
-bbfd2ed65fc540f96d7d3ab0f626803c2638e2d8da04b6291f13ca2e832ec72a  ./deepin/deepin-keyring_2019.01.09-1+stable_all.deb
-9f4e15a9fc934143713e2912562f357186edeb38e21d26b598475c9342343185  ./qq/deepin.com.qq.im_8.9.19983deepin23_i386.deb
-4d6161a694e4efaa7f918dea9839cccc9a928340417a260be28c370bc2dd74f5  ./youdao-dict/youdao-dict_1.1.0-0-deepin_amd64.deb
-24b825423d46724d9695677809821673af0a30731edb8393e578164710acc141  ./baidunetdisk/baidunetdisk_linux_2.0.2.deb
-d25d3fb7c55ba9d71a022efbad8807450dbae55760bca922020d5526801cbd5f  ./wps/wps-office_11.1.0.8865_amd64.deb
-497481e27a2fbb7899c9b030f978372e17467ba332c958c2fd9d1a76ec4e40df  ./wps/wps-office-fonts_1.0_all.deb
-a96a6945d5e7c63a1f4a354d92642dfaff5241231cca28818abf107656015eaf  ./wechat/electronic-wechat_2.0.1_amd64.deb
