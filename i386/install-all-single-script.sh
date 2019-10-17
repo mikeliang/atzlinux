@@ -6,6 +6,7 @@ apt -y install software-properties-common
 apt-add-repository 'deb http://118.24.9.73/debian/ stable main non-free'
 dpkg --add-architecture i386
 apt update
+apt -y install xdg-utils
 apt -y install  \
 deepin.com.qq.im \
 sogoupinyin \
