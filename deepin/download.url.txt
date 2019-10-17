@@ -1,1 +1,0 @@
-http://mirrors.huaweicloud.com/deepin/pool/main/d/deepin-keyring/deepin-keyring_2019.01.09-1+stable_all.deb
