@@ -31,9 +31,8 @@ Debian 是一款非常优秀的 Linux 操作系统，但默认安装缺少中国
 ## 一键安装脚本
 在终端命令行，用 root 执行如下命令即可：
 
-wget https://gitee.com/atzlinux/debian-cn/blob/apt-install/install-all-single-script.sh
-
-. ./install-all-single-script.sh
+wget http://118.24.9.73/debian/download/install-all-single-script.sh
+.  ./install-all-single-script.sh
 
 #### 安装完成后，请退出当前登录的图像界面，再重新登录，让所有安装生效。
 
