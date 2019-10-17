@@ -11,3 +11,5 @@ sogoupinyin \
 electronic-wechat \
 youdao-dict \
 wps-office wps-office-fonts
+
+rm -fv /etc/apt/sources.list.d/sogoupinyin.list
