@@ -30,17 +30,15 @@ Debian 是一款非常优秀的 Linux 操作系统，但默认安装缺少中国
 
 #### (一)下载安装文件
 
-有如下几种方式下载安装文件，请根据自身情况选择一种下载：
+##### 1.用终端命令行从码云下载安装包
 
-##### 1.用 git
+wget https://gitee.com/atzlinux/debian-cn/repository/archive/apt-install.zip
 
-git clone https://gitee.com/atzlinux/debian-cn.git
+unzip apt-install.zip 
 
 cd debian-cn
 
-git checkout apt-install
-
-##### 2.从码云下载安装包
+##### 2.用浏览器从码云下载安装包
 
 需用用浏览器打开如下网址，并在码云注册登录。
 
