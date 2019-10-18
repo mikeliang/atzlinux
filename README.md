@@ -3,7 +3,7 @@
 #### 介绍
 debian-cn 项目地址：
 
-https://gitee.com/atzlinux/debian-cn
+https://gitee.com/atzlinux/debian-cn/tree/apt-install/
 
 Debian 是一款非常优秀的 Linux 操作系统，但默认安装缺少中国人常用的软件。
 本项目的目的是收集这些常用软件，利用自动化脚本在 Debian 上一键安装，节省大家定制 Debian 的时间。
@@ -30,10 +30,15 @@ Debian 是一款非常优秀的 Linux 操作系统，但默认安装缺少中国
 
 ## 一键安装脚本
 在终端命令行，用 root 执行如下命令即可：
-
+* 下载一键安装脚本
 wget http://118.24.9.73/debian/download/install-all-single-script.sh
 
+注：i386 32 位的机器，请下载：
+wget http://118.24.9.73/debian/download/i386/install-all-single-script.sh
+
+* 执行安装
 .  ./install-all-single-script.sh
+注：都是英文的 点 空格 点，表示在当前路径执行该脚本。
 
 #### 安装完成后，请退出当前登录的图像界面，再重新登录，让所有安装生效。
 
@@ -44,18 +49,6 @@ wget http://118.24.9.73/debian/download/install-all-single-script.sh
 apt update
 
 apt upgrade
-
-#### 问题排查
-1.安装时出现依赖性报错
-
-请检查您 Debian 系统原有的安装源仓库设置是否完整。
-我本人的安装源文件： /etc/apt/sources.list 包含有如下这行：
-
-deb http://mirrors.163.com/debian buster main non-free contrib
-
-设置好安装源后，运行  apt update 更新安装源软件列表，再重新执行本项目的安装脚本。
-
-如果还有依赖性问题，请联系我反馈，联系方式见本文最后。
 
 #### 联系方式
 
