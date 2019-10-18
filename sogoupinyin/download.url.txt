@@ -1,2 +1,5 @@
 # https://pinyin.sogou.com/linux/
+# version 2.2.0.0108
 http://cdn2.ime.sogou.com/dl/index/1524572264/sogoupinyin_2.2.0.0108_amd64.deb?st=BN0Em1lJ_UaP3N9q5i3L9A&e=1570243807&fn=sogoupinyin_2.2.0.0108_amd64.deb
+# version 2.3.1.0112
+http://cdn2.ime.sogou.com/dl/index/1571302197/sogoupinyin_2.3.1.0112_amd64.deb?st=x_sbxD4RrG1tvywaRYDD_Q&e=1571370757&fn=sogoupinyin_2.3.1.0112_amd64.deb
