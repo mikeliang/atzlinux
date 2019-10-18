@@ -49,7 +49,7 @@ wget http://118.24.9.73/debian/download/i386/install-all-single-script.sh
 .  ./install-all-single-script.sh
 `*
 
-注：都是英文的 点 空格 点，表示在当前路径执行该脚本。
+注：前面是英文的 点 空格 点，表示在当前路径执行该脚本。
 
 #### 安装完成后，请退出当前登录的图像界面，再重新登录，让所有安装生效。
 
@@ -57,18 +57,24 @@ wget http://118.24.9.73/debian/download/i386/install-all-single-script.sh
 
 一键更新 debian-cn 项目所有软件包
 
+*`
 apt update
+`*
 
+*`
 apt upgrade
+`*
 
 #### 联系方式
 
 对本项目的任何意见和建议，欢迎用如下任一方式联系。
-*
+
 邮箱：atzlinux@yeah.net
+
 微信：atzlinux
+
 QQ：  909868357
-*
+
 访问：https://gitee.com/atzlinux/debian-cn  发表点评，报告问题，提交需求。
 
 #### 免责声明
