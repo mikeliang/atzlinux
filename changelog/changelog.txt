@@ -49,6 +49,9 @@ https://gitee.com/atzlinux/debian-cn/tree/apt-install/
 
 http://118.24.9.73/debian/download/changelog.txt
 
+#### 免责声明
+本项目基于开源软件和各个厂家的商业软件集成，对使用此项目的造成任何问题和损失，本人和本项目以及参与该项目的任何人，均不承担任何赔偿责任。
+本项目基于 Debian ，但不属于 Debian 官方。本项目的任何问题，均与 Debian 官方项目无关。
 -------------------------------------------------------------------------------------------------
 
 ===== Debian-cn 2019.10.18 ===
@@ -83,7 +86,7 @@ apt upgrade
 
 在终端命令行，用 root 执行如下命令即可：
 
-    下载一键安装脚本
+   下载一键安装脚本
 
 wget http://118.24.9.73/debian/download/install-all-single-script.sh
 
