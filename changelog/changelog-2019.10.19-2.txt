@@ -1,0 +1,46 @@
+===== Debian-cn 2019.10.18-2 ===
+
+《Debian-cn 中文套件软件更新通知 -- lightdm-gtk-greeter_2.0.6-1-debian-cn》
+
+lightdm-gtk-greeter 是一个登录管理器，目前 Debian 稳定版 10.1
+里该软件，版本号为 2.0.6-1，中文翻译不完整。
+
+更新的 lightdm-gtk-greeter_2.0.6-1-debian-cn
+软件包，包含了上游最新的中文翻译。
+
+== 对已经安装过 Debian-cn 中文套件的用户，执行：
+
+apt update
+
+apt upgrade
+
+即可完成升级。
+
+
+== 新用户请使用下面的一键安装脚本命令直接安装：
+
+在终端命令行，用 root 依次执行如下命令即可：
+
+1.下载一键安装脚本
+
+wget http://118.24.9.73/debian/download/install-all-single-script.sh
+
+注：i386 32 位的机器，请下载：
+
+wget http://118.24.9.73/debian/download/i386/install-all-single-script.sh
+
+2.执行安装
+
+. ./install-all-single-script.sh
+
+注：前面是英文的 点 空格 点，表示在当前路径执行该脚本。
+
+3.完成升级 
+
+apt upgrade
+
+== 欢迎大家使用 Debian-cn 中文套件。
+
+项目网址：
+
+https://gitee.com/atzlinux/debian-cn/tree/apt-install/
