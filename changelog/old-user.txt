@@ -34,3 +34,7 @@ apt upgrade
 项目网址：
 
 https://gitee.com/atzlinux/debian-cn/tree/apt-install/
+
+本项目软件包更新日志：
+
+http://118.24.9.73/debian/download/changelog.txt

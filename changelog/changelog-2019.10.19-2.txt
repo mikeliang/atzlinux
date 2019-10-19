@@ -12,7 +12,7 @@ lightdm-gtk-greeter 是一个登录管理器，目前 Debian 稳定版 10.1
 
 apt update
 
-apt upgrade
+apt -y install lightdm-gtk-greeter
 
 即可完成升级。
 
@@ -37,10 +37,14 @@ wget http://118.24.9.73/debian/download/i386/install-all-single-script.sh
 
 3.完成升级 
 
-apt upgrade
+apt -y install lightdm-gtk-greeter
 
 == 欢迎大家使用 Debian-cn 中文套件。
 
 项目网址：
 
 https://gitee.com/atzlinux/debian-cn/tree/apt-install/
+
+本项目软件包更新日志：
+
+http://118.24.9.73/debian/download/changelog.txt
