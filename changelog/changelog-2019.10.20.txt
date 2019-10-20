@@ -1,10 +1,16 @@
+===== Debian-cn 2019.10.20 ===
+
+《Debian-cn 中文套件软件新增通知 -- debian-cn-fonts》
+
+debian-cn-fonts 软件包安装一些常用的中文字体。
+
 == 对已经安装过 Debian-cn 中文套件的用户，执行：
 
 apt update
 
-apt upgrade
+apt -y install debian-cn-fonts
 
-即可完成升级。
+即可完成安装。
 
 
 == 新用户请使用下面的一键安装脚本命令直接安装：
