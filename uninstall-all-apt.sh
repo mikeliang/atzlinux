@@ -10,6 +10,8 @@ electronic-wechat \
 youdao-dict \
 wps-office wps-office-fonts
 
+apt -y purge debian-cn-fonts
+
 echo "开始卸载不需要使用的中文软件依赖包 ..."
 apt -y autoremove
 
