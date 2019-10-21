@@ -4,7 +4,7 @@ echo "开始安装 Debian-cn 中文套件 ..."
 ./install-debian-cn-repo.sh
 
 apt -y install xdg-utils
-apt -y install xsettingsd
+apt -y install xfce4-settings
 apt -y install libcanberra-gtk-module
 
 apt -y install  \

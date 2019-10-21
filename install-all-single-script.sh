@@ -7,7 +7,7 @@ apt-add-repository 'deb http://118.24.9.73/debian/ stable main non-free'
 dpkg --add-architecture i386
 apt update
 apt -y install xdg-utils
-apt -y install xsettingsd
+apt -y install xfce4-settings
 apt -y install libcanberra-gtk-module
 apt -y install libcanberra-gtk-module:i386
 apt -y install  \
