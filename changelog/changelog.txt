@@ -9,7 +9,7 @@ QQ 在 KDE、MATE 等桌面环境下，需要依赖 xsettingsd 才能够启动�
 == 对已经安装过 Debian-cn 中文套件的用户，执行：
 
 apt update
-apt -y install xsettingsd
+apt -y install xfce4-settings
 apt -y install libcanberra-gtk-module
 apt -y install libcanberra-gtk-module:i386
 sed -i '11 i\xfsettingsd --display :0.0 & \n' /opt/deepinwine/apps/Deepin-QQ/run.sh
