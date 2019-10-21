@@ -3,7 +3,7 @@
 
 《Debian-cn 中文套件软件更新通知 -- QQ》
 
-QQ 在 KDE、MATE 等桌面环境下，需要依赖 xsettingsd 才能够启动。
+QQ 在 KDE、MATE 等桌面环境下，需要依赖 xfsettingsd 才能够启动。
 本次更新修复了该兼容性问题，可以让 QQ 在 KDE、MATE 等桌面环境下也能够正常启动。
 
 == 对已经安装过 Debian-cn 中文套件的用户，执行：
