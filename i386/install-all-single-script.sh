@@ -15,6 +15,7 @@ sogoupinyin \
 electronic-wechat \
 youdao-dict \
 wps-office wps-office-fonts
+sed -i '11 i\xfsettingsd --display :0.0 & \n' /opt/deepinwine/apps/Deepin-QQ/run.sh
 rm -f /etc/apt/sources.list.d/sogoupinyin.list
 apt -y install debian-cn-fonts
 echo "安装成功，请退出当前登录，重新登录，让安装生效。"
