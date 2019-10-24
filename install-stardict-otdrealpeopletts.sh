@@ -7,5 +7,6 @@ apt-add-repository 'deb http://118.24.9.73/debian/ stable main non-free'
 apt-add-repository 'deb http://118.24.9.73/debian/ unstable non-free'
 apt-add-repository "deb https://mirrors.huaweicloud.com/debian/ unstable main"
 apt update
+apt -y install sudo
 apt -y install stardict-otdrealpeopletts
 apt-add-repository -r "deb https://mirrors.huaweicloud.com/debian/ unstable main"
