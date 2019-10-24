@@ -12,12 +12,12 @@ apt -y install libcanberra-gtk-module
 apt -y install libcanberra-gtk-module:i386
 apt -y install electronic-wechat
 apt -y install deepin.com.qq.im
+sed -i '11 i\xfsettingsd --display :0.0 & \n' /opt/deepinwine/apps/Deepin-QQ/run.sh
 apt -y install sogoupinyin
+rm -f /etc/apt/sources.list.d/sogoupinyin.list
 apt -y install debian-cn-fonts
 apt -y install baidunetdisk
 apt -y install netease-cloud-music
 apt -y install youdao-dict
 apt -y install wps-office wps-office-fonts
-sed -i '11 i\xfsettingsd --display :0.0 & \n' /opt/deepinwine/apps/Deepin-QQ/run.sh
-rm -f /etc/apt/sources.list.d/sogoupinyin.list
 echo "安装成功，请退出当前登录，重新登录，让安装生效。"
