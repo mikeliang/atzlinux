@@ -67,6 +67,9 @@ apt update
 apt upgrade
 `*
 
+<a href="http://118.24.9.73/debian/download/changelog.txt" target="_blank">
+项目更新日志</a>
+
 #### 联系方式
 
 对本项目的任何意见和建议，欢迎用如下任一方式联系。
