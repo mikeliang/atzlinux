@@ -11,8 +11,7 @@ apt -y install xfce4-settings
 apt -y install libcanberra-gtk-module
 apt -y install libcanberra-gtk-module:i386
 apt -y install electronic-wechat
-apt -y install deepin.com.qq.im
-sed -i '11 i\xfsettingsd --display :0.0 & \n' /opt/deepinwine/apps/Deepin-QQ/run.sh
+apt -y install linuxqq
 apt -y install sogoupinyin
 rm -f /etc/apt/sources.list.d/sogoupinyin.list
 apt -y install debian-cn-fonts
