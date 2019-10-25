@@ -1,0 +1,2 @@
+# https://yunpan.360.cn/index/download#Linux
+http://down.360safe.com/360eyun/360cloud-1.0.0.1010-deepin-x86_64.deb
