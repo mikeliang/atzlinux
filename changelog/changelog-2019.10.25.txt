@@ -1,0 +1,48 @@
+===== Debian-cn 2019.10.25 ===
+
+《Debian-cn 中文套件新增软件通知 -- linuxqq 腾讯官方版本 QQ》
+
+== 对已经安装过 Debian-cn 中文套件的用户，执行：
+
+apt update
+
+apt -y install linuxqq
+
+即可完成安装。
+
+
+== 新用户请使用下面的一键安装脚本命令直接安装 debian-cn 中文套件：
+
+在终端命令行，用 root 依次执行如下命令即可：
+
+1.下载一键安装脚本
+
+wget http://118.24.9.73/debian/download/install-all-single-script.sh
+
+注：
+linuxqq 腾讯官方没有推出 32 位的版本，i386 32 位的机器，请下载：
+
+wget http://118.24.9.73/debian/download/i386/install-all-single-script.sh
+
+安装 wine qq。
+
+2.执行安装
+
+. ./install-all-single-script.sh
+
+注：前面是英文的 点 空格 点，表示在当前路径执行该脚本。
+
+== 欢迎大家使用 Debian-cn 中文套件。
+
+项目网址：
+
+https://gitee.com/atzlinux/debian-cn/tree/apt-install/
+
+本项目软件包更新日志：
+
+http://118.24.9.73/debian/download/changelog.txt
+
+#### 免责声明
+本项目基于开源软件和各个厂家的商业软件集成，对使用此项目的造成任何问题和损失，本人和本项目以及参与该项目的任何人，均不承担任何赔偿责任。
+本项目基于 Debian ，但不属于 Debian 官方。本项目的任何问题，均与 Debian 官方项目无关。
+--------------------------------------------------------------------------------
