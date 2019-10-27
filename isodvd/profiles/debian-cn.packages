@@ -3,8 +3,8 @@ firefox-esr-l10n-zh-cn
 iftop
 iotop
 libcanberra-gtk-module
-libcanberra-gtk-module:i386
 software-properties-common
+sudo
 task-chinese-s
 task-chinese-s-desktop
 task-desktop
@@ -13,7 +13,17 @@ task-laptop
 task-mate-desktop
 task-xfce-desktop
 tcpdump
+ttf-wqy-microhei
 wget
 whois
 xdg-utils
 xfce4-settings
+debian-cn-archive-keyring
+electronic-wechat
+linuxqq
+sogoupinyin
+debian-cn-fonts
+baidunetdisk
+netease-cloud-music
+youdao-dict
+wps-office-fonts
