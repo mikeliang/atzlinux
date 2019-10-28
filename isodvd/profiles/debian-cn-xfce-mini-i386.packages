@@ -4,6 +4,7 @@ zhcon
 sudo
 iftop
 iotop
+network-manager
 wget
 whois
 dnsutils
