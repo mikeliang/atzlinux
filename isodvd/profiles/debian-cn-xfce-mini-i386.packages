@@ -1,3 +1,4 @@
+file
 psmisc
 gpm
 zhcon
@@ -36,5 +37,6 @@ libbsd0
 deepin.com.qq.im
 youdao-dict
 debian-cn-fonts
+at-spi2-core
 wps-office
 wps-office-fonts
