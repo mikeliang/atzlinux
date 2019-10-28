@@ -29,6 +29,7 @@ python3-sip
 openssh-server
 debian-cn-archive-keyring
 sogoupinyin
+libnss3
 electronic-wechat
 libbsd0
 deepin.com.qq.im
