@@ -94,7 +94,7 @@ d-i netcfg/wireless_wep string
 
 ### Mirror settings
 # If you select ftp, the mirror/country string does not need to be set.
-d-i mirror/protocol string http
+d-i mirror/protocol string https
 d-i mirror/country string manual
 d-i mirror/http/hostname string mirrors.huaweicloud.com
 d-i mirror/http/directory string /debian
@@ -119,8 +119,8 @@ d-i passwd/root-password-again password debian-cn;168
 #d-i passwd/root-password-crypted password [crypt(3) hash]
 
 # To create a normal user account.
-d-i passwd/user-fullname string Debian-cn User
-d-i passwd/username string debian-cn
+d-i passwd/user-fullname string wo
+d-i passwd/username string wo
 # Normal user's password, either in clear text
 d-i passwd/user-password password debian168;
 d-i passwd/user-password-again password debian168;
@@ -296,8 +296,8 @@ d-i apt-setup/contrib boolean true
 #d-i apt-setup/use_mirror boolean false
 # Select which update services to use; define the mirrors to be used.
 # Values shown below are the normal defaults.
-#d-i apt-setup/services-select multiselect security, updates
-d-i apt-setup/security_host string mirrors.163.com/debian-security
+d-i apt-setup/services-select multiselect security, updates, proposed-updates, backports
+d-i apt-setup/security_host string mirrors.huaweicloud.com
 
 # Additional repositories, local[0-9] available
 #d-i apt-setup/local0/repository string \
@@ -353,9 +353,9 @@ d-i grub-installer/with_other_os boolean true
 
 # Due notably to potential USB sticks, the location of the MBR can not be
 # determined safely in general, so this needs to be specified:
-#d-i grub-installer/bootdev  string /dev/sda
+d-i grub-installer/bootdev  string /dev/sda
 # To install to the first device (assuming it is not a USB stick):
-#d-i grub-installer/bootdev  string default
+d-i grub-installer/bootdev  string default
 
 # Alternatively, if you want to install to a location other than the mbr,
 # uncomment and edit these lines:
