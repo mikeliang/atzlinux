@@ -48,3 +48,6 @@ xfce4-settings
 xserver-xorg-video-intel
 youdao-dict
 zhcon
+build-essential
+iproute2
+bash-completion
