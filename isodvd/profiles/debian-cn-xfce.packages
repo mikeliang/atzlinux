@@ -1022,3 +1022,14 @@ xfconf
 xfdesktop4
 xfdesktop4-data
 xfwm4
+fcitx-config-common
+fcitx-config-gtk
+fcitx-frontend-all
+fcitx-frontend-qt5
+fcitx-googlepinyin
+fcitx-m17n
+fcitx-module-x11
+fcitx-sunpinyin
+fcitx-table
+fcitx-table-wubi
+fcitx-ui-classic
