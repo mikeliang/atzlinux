@@ -51,3 +51,4 @@ zhcon
 build-essential
 iproute2
 bash-completion
+simple-cdd
