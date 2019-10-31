@@ -38,4 +38,7 @@ vim
 alien
 iptables
 smartmontools
+hdparm
+sdparm
 genisoimage
+debian-cd
