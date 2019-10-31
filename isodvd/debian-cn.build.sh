@@ -1,1 +1,1 @@
-build-simple-cdd --dvd --proposed-updates --dist buster --locale zh_CN --keyboard us --security-mirror https://mirrors.huaweicloud.com/debian-security/ --debian-mirror https://mirrors.huaweicloud.com/debian/  -b debian-cn.build
+build-simple-cdd --debug --dvd --proposed-updates --dist buster --locale zh_CN --keyboard us --security-mirror https://mirrors.huaweicloud.com/debian-security/ --debian-mirror https://mirrors.huaweicloud.com/debian/  -b debian-cn.build
