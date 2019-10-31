@@ -37,11 +37,9 @@ gpm
 greybird-gtk-theme
 gtk2-engines-xfce
 gtk3-engines-xfce
-gwyddion
 gxmessage
 iftop
 iotop
-kdocker
 libbsd0
 libcanberra-gtk-module
 libexo-1-0
@@ -78,14 +76,12 @@ nx-x11-common
 openssh-server
 orage
 orage-data
-package-update-indicator
 parole
 pekwm-themes
 policykit-1-gnome
 psmisc
 python3-pyqt5
 python3-sip
-revolt
 ristretto
 ruby-test-unit-notify
 shared-mime-info
@@ -103,7 +99,6 @@ thunar
 thunar-data
 traceroute
 vala-sntray-plugin
-wbar
 wget
 whois
 wicd
@@ -166,7 +161,6 @@ xfce-keyboard-shortcuts
 xfconf
 xfdesktop4
 xfdesktop4-data
-xfe
 xfwm4
 xfwm4-theme-breeze
 xnest
@@ -222,3 +216,8 @@ xserver-xorg-video-vesa
 xserver-xorg-video-vmware
 youdao-dict
 zhcon
+chromium-l10n
+thunderbird-l10n-zh-cn
+hddtemp
+synaptic
+pavucontrol
