@@ -12,6 +12,18 @@ apt -y install libcanberra-gtk-module
 apt -y install libcanberra-gtk-module:i386
 apt -y install electronic-wechat
 apt -y install linuxqq
+apt -y install \
+fcitx-config-common \
+fcitx-config-gtk \
+fcitx-frontend-all \
+fcitx-frontend-qt5 \
+fcitx-googlepinyin \
+fcitx-m17n \
+fcitx-module-x11 \
+fcitx-sunpinyin \
+fcitx-table-wubi \
+fcitx-table-wbpy \
+fcitx-ui-classic
 apt -y install sogoupinyin
 rm -f /etc/apt/sources.list.d/sogoupinyin.list
 apt -y install debian-cn-fonts

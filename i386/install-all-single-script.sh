@@ -9,6 +9,18 @@ apt update
 apt -y install xdg-utils
 apt -y install xfce4-settings
 apt -y install libcanberra-gtk-module
+apt -y install \
+fcitx-config-common \
+fcitx-config-gtk \
+fcitx-frontend-all \
+fcitx-frontend-qt5 \
+fcitx-googlepinyin \
+fcitx-m17n \
+fcitx-module-x11 \
+fcitx-sunpinyin \
+fcitx-table-wubi \
+fcitx-table-wbpy \
+fcitx-ui-classic
 apt -y install  \
 deepin.com.qq.im \
 sogoupinyin \
