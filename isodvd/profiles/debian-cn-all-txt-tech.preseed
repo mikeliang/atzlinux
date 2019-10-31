@@ -113,8 +113,8 @@ d-i mirror/http/proxy string
 #d-i passwd/make-user boolean false
 
 # Root password, either in clear text
-d-i passwd/root-password password debian-cn;168
-d-i passwd/root-password-again password debian-cn;168
+passwd root-password password debian-cn;168
+passwd root-password-again password debian-cn;168
 # or encrypted using a crypt(3)  hash.
 #d-i passwd/root-password-crypted password [crypt(3) hash]
 
@@ -122,8 +122,8 @@ d-i passwd/root-password-again password debian-cn;168
 d-i passwd/user-fullname string wo
 d-i passwd/username string wo
 # Normal user's password, either in clear text
-d-i passwd/user-password password debian168;
-d-i passwd/user-password-again password debian168;
+passwd user-password password debian168;
+passwd user-password-again password debian168;
 # or encrypted using a crypt(3) hash.
 #d-i passwd/user-password-crypted password [crypt(3) hash]
 # Create the first user with the specified UID instead of the default.
