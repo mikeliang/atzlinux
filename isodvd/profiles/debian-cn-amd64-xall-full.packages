@@ -17,8 +17,10 @@ elementary-xfce-icon-theme
 exo-utils
 fcitx-config-common
 fcitx-config-gtk
+fcitx-dbus-status
 fcitx-frontend-all
 fcitx-frontend-qt5
+fcitx-frontend-fbterm
 fcitx-googlepinyin
 fcitx-m17n
 fcitx-module-x11
@@ -221,6 +223,7 @@ pavucontrol
 debian-cn-archive-keyring
 electronic-wechat
 linuxqq
+libqt4-declarative
 sogoupinyin
 debian-cn-fonts
 baidunetdisk
