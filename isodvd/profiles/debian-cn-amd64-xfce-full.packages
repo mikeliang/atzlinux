@@ -221,6 +221,7 @@ pavucontrol
 debian-cn-archive-keyring
 electronic-wechat
 linuxqq
+libqt4-declarative
 sogoupinyin
 debian-cn-fonts
 baidunetdisk
@@ -236,3 +237,4 @@ firmware-linux-nonfree
 firmware-misc-nonfree
 fwupd-amd64-signed
 intel-microcode
+bash-completion
