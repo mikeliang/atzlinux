@@ -76,7 +76,6 @@ openssh-server
 orage
 orage-data
 parole
-pekwm-themes
 policykit-1-gnome
 psmisc
 python3-pyqt5
@@ -241,3 +240,12 @@ task-mate-desktop
 task-gnome-desktop
 cheese
 shadowsocks-qt5
+libindicator3-7
+liblightdm-gobject-1-0
+ttf-mscorefonts-installer
+chromium-sandbox
+fonts-noto-mono
+fonts-noto
+fonts-droid-fallback
+fonts-wqy-zenhei
+xfonts-wqy
