@@ -53,3 +53,7 @@ bash-completion
 wicd-cli
 wicd-curses
 openssh-client
+openssh-server
+build-essential
+iproute2
+simple-cdd

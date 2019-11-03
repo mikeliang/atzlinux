@@ -28,7 +28,6 @@ libnss3
 mtr-tiny
 net-tools
 network-manager
-openssh-server
 psmisc
 python3-pyqt5
 python3-sip
@@ -38,7 +37,6 @@ sudo
 task-chinese-s
 task-chinese-s-desktop
 task-desktop
-task-ssh-server
 task-xfce-desktop
 tcpdump
 traceroute

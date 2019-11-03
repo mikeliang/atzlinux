@@ -72,7 +72,6 @@ network-manager-gnome
 nvidia-xconfig
 nxagent
 nx-x11-common
-openssh-server
 orage
 orage-data
 parole
@@ -90,7 +89,6 @@ sudo
 task-chinese-s
 task-chinese-s-desktop
 task-desktop
-task-ssh-server
 task-xfce-desktop
 tcpdump
 thunar
