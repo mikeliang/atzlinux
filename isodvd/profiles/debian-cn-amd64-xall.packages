@@ -11,7 +11,6 @@ debian-cn-archive-keyring
 debian-cn-fonts
 desktop-profiles
 dnsutils
-education-desktop-xfce
 electronic-wechat
 elementary-xfce-icon-theme
 exo-utils
@@ -292,3 +291,10 @@ thunar-volman
 tumbler 
 tumbler-common  
 xdg-user-dirs 
+wamerican
+libjpeg-turbo-progs
+libhttp-message-perl
+libwww-perl
+liblwp-protocol-https-perl
+libio-socket-ssl-perl
+perl-openssl-defaults
