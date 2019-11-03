@@ -101,8 +101,6 @@ traceroute
 vala-sntray-plugin
 wget
 whois
-wicd
-wicd-gtk
 wps-office
 wps-office-fonts
 x11-xserver-utils
@@ -253,3 +251,8 @@ fonts-droid-fallback
 fonts-wqy-zenhei
 xfonts-wqy
 bash-completion
+libgail-common
+blueman
+ipheth-utils
+usbmuxd
+ifuse
