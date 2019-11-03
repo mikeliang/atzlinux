@@ -52,3 +52,4 @@ intel-microcode
 bash-completion
 wicd-cli
 wicd-curses
+openssh-client
