@@ -50,3 +50,5 @@ firmware-misc-nonfree
 fwupd-amd64-signed
 intel-microcode
 bash-completion
+wicd-cli
+wicd-curses
