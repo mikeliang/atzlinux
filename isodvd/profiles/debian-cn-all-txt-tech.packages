@@ -57,3 +57,4 @@ openssh-server
 build-essential
 iproute2
 simple-cdd
+jigdo-file
