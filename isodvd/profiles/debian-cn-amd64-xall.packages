@@ -138,7 +138,6 @@ xfce4-pulseaudio-plugin
 xfce4-screenshooter
 xfce4-sensors-plugin
 xfce4-session
-xfce4-settings
 xfce4-smartbookmark-plugin
 xfce4-sntray-plugin
 xfce4-sntray-plugin-common
@@ -298,3 +297,5 @@ libwww-perl
 liblwp-protocol-https-perl
 libio-socket-ssl-perl
 perl-openssl-defaults
+xfce4-settings
+gimp
