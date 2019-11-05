@@ -51,3 +51,5 @@ xserver-xorg-video-intel
 youdao-dict
 zhcon
 bash-completion
+bzip2
+xz-utils
