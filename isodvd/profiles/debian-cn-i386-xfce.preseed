@@ -296,3 +296,8 @@ d-i finish-install/reboot_in_progress note
 # packages and run commands in the target system.
 #d-i preseed/late_command string apt-install zsh; in-target chsh -s /bin/zsh
 
+
+d-i apt-setup/local0/repository string \
+	http://118.24.9.73/debian main contrib non-free
+d-i apt-setup/local0/comment string debian-cn project apt source
+
