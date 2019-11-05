@@ -298,6 +298,6 @@ d-i finish-install/reboot_in_progress note
 
 
 d-i apt-setup/local0/repository string \
-	http://118.24.9.73/debian main contrib non-free
+	http://118.24.9.73/debian buster  main contrib non-free
 d-i apt-setup/local0/comment string debian-cn project apt source
 
