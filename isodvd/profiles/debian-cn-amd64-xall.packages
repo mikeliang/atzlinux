@@ -1,3 +1,7 @@
+rar
+unrar
+bzip2
+xz-utils
 albatross-gtk-theme
 arc-theme
 at-spi2-core
@@ -306,8 +310,4 @@ mate-utils
 mate-applets
 mate-icon-theme-faenza
 mate-power-manager
-rar
-unrar
 deepin.com.qq.im
-bzip2
-xz-utils
