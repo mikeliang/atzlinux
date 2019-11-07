@@ -179,7 +179,6 @@ libxfce4util-common
 libxfconf-0-2
 lightdm
 lightdm-gtk-greeter
-live-task-xfce
 lxappearance
 lxtask
 mate-sntray-plugin
@@ -209,7 +208,6 @@ sudo
 task-chinese-s
 task-chinese-s-desktop
 task-desktop
-task-xfce-desktop
 tcpdump
 thunar
 thunar-data
