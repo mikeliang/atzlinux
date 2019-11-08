@@ -20,6 +20,10 @@ Debian-cn 中文操作系统说明
 
     中文字体
 
+操作系统安装好后的屏幕截图：
+
+http://debian-cn.lilishare.com/debian/img/jieping.png
+
 ## 下载
 
 安装文件大小约 2G，安装文件下载地址：
