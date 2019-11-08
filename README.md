@@ -77,6 +77,12 @@ apt upgrade
 <a href="http://118.24.9.73/debian/download/changelog.txt" target="_blank">
 项目更新日志</a>
 
+#### 桌面截屏
+
+安装完成后，各个软件在同一个屏幕展示的截屏如下：
+
+<img src="https://gitee.com/atzlinux/debian-cn/raw/apt-install/img/jieping.png">
+
 #### 联系方式
 
 对本项目的任何意见和建议，欢迎用如下任一方式联系。
