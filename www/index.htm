@@ -1,0 +1,131 @@
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>Debian Linux 中文操作系统</title>
+</head>
+<body>
+<h1>Debian Linux 中文操作系统</h1>
+
+<p>
+<a href="https://www.debian.org" target="_blank">
+Debian</a> 是一款非常优秀的 Linux 操作系统，但默认安装缺少中国人常用的软件。
+Debian Linux 中文操作系统收集这些常用软件，一次性安装完成，节省大家定制 Debian 的时间。
+<br>本操作系统承诺 100% 和 Debian 兼容。
+</p>
+目前收录的中文软件包如下：
+<ul>
+	<li>QQ</li>
+	<li>微信</li>
+	<li>百度网盘</li>	
+	<li>搜狗输入法</li>
+	<li>网易云音乐</li>
+	<li>有道词典</li>
+	<li>WPS</li>
+	<li>中文字体</li>
+</ul>
+
+<h3>桌面截屏</h3>
+安装完成后，各个软件在同一个屏幕展示的截屏如下：
+<p>
+<img src="http://debian-cn.lilishare.com/debian/img/jieping.png" alt="屏幕截屏">
+</p>
+
+<h3>下载</h3>
+
+安装文件大小约 2G，安装文件下载地址：
+
+1.源站下载
+http://118.24.9.73/debian-cd/current/amd64/iso-dvd/debian-10-amd64-DVD-1.iso
+
+2.CDN 下载
+http://debian-cn.lilishare.com/debian-cd/current/amd64/iso-dvd/debian-10-amd64-DVD-1.iso
+
+
+<h3>制作安装 U 盘</h3>
+
+建议使用 U 盘制作 iso 文件安装盘进行安装：
+
+在任一 Linux 系统下，可以使用如下命令制作安装 U 盘：（假设 U 盘为 /dev/sdb,U 盘的盘符可以在 U 盘插入后，用 dmesg 看到）
+请用 root 账号执行：
+
+dd if=debian-10-amd64-i386-DVD-1.iso of=/dev/sdb bs=8M
+
+其它操作系统可以用各类光盘镜像制作软件制作。
+
+<h3>BIOS 设置</h3>
+重启机器，在 BIOS 或 EFI 里面设置为 U 盘启动。该镜像同时支持老的 BIOS 主板和新的 EFI 主板。
+
+## 安装过程
+本 iso 文件的安装过程，已经进行了大量自动化定制，节省安装过程的人为输入。
+
+安装过程中，需要人工介入输入的信息如下：
+
+1.如果是用 WiFi 连接网络，需要输入选择使用哪个 WiFi，并输入WiFi 密码；如果是网线接入，这个步骤省略。
+
+2.对磁盘进行分区。
+至少需要 7G 空间才可以完成安装，建议 10G 以上。支持多系统共存。
+
+<h3>用户登录</h3>
+安装完成后，机器会自动重启进入新系统用户名密码输入提示界面。
+<ul>
+	<li>root 用户可以直接登录系统，密码为：  debian-cn;168</li>
+	<li>普通用户名为： wo ，密码为：  debian168;</li>	
+</ul>
+
+请登录机器后，在命令行用 passwd 及时修改密码。
+
+## 
+机器默认主机名为：  debian-cn
+
+##
+用户登录时，可以在右上角选择登录环境，目前支持 xfce，MATE，gnome 三种桌面环境。
+
+
+<h3>已知问题：</h3>
+<ul>
+<li>安装阶段：</li>
+<ol>
+<li>部分笔记本电脑触控板在图形安装时，无法使用；在操作系统安装完成后能正常工作。请使用非图形安装，或者用键盘操作图形安装。</li>
+</ol>
+<li>使用中：</li>
+<ol> 
+<li>wps 在第一次打开时会有一个报错框弹出，请关闭即可</li>
+<li>linuxqq 消息提示框不停闪烁，是 bug，需要腾讯后续发布新版本解决。</li></ol></ul>
+</ul>
+
+<h2>更新升级</h2>
+一键更新所有软件包到最新版本：
+<p>
+<i>
+apt update
+<br>
+apt upgrade
+</i>
+</p>
+<a href="http://118.24.9.73/debian/download/changelog.txt" target="_blank">
+更新日志</a>
+
+
+<h2>开发</h2>
+遵循 GPL3.0 协议,项目源代码地址：
+<p>
+<a href="https://gitee.com/atzlinux/debian-cn/tree/apt-install/" target="_blank">
+https://gitee.com/atzlinux/debian-cn/tree/apt-install/
+</a></p>
+欢迎各位参与!
+<h2>联系方式</h2>
+欢迎提供意见、建议，请用如下任一方式联系。
+<ul>
+	<li>邮箱：<a href="mailto:atzlinux@yeah.net" >atzlinux@yeah.net</a></li>
+	<li>微信：<a href="./img/wechat-debian-cn.png" target="_blank" >atzlinux</a></li>
+	<li>QQ： <a href="https://user.qzone.qq.com/909868357/main" target="_blank" >909868357</a></li>
+</ul>
+<p>
+欢迎：<a href="https://gitee.com/atzlinux/debian-cn/tree/apt-install/" target="_blank">发表点评</a>，<a href="https://gitee.com/atzlinux/debian-cn/issues" target="_blank">反馈问题，提交需求</a>。
+</p>
+<h2>免责声明</h2>
+<p>本操作系统基于开源软件和各个厂家的商业软件集成，对使用此操作系统造成的任何问题和损失，均不承担任何赔偿责任。<br>
+本项目基于 Debian ，但不属于 Debian 官方。本项目的任何问题，均与 Debian 官方项目无关。</p>
+<p><a href="http://bluefish.openoffice.nl/" target="_blank">Made with Bluefish HTML editor.</a></p>
+</body>
+</html>
