@@ -5,6 +5,19 @@ cd `dirname $0`; pwd
 
 echo '即将开始安装 ...'
 
+apt -y install \
+fcitx-config-common \
+fcitx-config-gtk \
+fcitx-frontend-all \
+fcitx-frontend-qt5 \
+fcitx-googlepinyin \
+fcitx-m17n \
+fcitx-module-x11 \
+fcitx-sunpinyin \
+fcitx-table-wubi \
+fcitx-table-wbpy \
+fcitx-ui-classic
+
 apt -y install sogoupinyin
 
 rm -fv /etc/apt/sources.list.d/sogoupinyin.list
