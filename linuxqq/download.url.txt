@@ -1,0 +1,2 @@
+# https://im.qq.com/linuxqq/ 
+https://qd.myapp.com/myapp/qqteam/linuxQQ/linuxqq_2.0.0-b1-1024_amd64.deb
