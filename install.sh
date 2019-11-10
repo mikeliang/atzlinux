@@ -3,7 +3,7 @@ cd `dirname $0`; pwd
 echo "开始安装 Debian 中文套件 ..."
 
 echo "开始安装 qq ..."
-./install-qq.sh
+./install-linuxqq.sh
 
 echo "开始安装 wechat ..."
 ./install-wechat.sh
