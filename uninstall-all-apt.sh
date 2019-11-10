@@ -4,11 +4,12 @@ echo "开始卸载 Debian-cn 中文套件 ..."
 apt -y purge  \
 baidunetdisk \
 netease-cloud-music \
-deepin.com.qq.im \
 sogoupinyin \
 electronic-wechat \
 youdao-dict \
 wps-office wps-office-fonts
+
+apt -y purge linuxqq
 
 apt -y purge debian-cn-fonts
 
