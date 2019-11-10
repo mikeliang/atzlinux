@@ -7,6 +7,9 @@ apt -y install xdg-utils
 apt -y install xfce4-settings
 apt -y install libcanberra-gtk-module
 
+# 安装 update-desktop-database 命令
+apt -y install desktop-file-utils
+
 apt -y install  \
 baidunetdisk \
 netease-cloud-music \

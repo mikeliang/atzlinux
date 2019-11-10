@@ -28,6 +28,7 @@ fcitx-ui-classic
 apt -y install sogoupinyin
 rm -f /etc/apt/sources.list.d/sogoupinyin.list
 apt -y install debian-cn-fonts
+apt -y install desktop-file-utils
 apt -y install baidunetdisk
 apt -y install netease-cloud-music
 apt -y install youdao-dict
