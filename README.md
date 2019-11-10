@@ -77,6 +77,12 @@ apt upgrade
 <a href="http://118.24.9.73/debian/download/changelog.txt" target="_blank">
 项目更新日志</a>
 
+
+#### 卸载
+<a href="https://gitee.com/atzlinux/debian-cn/blob/apt-install/uninstall-all-apt.sh" target="_blank">
+请在此处下载卸载脚本执行</a>
+
+
 #### 桌面截屏
 
 安装完成后，各个软件在同一个屏幕展示的截屏如下：
