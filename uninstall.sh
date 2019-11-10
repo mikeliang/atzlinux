@@ -3,7 +3,7 @@ cd `dirname $0`; pwd
 echo "开始卸载 Debian 中文套件 ... ：-（..."
 
 echo "开始卸载  qq ..."
-./qq/uninstall-qq.sh
+./linuxqq/uninstall-linuxqq.sh
 
 echo "开始卸载 wechat ..."
 ./wechat/uninstall-wechat.sh
