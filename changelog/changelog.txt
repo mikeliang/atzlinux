@@ -29,10 +29,7 @@ http://debian-cn.lilishare.com/debian/img/jieping.png
 
 安装文件大小约 2G，安装文件下载地址：
 
-1.源站下载
-http://118.24.9.73/debian-cd/current/amd64/iso-dvd/debian-10-amd64-DVD-1.iso
 
-2.CDN 下载
 http://debian-cn.lilishare.com/debian-cd/current/amd64/iso-dvd/debian-10-amd64-DVD-1.iso
 
 
