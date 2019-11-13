@@ -356,7 +356,6 @@ cheese
 shadowsocks-qt5
 libindicator3-7
 liblightdm-gobject-1-0
-chromium-sandbox
 fonts-noto-mono
 fonts-noto
 fonts-droid-fallback
@@ -456,3 +455,5 @@ bluez-tools
 browser-plugin-freshplayer-pepperflash
 pepperflashplugin-nonfree
 deepin.com.qq.im
+enigmail
+chromium-sandbox
