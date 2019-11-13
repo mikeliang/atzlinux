@@ -1,6 +1,5 @@
 # https://yunpan.360.cn/index/download#Linux
 http://down.360safe.com/360eyun/360cloud-1.0.0.1010-deepin-x86_64.deb
 
-ubuntu版本
-
+ubuntu 版本
 https://yunpan.360.cn/surl_yuJNn4ggU2T 提取码：18ef
