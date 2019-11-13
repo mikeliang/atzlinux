@@ -87,7 +87,7 @@ apt upgrade
 
 安装完成后，各个软件在同一个屏幕展示的截屏如下：
 
-<img src="https://gitee.com/atzlinux/debian-cn/raw/apt-install/img/jieping.png">
+<img src="https://gitee.com/atzlinux/www/raw/master/debian/img/jieping.png">
 
 #### 联系方式
 
@@ -106,5 +106,5 @@ QQ：  909868357
 本项目基于 Debian ，但不属于 Debian 官方。本项目的任何问题，均与 Debian 官方项目无关。
 
 #### 欢迎资助本项目
-<img src="https://gitee.com/atzlinux/debian-cn/raw/apt-install/img/wechat-pay.png">
-<img src="https://gitee.com/atzlinux/debian-cn/raw/apt-install/img/ali-pay.png">
+<img src="https://gitee.com/atzlinux/www/raw/master/debian/img/wechat-pay.png">
+<img src="https://gitee.com/atzlinux/www/raw/master/debian/img/ali-pay.png">
