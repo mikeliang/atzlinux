@@ -1,0 +1,3 @@
+# http://stardict-4.sourceforge.net/index_cn.php
+# http://www.huzheng.org/files/huzheng_stardict.ppt
+http://download.huzheng.org/zh_CN/
