@@ -80,7 +80,7 @@ cifs-utils
 unar
 arj
 lzip
-compress
+ncompress
 hexedit
 atop
 htop

@@ -475,7 +475,7 @@ xchm
 xarchiver
 arj
 lzip
-compress
+ncompress
 filezilla
 dia
 htop
