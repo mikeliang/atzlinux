@@ -239,3 +239,5 @@ exfat-fuse
 network-manager-vpnc-gnome
 vlc
 bleachbit
+smbclient
+cifs-utils

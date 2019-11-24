@@ -75,3 +75,5 @@ laptop-mode-tools
 exfat-fuse
 vpnc
 axel
+smbclient
+cifs-utils
