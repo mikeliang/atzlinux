@@ -85,3 +85,4 @@ atop
 htop
 dstat
 debconf-utils
+acpi-support
