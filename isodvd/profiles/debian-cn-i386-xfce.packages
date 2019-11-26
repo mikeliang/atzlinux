@@ -254,3 +254,7 @@ libaudio-scrobbler-perl
 mpg321
 vlc-l10n
 qterm
+stardict-plugin-spell
+stardict-plugin-espeak
+stardict-dic-data
+stardict-wyabdcrealpeopletts
