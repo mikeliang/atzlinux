@@ -272,6 +272,8 @@ d-i finish-install/reboot_in_progress note
 #   debconf-get-selections --installer > file
 #   debconf-get-selections >> file
 
+# 要修改 smb.conf 以使用从 DHCP 获得的 WINS 设定吗？
+d-i	samba-common/dhcp	boolean	true
 
 #### Advanced options
 ### Running custom commands during the installation
