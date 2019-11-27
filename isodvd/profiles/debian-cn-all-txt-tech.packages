@@ -87,3 +87,4 @@ dstat
 debconf-utils
 acpi-support
 acpica-tools
+tmux
