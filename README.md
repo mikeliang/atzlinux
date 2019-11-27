@@ -32,7 +32,7 @@ Debian 是一款非常优秀的 Linux 操作系统，但默认安装缺少中国
 <b>好消息：安装光盘镜像文件</b>，已经制作完成。重装操作系统的用户，可以直接用本项目的 iso 安装镜像文件，一次性安装好中文环境。
 </p>
 <h2>
-<a href="http://118.24.9.73/debian/download/iso-release-2019-11-08.txt" >
+<a href="http://118.24.9.73" >
 具体请点击这里查看</a></h2>
 
 #### 安装教程
@@ -55,10 +55,8 @@ wget http://118.24.9.73/debian/download/i386/install-all-single-script.sh
 * 执行安装
 
 *`
-.  ./install-all-single-script.sh
+source install-all-single-script.sh
 `*
-
-注：前面是英文的 点 空格 点，表示在当前路径执行该脚本。
 
 #### 安装完成后，请退出当前登录的图像界面，再重新登录，让所有安装生效。
 
