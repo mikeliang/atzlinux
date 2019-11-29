@@ -1,3 +1,4 @@
 # http://pan.baidu.com/download
+# https://pan.baidu.com/disk/version
 #http://issuecdn.baidupcs.com/issue/netdisk/LinuxGuanjia/2.0.2/baidunetdisk_linux_2.0.2.deb
 http://issuecdn.baidupcs.com/issue/netdisk/LinuxGuanjia/3.0.1/baidunetdisk_linux_3.0.1.2.deb
