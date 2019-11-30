@@ -89,3 +89,5 @@ acpi-support
 acpica-tools
 tmux
 aria2
+iw
+wireless-tools
