@@ -13,9 +13,9 @@ net-tools
 traceroute
 mtr-tiny
 tcpdump
-software-properties-common
 task-ssh-server
 openssh-server
+software-properties-common
 debian-cn-archive-keyring
 telnet
 ftp

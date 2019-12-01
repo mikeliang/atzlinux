@@ -1,7 +1,4 @@
 at-spi2-core
-debian-cn-archive-keyring
-debian-cn-fonts
-deepin.com.qq.im
 dnsutils
 electronic-wechat
 fcitx-config-common
@@ -59,3 +56,6 @@ bluez-tools
 browser-plugin-freshplayer-pepperflash
 pepperflashplugin-nonfree
 stardict-wyabdcrealpeopletts
+debian-cn-archive-keyring
+debian-cn-fonts
+deepin.com.qq.im
