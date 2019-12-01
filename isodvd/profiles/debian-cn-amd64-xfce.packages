@@ -7,11 +7,9 @@ bluebird-gtk-theme
 budgie-sntray-plugin
 cairo-dock-gmenu-plug-in
 cairo-dock-xfce-integration-plug-in
-debian-cn-fonts
 desktop-profiles
 dnsutils
 education-desktop-xfce
-electronic-wechat
 elementary-xfce-icon-theme
 exo-utils
 fcitx-config-common
@@ -82,7 +80,6 @@ ruby-test-unit-notify
 shared-mime-info
 shiki-colors-xfwm-theme
 software-properties-common
-sogoupinyin
 sudo
 task-chinese-s
 task-chinese-s-desktop
@@ -97,8 +94,6 @@ wget
 whois
 wicd
 wicd-gtk
-wps-office
-wps-office-fonts
 x11-xserver-utils
 xdg-utils
 xdmx
@@ -207,7 +202,6 @@ xserver-xorg-video-tdfx
 xserver-xorg-video-trident
 xserver-xorg-video-vesa
 xserver-xorg-video-vmware
-youdao-dict
 zhcon
 chromium-l10n
 thunderbird-l10n-zh-cn
@@ -242,7 +236,6 @@ manpages-zh
 bluez-tools
 browser-plugin-freshplayer-pepperflash
 pepperflashplugin-nonfree
-stardict-wyabdcrealpeopletts
 enigmail
 chromium-sandbox
 lunar
