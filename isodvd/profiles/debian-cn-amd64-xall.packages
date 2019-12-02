@@ -283,7 +283,6 @@ xserver-xorg-input-kbd
 xserver-xorg-input-libinput
 xserver-xorg-input-mouse
 xserver-xorg-input-mtrack
-xserver-xorg-input-multitouch
 xserver-xorg-input-mutouch
 xserver-xorg-input-synaptics
 xserver-xorg-input-void
