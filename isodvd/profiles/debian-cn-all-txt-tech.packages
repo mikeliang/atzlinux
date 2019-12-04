@@ -96,3 +96,4 @@ blktrace
 nmap
 cpu-info
 hwinfo
+hwdata
