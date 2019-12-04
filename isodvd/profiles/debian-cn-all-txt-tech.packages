@@ -97,3 +97,4 @@ nmap
 cpu-info
 hwinfo
 hwdata
+ipmitool
