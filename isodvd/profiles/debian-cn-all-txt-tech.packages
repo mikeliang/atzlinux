@@ -99,3 +99,4 @@ hwinfo
 hwdata
 ipmitool
 sntp
+procinfo

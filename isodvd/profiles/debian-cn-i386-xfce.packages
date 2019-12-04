@@ -270,3 +270,4 @@ cpu-info
 hwinfo
 hwdata
 sntp
+procinfo
