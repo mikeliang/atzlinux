@@ -98,3 +98,4 @@ cpu-info
 hwinfo
 hwdata
 ipmitool
+sntp
