@@ -496,4 +496,5 @@ procinfo
 ntpdate
 tlp
 handbrake
+python3-cffi-backend
 youker-assistant
