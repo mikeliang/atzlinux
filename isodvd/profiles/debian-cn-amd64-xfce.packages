@@ -283,3 +283,4 @@ hwdata
 sntp
 procinfo
 ntpdate
+tlp
