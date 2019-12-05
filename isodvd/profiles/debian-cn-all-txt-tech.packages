@@ -94,7 +94,7 @@ wireless-tools
 jetring
 blktrace
 nmap
-cpu-info
+cpuinfo
 hwinfo
 hwdata
 ipmitool
