@@ -101,3 +101,4 @@ ipmitool
 sntp
 procinfo
 lshw
+ntpdate

@@ -493,3 +493,4 @@ hwinfo
 hwdata
 sntp
 procinfo
+ntpdate
