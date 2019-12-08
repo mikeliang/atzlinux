@@ -1,0 +1,1 @@
+build-simple-cdd --debug --dvd --proposed-updates --dist buster --locale zh_CN --keyboard us --security-mirror https://mirrors.cloud.tencent.com/debian-security/ --debian-mirror https://mirrors.cloud.tencent.com/debian/  -b debian-cn.build -p debian-cn-all-txt-tech
