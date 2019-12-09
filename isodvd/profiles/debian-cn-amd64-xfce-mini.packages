@@ -10,6 +10,9 @@ wget
 sudo
 software-properties-common
 
+liblightdm-gobject-1-0
+libindicator3-7
+lightdm
 lightdm-gtk-greeter
 task-chinese-s
 task-chinese-s-desktop
@@ -25,14 +28,20 @@ xfce4-settings
 xfconf
 xfce4-terminal
 
+pavucontrol
+
 mousepad
 
 firefox-esr-l10n-zh-cn
 fonts-wqy-microhei
+fonts-wqy-zenhei
+xfonts-wqy
 
 debian-cn-archive-keyring
 debian-cn-fonts
+ttf-mscorefonts
 electronic-wechat
+libqt4-declarative
 sogoupinyin
 youdao-dict
 baidunetdisk
