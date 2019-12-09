@@ -28,6 +28,7 @@ xfce4-settings
 xfconf
 xfce4-terminal
 
+pulseaudio
 pavucontrol
 
 mousepad
