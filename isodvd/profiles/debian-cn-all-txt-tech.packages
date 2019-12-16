@@ -107,3 +107,4 @@ xorriso
 git-buildpackage
 dpkg-dev
 debhelper
+myrepos
