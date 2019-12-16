@@ -108,17 +108,10 @@ debhelper
 myrepos
 po4a
 docbook-xsl
-dblatex
-texlive-lang-chinese
-texlive-xetex
-publican
 dbtoepub
 mupdf-tools
 poppler-utils
-publican-debian
 rdfind
-texlive-lang-cyrillic
 php-cli
 flex
 bison
-git-buildpackage
