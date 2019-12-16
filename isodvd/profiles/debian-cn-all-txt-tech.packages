@@ -53,14 +53,12 @@ bash-completion
 wicd-cli
 wicd-curses
 openssh-client
-openssh-server
 build-essential
 iproute2
 simple-cdd
 jigdo-file
 rar
 unrar
-bzip2
 xz-utils
 debian-reference-zh-cn
 manpages-zh
