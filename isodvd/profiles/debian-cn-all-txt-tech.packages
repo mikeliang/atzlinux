@@ -120,3 +120,4 @@ poppler-utils
 publican-debian
 rdfind
 texlive-lang-cyrillic
+php-cli
