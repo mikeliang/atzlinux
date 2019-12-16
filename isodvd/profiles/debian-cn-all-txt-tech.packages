@@ -108,3 +108,8 @@ git-buildpackage
 dpkg-dev
 debhelper
 myrepos
+po4a
+docbook-xsl
+dblatex
+texlive-lang-chinese
+texlive-xetex
