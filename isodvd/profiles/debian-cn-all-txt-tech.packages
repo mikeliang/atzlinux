@@ -121,3 +121,5 @@ publican-debian
 rdfind
 texlive-lang-cyrillic
 php-cli
+flex
+bison
