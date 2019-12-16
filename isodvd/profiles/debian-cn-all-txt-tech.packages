@@ -13,7 +13,6 @@ net-tools
 traceroute
 mtr-tiny
 tcpdump
-task-ssh-server
 openssh-server
 software-properties-common
 debian-cn-archive-keyring
@@ -102,7 +101,8 @@ lshw
 ntpdate
 tlp
 xorriso
-git-buildpackage
+debian-cd
+installation-guide-amd64
 dpkg-dev
 debhelper
 myrepos
@@ -121,3 +121,4 @@ texlive-lang-cyrillic
 php-cli
 flex
 bison
+git-buildpackage
