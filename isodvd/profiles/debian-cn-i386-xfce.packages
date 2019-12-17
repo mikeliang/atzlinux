@@ -282,3 +282,5 @@ appimaged
 cnapp-desktop-icons
 dingtalk
 wiznote
+vim-gtk3
+vim-gtk
