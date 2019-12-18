@@ -299,9 +299,5 @@ d-i	samba-common/dhcp	boolean	true
 #d-i preseed/late_command string apt-install zsh; in-target chsh -s /bin/zsh
 
 d-i apt-setup/local0/repository string \
-	http://debian-cn.exaphotons.com/debian buster  main contrib non-free
-d-i apt-setup/local0/comment string debian-cn desktop project apt cdn source
-
-d-i apt-setup/local1/repository string \
-	http://118.24.9.73/debian buster  main contrib non-free
-d-i apt-setup/local1/comment string debian-cn project apt ip source
+	https://cdn.atzlinux.com/debian buster  main contrib non-free
+d-i apt-setup/local0/comment string atzlinux.com desktop project apt cdn source
