@@ -33,7 +33,7 @@ Debian 是一款非常优秀的 Linux 操作系统，但默认安装缺少中国
 操作系统安装文件还包含 Debian 操作系统的最新升级，bug 修复，默认安装若干实用中文软件，欢迎使用！
 </p>
 <h2>
-<a href="http://118.24.9.73" >
+<a href="https://www.atzlinux.com" >
 详情请点击这里查看</a></h2>
 
 #### 安装教程
@@ -44,13 +44,13 @@ Debian 是一款非常优秀的 Linux 操作系统，但默认安装缺少中国
 * 下载一键安装脚本
 
 *`
-wget http://118.24.9.73/debian/download/install-all-single-script.sh
+wget https://www.atzlinux.com/debian/download/install-all-single-script.sh
 `*
 
 注：i386 32 位的机器，请下载：
 
 *`
-wget http://118.24.9.73/debian/download/i386/install-all-single-script.sh
+wget https://www.atzlinux.com/debian/download/i386/install-all-single-script.sh
 `*
 
 * 执行安装
@@ -73,7 +73,7 @@ apt update
 apt upgrade
 `*
 
-<a href="http://118.24.9.73/debian/download/changelog.txt" target="_blank">
+<a href="https://www.atzlinux.com/debian/download/changelog.txt" target="_blank">
 项目更新日志</a>
 
 
