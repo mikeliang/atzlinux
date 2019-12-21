@@ -509,3 +509,6 @@ vim-gtk3
 vim-gtk
 opera-stable
 steam
+fonts-noto
+fonts-noto-cjk
+fonts-noto-cjk-extra
