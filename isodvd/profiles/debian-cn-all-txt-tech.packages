@@ -116,3 +116,4 @@ php-cli
 flex
 bison
 python-all
+dos2unix
