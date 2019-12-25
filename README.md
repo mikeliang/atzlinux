@@ -1,8 +1,9 @@
-# debian-cn
+# 铜豌豆 Linux
 
 #### 介绍
-debian-cn 项目地址：
+项目网站：https://www.atzlinux.com
 
+项目开发地址：
 https://gitee.com/atzlinux/debian-cn/tree/apt-install/
 
 Debian 是一款非常优秀的 Linux 操作系统，但默认安装缺少中国人常用的软件。
