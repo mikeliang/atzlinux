@@ -13,7 +13,6 @@ net-tools
 traceroute
 mtr-tiny
 tcpdump
-openssh-server
 software-properties-common
 debian-cn-archive-keyring
 telnet
