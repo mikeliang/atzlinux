@@ -275,6 +275,9 @@ d-i finish-install/reboot_in_progress note
 # 要修改 smb.conf 以使用从 DHCP 获得的 WINS 设定吗？
 d-i	samba-common/dhcp	boolean	true
 
+# Do you want to update Opera together with the rest of the system?
+opera-stable	opera-stable/add-deb-source	boolean	false
+
 #### Advanced options
 ### Running custom commands during the installation
 # d-i preseeding is inherently not secure. Nothing in the installer checks
