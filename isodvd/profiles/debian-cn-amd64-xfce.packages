@@ -28,7 +28,6 @@ file
 firefox-esr-l10n-zh-cn
 fonts-wqy-microhei
 gamin
-glx-diversions
 gpm
 greybird-gtk-theme
 gtk2-engines-xfce
@@ -184,9 +183,6 @@ xserver-xorg-video-mach64
 xserver-xorg-video-mga
 xserver-xorg-video-neomagic
 xserver-xorg-video-nouveau
-xserver-xorg-video-nvidia
-xserver-xorg-video-nvidia-legacy-340xx
-xserver-xorg-video-nvidia-legacy-390xx
 xserver-xorg-video-openchrome
 xserver-xorg-video-qxl
 xserver-xorg-video-r128
