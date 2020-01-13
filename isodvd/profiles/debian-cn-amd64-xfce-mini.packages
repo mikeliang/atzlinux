@@ -39,7 +39,6 @@ fonts-wqy-zenhei
 xfonts-wqy
 
 debian-cn-archive-keyring
-debian-cn-fonts
 ttf-mscorefonts
 electronic-wechat
 libqt4-declarative
@@ -51,3 +50,4 @@ netease-cloud-music
 browser-plugin-freshplayer-pepperflash
 pepperflashplugin-nonfree
 stardict-dic-data
+fonts-zh-cn-misc-atzlinux

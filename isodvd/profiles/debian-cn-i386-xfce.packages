@@ -81,7 +81,6 @@ shared-mime-info
 shiki-colors-xfwm-theme
 software-properties-common
 debian-cn-archive-keyring
-debian-cn-fonts
 deepin.com.qq.im
 sogoupinyin
 sudo
@@ -295,3 +294,4 @@ fonts-arphic-ukai
 fonts-arphic-uming
 arandr
 scrcpy
+fonts-zh-cn-misc-atzlinux

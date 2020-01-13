@@ -209,7 +209,6 @@ electronic-wechat
 linuxqq
 libqt4-declarative
 sogoupinyin
-debian-cn-fonts
 baidunetdisk
 netease-cloud-music
 youdao-dict
@@ -305,3 +304,4 @@ fonts-arphic-ukai
 fonts-arphic-uming
 arandr
 scrcpy
+fonts-zh-cn-misc-atzlinux
