@@ -1,7 +1,7 @@
 #!/bin/bash
 cd `dirname $0`; pwd
-echo '即将开始安装 debian-cn-keyring ...'
+echo '即将开始安装铜豌豆软件源 atzlinux.com ...'
 apt -y install wget
-wget -c -O ./debian-cn-keyring/debian-cn-archive-keyring_2019.10.15_all.deb https://www.atzlinux.com/debian/pool/main/d/debian-cn-archive-keyring/debian-cn-archive-keyring_2019.10.15_all.deb
-apt -y install ./debian-cn-keyring/debian-cn-archive-keyring_2019.10.15_all.deb 
+wget -c -O atzlinux-archive-keyring_lastest_all.deb https://www.atzlinux.com/debian/pool/main/a/atzlinux-archive-keyring/atzlinux-archive-keyring_lastest_all.deb
+apt -y install ./atzlinux-archive-keyring_lastest_all.deb
 echo '安装完成'

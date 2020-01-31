@@ -1,1 +1,1 @@
-https://www.atzlinux.com/debian/pool/main/d/debian-cn-archive-keyring/debian-cn-archive-keyring_2019.12.09_all.deb
+https://www.atzlinux.com/debian/pool/main/a/atzlinux-archive-keyring/atzlinux-archive-keyring_lastest_all.deb
