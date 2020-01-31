@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "开始安装 Debian-cn 中文套件 ..."
+echo "开始安装铜豌豆中文套件 atzlinux.com  ..."
 
 ./install-debian-cn-repo.sh
 
