@@ -1,3 +1,9 @@
+firmware-amd-graphics
+firmware-iwlwifi
+firmware-linux-free
+firmware-linux-nonfree
+firmware-misc-nonfree
+firmware-realtek
 at-spi2-core
 dnsutils
 electronic-wechat

@@ -3,6 +3,7 @@ firmware-iwlwifi
 firmware-linux-free
 firmware-linux-nonfree
 firmware-misc-nonfree
+firmware-realtek
 xserver-xorg-video-intel
 network-manager
 

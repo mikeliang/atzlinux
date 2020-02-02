@@ -1,3 +1,9 @@
+firmware-amd-graphics
+firmware-iwlwifi
+firmware-linux-free
+firmware-linux-nonfree
+firmware-misc-nonfree
+firmware-realtek
 albatross-gtk-theme
 arc-theme
 at-spi2-core
@@ -221,7 +227,6 @@ chromium-sandbox
 lunar
 gftp
 p7zip-full
-firmware-realtek
 ntfs-3g
 exfat-fuse
 network-manager-vpnc-gnome

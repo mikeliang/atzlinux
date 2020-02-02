@@ -1,3 +1,9 @@
+firmware-amd-graphics
+firmware-iwlwifi
+firmware-linux-free
+firmware-linux-nonfree
+firmware-misc-nonfree
+firmware-realtek
 file
 psmisc
 gpm
@@ -39,11 +45,6 @@ hdparm
 sdparm
 genisoimage
 amd64-microcode
-firmware-amd-graphics
-firmware-iwlwifi
-firmware-linux-free
-firmware-linux-nonfree
-firmware-misc-nonfree
 fwupd-amd64-signed
 intel-microcode
 bash-completion
@@ -64,7 +65,6 @@ lftp
 lunar
 p7zip-full
 disktype
-firmware-realtek
 ntfs-3g
 exfat-fuse
 vpnc
