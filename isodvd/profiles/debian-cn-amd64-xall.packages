@@ -1,3 +1,9 @@
+firmware-amd-graphics
+firmware-iwlwifi
+firmware-linux-free
+firmware-linux-nonfree
+firmware-misc-nonfree
+firmware-realtek
 libaacs0
 libabw-0.1-1
 libao4
@@ -327,11 +333,6 @@ youdao-dict
 wps-office
 wps-office-fonts
 amd64-microcode
-firmware-amd-graphics
-firmware-iwlwifi
-firmware-linux-free
-firmware-linux-nonfree
-firmware-misc-nonfree
 fwupd-amd64-signed
 intel-microcode
 task-mate-desktop
@@ -440,7 +441,6 @@ chromium-sandbox
 lunar
 gftp
 p7zip-full
-firmware-realtek
 ntfs-3g
 exfat-fuse
 network-manager-vpnc-gnome
