@@ -106,5 +106,5 @@ QQ：  909868357
 本项目基于 Debian ，但不属于 Debian 官方。本项目的任何问题，均与 Debian 官方项目无关。
 
 #### 欢迎资助本项目
-	<img src="https://www.atzlinux.com/debian/img/wechat-pay.jpg" alt="微信收款码" width="30%">
-	<img src="https://www.atzlinux.com/debian/img/ali-pay.jpg" alt="支付宝收款码" width="30%">
+<img src="https://www.atzlinux.com/debian/img/wechat-pay.jpg" alt="微信收款码" width="30%">
+<img src="https://www.atzlinux.com/debian/img/ali-pay.jpg" alt="支付宝收款码" width="30%">
