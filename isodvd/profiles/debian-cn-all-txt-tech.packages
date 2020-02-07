@@ -121,3 +121,7 @@ silversearcher-ag
 info
 atzlinux-archive-keyring
 python-pip
+lintian
+quilt
+dh-make
+dh-autoreconf
