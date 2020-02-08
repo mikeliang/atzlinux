@@ -120,7 +120,7 @@ httpie
 silversearcher-ag
 info
 atzlinux-archive-keyring
-python-pip
+python3-pip
 lintian
 quilt
 dh-make
