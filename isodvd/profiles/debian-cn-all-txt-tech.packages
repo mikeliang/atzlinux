@@ -125,3 +125,4 @@ lintian
 quilt
 dh-make
 dh-autoreconf
+dh-exec
