@@ -93,7 +93,6 @@ cpuinfo
 hwinfo
 hwdata
 ipmitool
-sntp
 procinfo
 lshw
 ntpdate

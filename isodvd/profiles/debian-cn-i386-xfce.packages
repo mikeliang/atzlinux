@@ -67,7 +67,6 @@ lxtask
 mate-sntray-plugin
 menulibre
 mousepad
-mtr-tiny
 net-tools
 network-manager
 network-manager-gnome
@@ -85,7 +84,6 @@ ruby-test-unit-notify
 shared-mime-info
 shiki-colors-xfwm-theme
 software-properties-common
-debian-cn-archive-keyring
 deepin.com.qq.im
 sogoupinyin
 sudo
@@ -266,7 +264,6 @@ inkscape
 cpuinfo
 hwinfo
 hwdata
-sntp
 procinfo
 ntpdate
 tlp
@@ -281,7 +278,6 @@ wiznote
 vim-gtk3
 vim-gtk
 opera-stable
-steam-launcher
 fonts-noto
 fonts-noto-cjk
 fonts-noto-cjk-extra

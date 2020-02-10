@@ -186,7 +186,6 @@ lxtask
 mate-sntray-plugin
 menulibre
 mousepad
-mtr-tiny
 net-tools
 network-manager
 network-manager-gnome
@@ -322,7 +321,6 @@ thunderbird-l10n-zh-cn
 hddtemp
 synaptic
 pavucontrol
-debian-cn-archive-keyring
 electronic-wechat
 linuxqq
 libqt4-declarative
@@ -411,24 +409,17 @@ apparmor
 dnsmasq-base
 dosfstools
 enchant
-geoip-database
-hunspell-en-us
 krb5-locales
 libgdk-pixbuf2.0-bin
 libsasl2-modules
 manpages
-mobile-broadband-provider-info
-modemmanager
 ncurses-term
 netcat-traditional
-ppp
 publicsuffix
 python3-debian
 python3-debianbts
 python3-httplib2
 python3-pysimplesoap
-python3-reportbug
-reportbug
 xbitmaps
 xterm
 debian-reference-zh-cn
@@ -480,7 +471,6 @@ inkscape
 cpuinfo
 hwinfo
 hwdata
-sntp
 procinfo
 ntpdate
 tlp
@@ -496,7 +486,6 @@ wiznote
 vim-gtk3
 vim-gtk
 opera-stable
-steam-launcher
 fonts-noto
 fonts-noto-cjk
 fonts-noto-cjk-extra

@@ -28,7 +28,6 @@ iotop
 libbsd0
 libcanberra-gtk-module
 libnss3
-mtr-tiny
 net-tools
 network-manager
 psmisc
@@ -62,6 +61,5 @@ bluez-tools
 browser-plugin-freshplayer-pepperflash
 pepperflashplugin-nonfree
 stardict-wyabdcrealpeopletts
-debian-cn-archive-keyring
 deepin.com.qq.im
 fonts-zh-cn-misc-atzlinux

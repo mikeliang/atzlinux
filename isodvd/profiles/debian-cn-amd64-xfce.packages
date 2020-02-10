@@ -66,7 +66,6 @@ lxtask
 mate-sntray-plugin
 menulibre
 mousepad
-mtr-tiny
 net-tools
 network-manager
 network-manager-gnome
@@ -206,7 +205,6 @@ thunderbird-l10n-zh-cn
 hddtemp
 synaptic
 pavucontrol
-debian-cn-archive-keyring
 electronic-wechat
 linuxqq
 libqt4-declarative
@@ -271,7 +269,6 @@ inkscape
 cpuinfo
 hwinfo
 hwdata
-sntp
 procinfo
 ntpdate
 tlp
@@ -286,7 +283,6 @@ wiznote
 vim-gtk3
 vim-gtk
 opera-stable
-steam-launcher
 fonts-noto
 fonts-noto-cjk
 fonts-noto-cjk-extra
