@@ -125,3 +125,4 @@ quilt
 dh-make
 dh-autoreconf
 dh-exec
+atzlinux-update-patch
