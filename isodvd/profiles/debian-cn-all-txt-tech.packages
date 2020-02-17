@@ -125,4 +125,6 @@ quilt
 dh-make
 dh-autoreconf
 dh-exec
+mp3blaster
+python-mutagen
 atzlinux-update-patch
