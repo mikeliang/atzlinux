@@ -404,7 +404,6 @@ mate-utils
 mate-applets
 mate-icon-theme-faenza
 mate-power-manager
-ttf-mscorefonts
 apparmor
 dnsmasq-base
 dosfstools
@@ -507,3 +506,4 @@ unar
 sysbro
 atzlinux-update-patch
 mtr
+ttf-mscorefonts-atzlinux
