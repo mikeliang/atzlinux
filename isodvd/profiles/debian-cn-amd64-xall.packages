@@ -466,16 +466,13 @@ remmina-plugin-rdp
 remmina-plugin-vnc
 remmina-plugin-xdmcp
 remmina-plugin-secret
-inkscape
 cpuinfo
 hwinfo
 hwdata
 procinfo
 ntpdate
 tlp
-handbrake
 python3-cffi-backend
-youker-assistant
 gdebi
 pulseaudio
 firejail
@@ -490,7 +487,6 @@ fonts-noto-cjk
 fonts-noto-cjk-extra
 tenvideo-universal
 transmission-gtk
-typora
 fonts-arphic-gbsn00lp
 fonts-arphic-gkai00mp
 fonts-arphic-ukai
