@@ -72,8 +72,6 @@ network-manager-gnome
 nvidia-xconfig
 nxagent
 nx-x11-common
-orage
-orage-data
 policykit-1-gnome
 psmisc
 python3-pyqt5
@@ -298,3 +296,4 @@ mtr
 ttf-mscorefonts-atzlinux
 gmchess
 xiangqi-mimetypes
+flameshot
