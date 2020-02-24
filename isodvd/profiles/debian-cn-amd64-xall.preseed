@@ -303,4 +303,4 @@ opera-stable	opera-stable/add-deb-source	boolean	false
 
 d-i apt-setup/local0/repository string \
 	https://apt.atzlinux.com/debian buster  main contrib non-free
-d-i apt-setup/local0/comment string atzlinux.com desktop project apt cdn source
+d-i apt-setup/local0/comment string atzlinux.com desktop project apt source
