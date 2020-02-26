@@ -48,8 +48,6 @@ amd64-microcode
 fwupd-amd64-signed
 intel-microcode
 bash-completion
-wicd-cli
-wicd-curses
 openssh-client
 build-essential
 iproute2
@@ -128,4 +126,5 @@ dh-exec
 mp3blaster
 python-mutagen
 mtools
+dosfstools
 atzlinux-update-patch
