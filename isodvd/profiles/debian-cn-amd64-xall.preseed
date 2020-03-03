@@ -154,7 +154,7 @@ d-i clock-setup/ntp boolean false
 
 # The kernel image (meta) package to be installed; "none" can be used if no
 # kernel is to be installed.
-#d-i base-installer/kernel/image string linux-image-686
+d-i base-installer/kernel/image string linux-image-rt-amd64
 
 ### Apt setup
 # You can choose to install non-free and contrib software.
