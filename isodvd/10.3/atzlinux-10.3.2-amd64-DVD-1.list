@@ -67,6 +67,7 @@ fcitx-dbus-status_2016062301-2_amd64.deb
 fonts-lohit-guru-udeb_2.91.2-1_all.udeb
 fwupd_1.2.5-2_amd64.deb
 libfwupd2_1.2.5-2_amd64.deb
+fonts-noto-color-emoji_0~20180810-1_all.deb
 f2fs-tools-udeb_1.11.0-1.1_amd64.udeb
 fonts-lklug-sinhala-udeb_0.6-3_all.udeb
 fonts-thai-tlwg-udeb_0.7.1-1_all.udeb
@@ -111,6 +112,7 @@ libfaad2_2.8.8-3_amd64.deb
 finish-install_2.100_all.udeb
 fonts-android-udeb_6.0.1r16-1.1_all.udeb
 fonts-droid-fallback_6.0.1r16-1.1_all.deb
+fonts-noto-cjk_20170601+repack1-3+deb10u1_all.deb
 fonts-arphic-ukai_0.2.20080216.2-4_all.deb
 fonts-wqy-microhei_0.2.0-beta-3_all.deb
 fcitx-table-wbpy_4.2.9.6-5_all.deb
