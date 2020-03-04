@@ -276,7 +276,7 @@ d-i finish-install/reboot_in_progress note
 d-i	samba-common/dhcp	boolean	true
 
 # Do you want to update Opera together with the rest of the system?
-opera-stable	opera-stable/add-deb-source	boolean	false
+#opera-stable	opera-stable/add-deb-source	boolean	false
 
 #### Advanced options
 ### Running custom commands during the installation
