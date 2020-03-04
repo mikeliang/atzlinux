@@ -923,7 +923,6 @@ liblockfile-bin_1.14-1.1_amd64.deb
 liblangtag1_0.6.2-1_amd64.deb
 liblangtag-common_0.6.2-1_all.deb
 linux-image-rt-amd64_4.19+105+deb10u3_amd64.deb
-linux-image-amd64_4.19+105+deb10u3_amd64.deb
 liblua5.3-0_5.3.3-1.1_amd64.deb
 lightdm-gtk-greeter_2.0.7-2_amd64.deb
 logrotate_3.14.0-4_amd64.deb
@@ -1004,7 +1003,6 @@ nic-usb-modules-4.19.0-8-amd64-di_4.19.98-1_amd64.udeb
 nic-modules-4.19.0-8-amd64-di_4.19.98-1_amd64.udeb
 btrfs-modules-4.19.0-8-amd64-di_4.19.98-1_amd64.udeb
 nic-wireless-modules-4.19.0-8-amd64-di_4.19.98-1_amd64.udeb
-linux-image-4.19.0-8-amd64_4.19.98-1_amd64.deb
 nic-shared-modules-4.19.0-8-amd64-di_4.19.98-1_amd64.udeb
 fuse-modules-4.19.0-8-amd64-di_4.19.98-1_amd64.udeb
 linux-image-4.19.0-8-rt-amd64_4.19.98-1_amd64.deb
