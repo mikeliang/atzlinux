@@ -299,3 +299,4 @@ pinentry-gnome3
 fonts-noto-cjk
 fonts-noto-color-emoji
 gnome-disk-utility
+gvfs-fuse
