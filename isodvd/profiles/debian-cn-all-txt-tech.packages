@@ -131,4 +131,5 @@ fbterm
 python3-setuptools
 dh-python
 help2man
+libdebian-installer4-dev
 atzlinux-update-patch
