@@ -128,4 +128,7 @@ python-mutagen
 mtools
 dosfstools
 fbterm
+python3-setuptools
+dh-python
+help2man
 atzlinux-update-patch
