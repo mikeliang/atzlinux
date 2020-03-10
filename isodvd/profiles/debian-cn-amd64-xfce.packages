@@ -304,3 +304,4 @@ ifuse
 ipheth-utils
 atzlinux-update-patch-xfce
 gnome-calculator
+gvfs-backends

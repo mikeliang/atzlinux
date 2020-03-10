@@ -500,3 +500,4 @@ gnome-disk-utility
 gvfs-fuse
 ifuse
 ipheth-utils
+gvfs-backends
