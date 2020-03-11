@@ -2,7 +2,7 @@
 <html lang="zh_CN">
 <head>
 <meta http-equiv="content-type" content="text/html;charset=utf-8">
-<base href="https://www.atzlinux.com/">
+<base href="https://www.atzlinux.com/
     <!-- 包含头部信息适应不同设备 -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- 包含bootstrap 样式表-->
@@ -11,16 +11,16 @@
 <body>
 <div class="container">
 <h1 align="center">铜豌豆 Linux</h1>
-<a href="index.htm">首页</a>
-<a href="yjaz.htm">一键安装脚本</a>
-<a href="allpackages.htm">软件包列表</a>
-<a href="skills.htm">使用技巧</a>
-<a href="iso-type.htm">其它版本 ISO</a>
-<a href="faq.htm">常见问题</a>
+<a href="https://www.atzlinux.com/index.htm">首页</a>
+<a href="https://www.atzlinux.com/yjaz.htm">一键安装脚本</a>
+<a href="https://www.atzlinux.com/allpackages.htm">软件包列表</a>
+<a href="https://www.atzlinux.com/skills.htm">使用技巧</a>
+<a href="https://www.atzlinux.com/iso-type.htm">其它版本 ISO</a>
+<a href="https://www.atzlinux.com/faq.htm">常见问题</a>
 <a href="https://gitee.com/atzlinux/debian-cn/issues" target="_blank">反馈问题 bug</a>
-<a href="devel.htm">参与开发</a>
+<a href="https://www.atzlinux.com/devel.htm">参与开发</a>
 <a href="https://gitee.com/atzlinux/projects" target="_blank">源代码</a>
-<a href="juanzeng.htm">捐赠</a>
+<a href="https://www.atzlinux.com/juanzeng.htm">捐赠</a>
 <hr>
 <h2>基于 Debian 的 Linux 中文操作系统</h2>
 <p>
@@ -34,7 +34,7 @@ Debian</a> 是一款非常优秀的 Linux 操作系统，但默认安装缺少�
 最新版本：
 2020-03-04
 日发布《铜豌豆 Linux》
-<a href="./News/2020/20200304.htm" target="_blank">
+<a href="https://www.atzlinux.com/News/2020/20200304.htm" target="_blank">
 10.3.2
 版</a>。
 </p>
@@ -49,7 +49,7 @@ Debian</a> 是一款非常优秀的 Linux 操作系统，但默认安装缺少�
 	<li>WPS</li>
 	<li>中文字体</li>
 	<li>星际译王</li>
-<a href="allpackages.htm" target="_blank">
+<a href="https://www.atzlinux.com/allpackages.htm" target="_blank">
 中文软件完整列表</a>
 </ul>
 Debian 自身软件包资源也很丰富，约有 59000 个软件包，《铜豌豆 Linux》100% 兼容这些软件包。
@@ -71,7 +71,7 @@ Debian 软件包分类展示
 日发布《铜豌豆 Linux》
 10.3.2
 版。
-<a href="./News/2020/20200304.htm"  target="_blank">
+<a href="https://www.atzlinux.com/News/2020/20200304.htm"  target="_blank">
 发布说明
 </a>
 <p>
@@ -94,7 +94,7 @@ https://cdn.atzlinux.com/atzlinux-cd/10.3.2/amd64/iso-dvd/atzlinux-10.3.2-amd64-
 下载的安装文件名为：<i>atzlinux-10.3.2-amd64-DVD-1.iso</i>
 <br>
 下载完成后，可进行完整性验证，支持校验和、公钥签名验证。
-验证所需<a href="./atzlinux-cd/10.3.2/amd64/iso-dvd/" target="_blank">相关文件请访问这里</a>获取。
+验证所需<a href="https://www.atzlinux.com/atzlinux-cd/10.3.2/amd64/iso-dvd/" target="_blank">相关文件请访问这里</a>获取。
 <p>
 <br>
 该 iso 安装文件，支持目前国内市场上常用的 64 位 CPU。
@@ -179,7 +179,7 @@ Win32DiskImager</a>
  debian-cn-amd64-xall: xfce+gnome+mate 三合一桌面环境 普通用户版
 </pre>
 非技术人员，请选择“普通用户版”。
-<a href="faq.htm#4ver" target="_blank">
+<a href="https://www.atzlinux.com/faq.htm#4ver" target="_blank">
 4 个版本区别的详细说明
 </a>
 <p>
@@ -253,7 +253,7 @@ Win32DiskImager</a>
 少量 USB 无线网卡、高端显卡、HDMI 显卡集成声卡，默认没有驱动，需要在操作系统安装完成后再手工安装。
 </ul>
 在安装过程中，如出现无法识别网卡，或者无法连接网络的情况，可能需要在安装后手工
-<a href="faq.htm#addapt" target="_blank">
+<a href="https://www.atzlinux.com/faq.htm#addapt" target="_blank">
 添加 Debian 软件源</a>。
 <h3>安装后优化</h3>
 <ul>
@@ -268,7 +268,7 @@ Win32DiskImager</a>
 apt -y install deepin.com.qq.im
 </i>
 </p>
-<a href="./debian/download/wine-qq-install.log"  target="_blank">
+<a href="https://www.atzlinux.com/debian/download/wine-qq-install.log"  target="_blank">
 安装过程</a>需要下载 200 多 M 文件，请耐心等待。安装完成后，请到应用程序菜单启动 QQ 即可使用，首次启动较慢。
 </p>
 <li>安装 wine 微信</li>
@@ -299,7 +299,7 @@ apt -y install deepin.com.qq.im
 以上功能将在后续新发布的 iso 中，默认在“xfce 完整版”中实现。<br>
 “三合一版本”的用户，无需安装此软件包，相关功能已经在初始安装时实现。
 <li>安装其它软件</li>
-请到铜豌豆软件源<a href="allpackages.htm">软件包列表</a>，按需安装其它软件。
+请到铜豌豆软件源<a href="https://www.atzlinux.com/allpackages.htm">软件包列表</a>，按需安装其它软件。
 </ul>
 <h2>更新升级</h2>
 <ul>
@@ -316,11 +316,11 @@ apt update
 apt upgrade
 </i>
 </p>
-<a href="./debian/download/changelog.txt" target="_blank">
+<a href="https://www.atzlinux.com/debian/download/changelog.txt" target="_blank">
 操作系统最新更新日志</a>，软件源新增加的软件包，也请在这里查看。
 <h2>一键安装脚本</h2>
 对于已经安装好 Debian 系统的用户，可以使用一键安装脚本一次性安装中文软件，
-<a href="yjaz.htm">
+<a href="https://www.atzlinux.com/yjaz.htm">
 详情请点击这里访问</a>。
 <h2>开发</h2>
 遵循 GPL3.0 协议,项目源代码地址：
@@ -330,7 +330,7 @@ https://gitee.com/atzlinux/debian-cn/tree/apt-install/
 </a></p>
 欢迎各位参与!
 <p>
-<h2><a href="juanzeng.htm" target="_blank">欢迎捐赠本项目</a></h2>
+<h2><a href="https://www.atzlinux.com/juanzeng.htm" target="_blank">欢迎捐赠本项目</a></h2>
 <h2>联系方式</h2>
 欢迎提供意见、建议，请用如下任一方式联系。
 <ul>
@@ -394,16 +394,16 @@ OS2ATC 开源操作系统年度技术会议</a> 2019-12-14
 公安备案号 44030502004897</a>
 </p>
 <hr>
-<a href="index.htm">首页</a>
-<a href="yjaz.htm">一键安装脚本</a>
-<a href="allpackages.htm">软件包列表</a>
-<a href="skills.htm">使用技巧</a>
-<a href="iso-type.htm">其它版本 ISO</a>
-<a href="faq.htm">常见问题</a>
+<a href="https://www.atzlinux.com/index.htm">首页</a>
+<a href="https://www.atzlinux.com/yjaz.htm">一键安装脚本</a>
+<a href="https://www.atzlinux.com/allpackages.htm">软件包列表</a>
+<a href="https://www.atzlinux.com/skills.htm">使用技巧</a>
+<a href="https://www.atzlinux.com/iso-type.htm">其它版本 ISO</a>
+<a href="https://www.atzlinux.com/faq.htm">常见问题</a>
 <a href="https://gitee.com/atzlinux/debian-cn/issues" target="_blank">反馈问题 bug</a>
-<a href="devel.htm">参与开发</a>
+<a href="https://www.atzlinux.com/devel.htm">参与开发</a>
 <a href="https://gitee.com/atzlinux/projects" target="_blank">源代码</a>
-<a href="juanzeng.htm">捐赠</a>
+<a href="https://www.atzlinux.com/juanzeng.htm">捐赠</a>
 </div>
 </body>
 </html>
