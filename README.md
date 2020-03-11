@@ -2,7 +2,6 @@
 <html lang="zh_CN">
 <head>
 <meta http-equiv="content-type" content="text/html;charset=utf-8">
-<title>铜豌豆 Linux</title>
     <!-- 包含头部信息适应不同设备 -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- 包含bootstrap 样式表-->
