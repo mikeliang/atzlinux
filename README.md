@@ -2,6 +2,7 @@
 <html lang="zh_CN">
 <head>
 <meta http-equiv="content-type" content="text/html;charset=utf-8">
+<base href="https://www.atzlinux.com/">
     <!-- 包含头部信息适应不同设备 -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- 包含bootstrap 样式表-->
