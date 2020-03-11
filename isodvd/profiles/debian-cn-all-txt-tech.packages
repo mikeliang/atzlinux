@@ -133,3 +133,4 @@ dh-python
 help2man
 libdebian-installer4-dev
 atzlinux-update-patch
+zstd
