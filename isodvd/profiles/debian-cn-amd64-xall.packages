@@ -486,7 +486,6 @@ gnome-control-center
 atzlinux-archive-keyring
 unar
 sysbro
-atzlinux-update-patch
 mtr
 ttf-mscorefonts-atzlinux
 gmchess
@@ -501,3 +500,5 @@ gvfs-fuse
 ifuse
 ipheth-utils
 gvfs-backends
+atzlinux-update-patch
+atzlinux-update-patch-xall

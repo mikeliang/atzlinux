@@ -292,7 +292,6 @@ blueman
 fonts-wqy-zenhei
 xfonts-wqy
 xscreensaver
-atzlinux-update-patch
 kigo
 gnugo
 pinentry-gnome3
@@ -302,6 +301,7 @@ gnome-disk-utility
 gvfs-fuse
 ifuse
 ipheth-utils
+atzlinux-update-patch
 atzlinux-update-patch-xfce
 gnome-calculator
 gvfs-backends
