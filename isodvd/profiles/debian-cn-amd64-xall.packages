@@ -503,3 +503,4 @@ gvfs-backends
 atzlinux-update-patch
 atzlinux-update-patch-xall
 simplescreenrecorder
+zstd
