@@ -135,5 +135,6 @@ libdebian-installer4-dev
 atzlinux-update-patch
 atzlinux-update-patch-txt-tech
 zstd
+fcitx-pinyin
 fcitx-frontend-fbterm
 fonts-wqy-zenhei
