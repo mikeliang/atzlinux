@@ -135,3 +135,4 @@ libdebian-installer4-dev
 atzlinux-update-patch
 atzlinux-update-patch-txt-tech
 zstd
+fcitx-frontend-fbterm
