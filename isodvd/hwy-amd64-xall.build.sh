@@ -4,4 +4,4 @@ http://mirrors.huaweicloud.com/debian-security/ \
 --debian-mirror \
 http://mirrors.huaweicloud.com/debian/  \
 -b amd64-xall.build \
--a debian-cn-amd64-xall
+-a atzlinux-amd64-xall

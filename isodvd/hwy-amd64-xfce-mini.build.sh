@@ -6,4 +6,4 @@ http://mirrors.huaweicloud.com/debian/  \
 --backports-mirror \
 http://mirrors.huaweicloud.com/debian \
 -b amd64-xfce-mini.build \
--a debian-cn-amd64-xfce-mini
+-a atzlinux-amd64-xfce-mini

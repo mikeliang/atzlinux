@@ -4,4 +4,4 @@ http://mirrors.tencentyun.com/debian-security/ \
 --debian-mirror \
 http://mirrors.tencentyun.com/debian/  \
 -b amd64-xfce.build \
--a debian-cn-amd64-xfce
+-a atzlinux-amd64-xfce

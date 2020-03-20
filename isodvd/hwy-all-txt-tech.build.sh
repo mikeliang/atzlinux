@@ -6,4 +6,4 @@ http://mirrors.huaweicloud.com/debian/  \
 --backports-mirror \
 http://mirrors.huaweicloud.com/debian \
 -b all-text-tech.build \
--a debian-cn-all-text-tech
+-a atzlinux-all-text-tech

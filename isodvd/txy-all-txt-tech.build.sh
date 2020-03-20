@@ -4,4 +4,4 @@ http://mirrors.tencentyun.com/debian-security/ \
 --debian-mirror \
 http://mirrors.tencentyun.com/debian/  \
 -b all-txt-tech.build \
--a debian-cn-all-txt-tech
+-a atzlinux-all-txt-tech

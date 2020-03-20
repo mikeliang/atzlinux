@@ -4,4 +4,4 @@ http://mirrors.tencentyun.com/debian-security/ \
 --debian-mirror \
 http://mirrors.tencentyun.com/debian/  \
 -b amd64-xall.build \
--a debian-cn-amd64-xall
+-a atzlinux-amd64-xall
