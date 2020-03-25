@@ -308,3 +308,5 @@ gvfs-backends
 simplescreenrecorder
 zstd
 freerdp2-x11
+rar
+unrar
