@@ -279,3 +279,4 @@ sysbro
 atzlinux-update-patch
 mtr
 ttf-mscorefonts-atzlinux
+linux-headers-rt-amd64

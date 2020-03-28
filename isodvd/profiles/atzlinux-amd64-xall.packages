@@ -505,3 +505,4 @@ atzlinux-update-patch-xall
 simplescreenrecorder
 zstd
 freerdp2-x11
+linux-headers-rt-amd64

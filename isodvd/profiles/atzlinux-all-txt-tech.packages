@@ -139,3 +139,4 @@ fcitx-pinyin
 fcitx-frontend-fbterm
 fonts-wqy-zenhei
 linux-support-4.19.0-8
+linux-headers-rt-amd64
