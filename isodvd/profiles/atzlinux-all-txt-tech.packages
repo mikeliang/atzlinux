@@ -135,7 +135,6 @@ atzlinux-update-patch-txt-tech
 zstd
 fcitx-pinyin
 fcitx-frontend-fbterm
-#fonts-wqy-zenhei
 linux-support-4.19.0-8
 linux-headers-rt-amd64
 perl-openssl-defaults
@@ -145,3 +144,4 @@ libemail-valid-perl
 libmailtools-perl
 libnet-smtp-ssl-perl
 lintian
+fonts-wqy-zenhei
