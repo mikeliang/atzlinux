@@ -45,7 +45,6 @@ hdparm
 sdparm
 genisoimage
 amd64-microcode
-fwupd-amd64-signed
 intel-microcode
 bash-completion
 openssh-client
@@ -118,7 +117,6 @@ silversearcher-ag
 info
 atzlinux-archive-keyring
 python3-pip
-lintian
 quilt
 dh-make
 dh-autoreconf
@@ -137,6 +135,13 @@ atzlinux-update-patch-txt-tech
 zstd
 fcitx-pinyin
 fcitx-frontend-fbterm
-fonts-wqy-zenhei
+#fonts-wqy-zenhei
 linux-support-4.19.0-8
 linux-headers-rt-amd64
+perl-openssl-defaults
+libnet-ssleay-perl
+libio-socket-ssl-perl
+libemail-valid-perl
+libmailtools-perl
+libnet-smtp-ssl-perl
+lintian
