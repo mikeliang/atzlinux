@@ -1,4 +1,4 @@
-build-simple-cdd --debug --dvd --proposed-updates --dist buster --locale zh_CN --keyboard us  \
+build-simple-cdd --debug --proposed-updates --dist buster --locale zh_CN --keyboard us  \
 --security-mirror \
 http://mirrors.huaweicloud.com/debian-security/ \
 --debian-mirror \
