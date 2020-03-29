@@ -280,3 +280,4 @@ atzlinux-update-patch
 mtr
 ttf-mscorefonts-atzlinux
 linux-headers-rt-amd64
+firmware-brcm80211
