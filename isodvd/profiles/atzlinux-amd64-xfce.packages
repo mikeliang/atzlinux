@@ -315,3 +315,4 @@ pulseaudio-module-bluetooth
 firmware-brcm80211
 tumbler
 eject
+acpi
