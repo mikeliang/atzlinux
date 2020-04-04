@@ -50,16 +50,18 @@ fi
 
 
 ## color defines
-DEBIAN_RED='#9e2031'
+#DEBIAN_RED='#9e2031'
+DEBIAN_RED='#FF0000'
 UBUNTU_YELLOW='#f44800'
-DEEPIN_BLUE='#0e64be'
+DEEPIN_BLUE='#0000ff'
 MINT_GREEN='#ade675'
 
 BG_COLOR=white
 BORDER_COLOR="$DEBIAN_RED"
 
 declare -a str color stroke_color pointsize
-str=( A T Z Linux ) 
+#str=( A T Z Linux ) 
+str=( 铜A 豌T 豆Z Linux ) 
 
 ## tag 2: custom font size
 # ----------------------------
