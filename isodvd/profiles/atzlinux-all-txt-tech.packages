@@ -149,3 +149,4 @@ firmware-brcm80211
 eject
 acpi
 dh-make-perl
+debmake
