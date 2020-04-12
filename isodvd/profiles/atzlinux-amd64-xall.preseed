@@ -302,7 +302,7 @@ d-i	samba-common/dhcp	boolean	true
 #d-i preseed/late_command string apt-install zsh; in-target chsh -s /bin/zsh
 
 d-i apt-setup/local0/repository string \
-	https://apt.atzlinux.com/debian buster  main contrib non-free
+	https://apt.atzlinux.com/atzlinux buster  main contrib non-free
 d-i apt-setup/local0/comment string atzlinux.com desktop project apt source
 
 d-i apt-setup/cdrom/set-first boolean	false
