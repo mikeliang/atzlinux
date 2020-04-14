@@ -96,9 +96,9 @@ d-i netcfg/wireless_wep string
 # If you select ftp, the mirror/country string does not need to be set.
 d-i mirror/protocol string https
 d-i mirror/country string manual
-d-i mirror/http/hostname string mirrors.huaweicloud.com
-d-i mirror/http/directory string /debian
-d-i mirror/http/proxy string
+d-i mirror/https/hostname string mirrors.huaweicloud.com
+d-i mirror/https/directory string /debian
+d-i mirror/https/proxy string
 
 # Suite to install.
 #d-i mirror/suite string testing
