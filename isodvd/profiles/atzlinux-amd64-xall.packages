@@ -4,6 +4,10 @@ firmware-linux-free
 firmware-linux-nonfree
 firmware-misc-nonfree
 firmware-realtek
+firmware-brcm80211
+amd64-microcode
+intel-microcode
+fwupd-amd64-signed
 libaacs0
 libabw-0.1-1
 libao4
@@ -325,9 +329,6 @@ netease-cloud-music
 youdao-dict
 wps-office
 wps-office-fonts
-amd64-microcode
-fwupd-amd64-signed
-intel-microcode
 task-mate-desktop
 task-gnome-desktop
 cheese
@@ -482,7 +483,6 @@ fonts-zh-cn-misc-atzlinux
 xfce-atzlinux
 usermode
 gnome-control-center
-atzlinux-archive-keyring
 unar
 sysbro
 mtr
@@ -499,14 +499,14 @@ gvfs-fuse
 ifuse
 ipheth-utils
 gvfs-backends
-atzlinux-update-patch
-atzlinux-update-patch-xall
 simplescreenrecorder
 zstd
 freerdp2-x11
 linux-headers-rt-amd64
 pulseaudio-module-bluetooth
-firmware-brcm80211
 gthumb
 krdc
+atzlinux-archive-keyring
 atzlinux-store
+atzlinux-update-patch
+atzlinux-update-patch-xall
