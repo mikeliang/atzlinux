@@ -32,10 +32,10 @@ Debian</a> 是一款非常优秀的 Linux 操作系统，但默认安装缺少�
 </p>
 <p>
 最新版本：
-2020-03-04
+2020-04-14
 日发布《铜豌豆 Linux》
-<a href="https://www.atzlinux.com/News/2020/20200304.htm" target="_blank">
-10.3.2
+<a href="https://www.atzlinux.com/News/2020/20200414.htm" target="_blank">
+10.3.3
 版</a>。
 </p>
 目前收录的主要中文软件包如下：
@@ -52,7 +52,7 @@ Debian</a> 是一款非常优秀的 Linux 操作系统，但默认安装缺少�
 <a href="https://www.atzlinux.com/allpackages.htm" target="_blank">
 中文软件完整列表</a>
 </ul>
-Debian 自身软件包资源也很丰富，约有 59000 个软件包，《铜豌豆 Linux》100% 兼容这些软件包。
+Debian 自身软件包资源也很丰富，约有 59000 个软件包，《铜豌豆 Linux》100% 兼容这些软件包，并内置 Debian 国内官方镜像源。
 <ul>
 <li><a href="https://www.debian.org/distrib/packages#search_packages" target="_blank">
 搜索 Debian 软件包</a></li>
@@ -66,35 +66,38 @@ Debian 软件包分类展示
 <p>
 <img  class="img-fluid" src="https://cdn.atzlinux.com/debian/img/jieping.png" alt="屏幕截屏">
 </p>
+<h3><a href="https://www.atzlinux.com/index.htm#demo">体验机器</a></h3>
 <h3>下载</h3>
-2020-03-04
+2020-04-14
 日发布《铜豌豆 Linux》
-10.3.2
+10.3.3
 版。
-<a href="https://www.atzlinux.com/News/2020/20200304.htm"  target="_blank">
+<a href="https://www.atzlinux.com/News/2020/20200414.htm"  target="_blank">
 发布说明
 </a>
 <p>
-安装文件大小约 2.4 G，下载地址如下：
+安装文件大小约 2.6 G，下载地址如下：
 </p>
 <ul>
 	<li>CDN 下载</li>
 <p>
-<a href="https://cdn.atzlinux.com/atzlinux-cd/10.3.2/amd64/iso-dvd/atzlinux-10.3.2-amd64-DVD-1.iso" target="_blank">
-https://cdn.atzlinux.com/atzlinux-cd/10.3.2/amd64/iso-dvd/atzlinux-10.3.2-amd64-DVD-1.iso</a>
+<a href="https://cdn.atzlinux.com/atzlinux-cd/10.3.3/amd64/iso-dvd/atzlinux-10.3.3-amd64-DVD-1.iso" target="_blank">
+https://cdn.atzlinux.com/atzlinux-cd/10.3.3/amd64/iso-dvd/atzlinux-10.3.3-amd64-DVD-1.iso</a>
 </p>
+	<!--
 	<li>百度网盘下载</li>
 		<a href="https://pan.baidu.com/s/16qqu3EMr-4XrHjjKjkJbhg"  target="_blank">
 	https://pan.baidu.com/s/16qqu3EMr-4XrHjjKjkJbhg
 	</a>密码: 3r0h<br>
 	百度网盘会员下载速度比较快，非会员用户，建议使用上面的 CDN 方式下载。<br>
 	iso 文件目录路径为：
-	atzlinux-cd/10.3.2/amd64/iso-dvd/atzlinux-10.3.2-amd64-DVD-1.iso
+	atzlinux-cd/10.3.3/amd64/iso-dvd/atzlinux-10.3.3-amd64-DVD-1.iso
+	-->
 </ul>
-下载的安装文件名为：<i>atzlinux-10.3.2-amd64-DVD-1.iso</i>
+下载的安装文件名为：<i>atzlinux-10.3.3-amd64-DVD-1.iso</i>
 <br>
 下载完成后，可进行完整性验证，支持校验和、公钥签名验证。
-验证所需<a href="https://www.atzlinux.com/atzlinux-cd/10.3.2/amd64/iso-dvd/" target="_blank">相关文件请访问这里</a>获取。
+验证所需<a href="https://www.atzlinux.com/atzlinux-cd/10.3.3/amd64/iso-dvd/" target="_blank">相关文件请访问这里</a>获取。
 <p>
 <br>
 该 iso 安装文件，支持目前国内市场上常用的 64 位 CPU。
@@ -114,18 +117,18 @@ https://cdn.atzlinux.com/atzlinux-cd/10.3.2/amd64/iso-dvd/atzlinux-10.3.2-amd64-
 支持多系统共存；支持多个硬盘,可以在机器上任一硬盘上的任一分区上安装。
 <h3>制作安装 U 盘</h3>
 建议使用 U 盘制作 iso 文件安装盘进行安装：
-在任一 Linux 系统下，可以使用如下命令制作安装 U 盘：（假设 U 盘为 /dev/sdb,U 盘的盘符可以在 U 盘插入后，用 dmesg 看到）
+在任一 Linux 系统下，可以使用如下命令制作安装 U 盘：（假设 U 盘为 /dev/sdb，U 盘的设备名可以在 U 盘插入后，用 root 用户在命令行执行
+dmesg 命令，看最后输出的几行中，就有 sd 字符串开头的 U 盘设备名）
 <br>
 请用 root 账号执行：
-<p>
-<i>
-dd if=atzlinux-10.3.2-amd64-DVD-1.iso of=/dev/sdb bs=8M
-</i>
-</p>
+<pre>
+
+<i>dd if=atzlinux-10.3.3-amd64-DVD-1.iso of=/dev/sdb bs=4M status=progress</i>
+</pre>
 其它操作系统可以用各类光盘镜像制作软件制作。
-如：
-<a href="http://cn.ultraiso.net/xiazai.html" target="_blank">
-UltraISO软碟通</a>
+如：UltraISO 软碟通（<a href="http://cn.ultraiso.net/xiazai.html" target="_blank">下载</a>
+<a href="https://jingyan.baidu.com/article/19020a0a7dabaa529d28428b.html" target="_blank">
+制作 u 盘启动盘教程</a>）、
 <a href="https://www.onlinedown.net/soft/110173.htm" target="_blank">
 Win32DiskImager</a>
 <a name="biosefi" />
@@ -188,6 +191,26 @@ Win32DiskImager</a>
 <br>
 <b><font color="red">请只选择其中一个</font></b>安装，如果同时勾选多个，会导致<b>安装报错！</b>
 </p>
+<a name="demo" />
+	<h4>《铜豌豆 Linux》三合一桌面环境 xfce 桌面<b>体验机器</b></h4>
+在任何操作系统上，使用任一远程桌面程序（RDP 协议），可登录该体验环境。
+<ul>
+登录信息：
+<li>主机：xall.atzlinux.com</li>
+<li>端口：3389 为远程桌面 RDP 协议默认端口</li>
+<li>用户名：wo wo1 wo2 三个中任一一个</li>
+<li>密码： debian168;</li>
+</ul>
+<ul>
+注意事项：
+<li>桌面分辨率建议设置为 1024*768</li>
+由于体验环境服务器带宽较小，如设置全屏或者大分辨率，可能操作响应会比较慢。
+<li>请大家不要修改密码</li>
+<li>每个用户，每次只能有一个人使用</li>
+如遇使用过程中退出情况，可以更换用户名重新登录，或者稍等下
+<li>请不要进行大流量传输</li>
+<li>禁止任何违法行为！</li>
+</ul>
 	<li>对磁盘进行分区</li>
 	根分区至少需要 10G 空间才可以完成安装。
 	swap 分区一般按 1 倍内存，但不超过 2 G 为宜。
@@ -259,7 +282,7 @@ Win32DiskImager</a>
 <ul>
 	<li>安装 wine qq</li>
 	<p>
-因腾讯官方 2019-10-24 日发布的 linuxqq 版本比较旧，本系统还支持安装 wine qq。
+因腾讯官方发布的 linuxqq 版本,目前功能还比较少，本系统还支持安装 wine qq。
 <br>
 这两个版本的 QQ 都可以在系统上使用。
 请在命令行执行如下命令安装：
@@ -282,22 +305,6 @@ apt -y install deepin.com.qq.im
 
 <i>apt -y install deepin.com.wechat</i>
 </pre>
-<li>安装补丁包</li>
-使用“xfce 完整版”安装的用户，请安装“铜豌豆 xfce 完整版补丁升级包”。
-<pre>
-
-<i>apt -y install atzlinux-update-patch-xfce</i>
-</pre>
-新支持如下功能：
-<ul>
-	<li>连接 iPhone 手机数据线</li>
-	自动发现 iPhone 手机存储、使用 iPhone 手机数据线上网
-	<li>自动发现新插入的 U 盘</li>
-	<li>在桌面自动展示非自动挂载的硬盘分区</li>
-	<li>在桌面自动展示非自动挂载的其它硬盘上的分区</li>
-</ul>
-以上功能将在后续新发布的 iso 中，默认在“xfce 完整版”中实现。<br>
-“三合一版本”的用户，无需安装此软件包，相关功能已经在初始安装时实现。
 <li>安装其它软件</li>
 请到铜豌豆软件源<a href="https://www.atzlinux.com/allpackages.htm">软件包列表</a>，按需安装其它软件。
 </ul>
@@ -329,8 +336,16 @@ apt upgrade
 https://gitee.com/atzlinux/debian-cn/tree/apt-install/
 </a></p>
 欢迎各位参与!
+<h2>捐赠 《铜豌豆 Linux》项目</h2>
+《铜豌豆 Linux》项目是开源项目，为维持项目持续发展运行，请积极
+<a href="https://www.atzlinux.com/juanzeng.htm">
+捐赠</a>。
+建议通过 iso 安装操作系统的用户，<b>捐赠 10 元</b>以上。
+<img src="./debian/img/wechat-pay.jpg" alt="微信收款码" width="44%">
+<img src="./debian/img/ali-pay.jpg" alt="支付宝收款码" width="44%">
 <p>
-<h2><a href="https://www.atzlinux.com/juanzeng.htm" target="_blank">欢迎捐赠本项目</a></h2>
+<a href="https://www.atzlinux.com/juanzeng.htm#liebiao">
+捐赠列表</a></p>
 <h2>联系方式</h2>
 欢迎提供意见、建议，请用如下任一方式联系。
 <ul>
@@ -386,7 +401,7 @@ OS2ATC 开源操作系统年度技术会议</a> 2019-12-14
 资料下载</a>
 </p>
 <p><a href="http://bluefish.openoffice.nl" target="_blank">Made with Bluefish HTML editor.</a>
-本文最后修改时间：2020-03-11
+本文最后修改时间：2020-04-14
 <a href="http://beian.miit.gov.cn" target="_blank">
 粤ICP备19157078号-1</a>
 <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502004897" target="_blank">
