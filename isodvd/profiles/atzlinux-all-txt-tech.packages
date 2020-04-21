@@ -152,3 +152,4 @@ dh-make-perl
 debmake
 reportbug
 dupload
+dgit
