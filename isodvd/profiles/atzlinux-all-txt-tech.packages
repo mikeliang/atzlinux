@@ -153,3 +153,4 @@ debmake
 reportbug
 dupload
 dgit
+dh-runit
