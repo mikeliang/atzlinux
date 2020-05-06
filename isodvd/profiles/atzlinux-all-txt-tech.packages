@@ -154,3 +154,5 @@ reportbug
 dupload
 dgit
 dh-runit
+apt-listchanges
+xtail
