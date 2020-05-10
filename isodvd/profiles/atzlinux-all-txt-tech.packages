@@ -152,3 +152,7 @@ dh-make-perl
 debmake
 reportbug
 dupload
+dgit
+dh-runit
+apt-listchanges
+xtail
