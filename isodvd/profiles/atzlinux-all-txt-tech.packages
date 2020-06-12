@@ -156,3 +156,4 @@ dgit
 dh-runit
 apt-listchanges
 xtail
+dh-python
