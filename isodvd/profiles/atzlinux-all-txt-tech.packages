@@ -136,7 +136,6 @@ atzlinux-update-patch-txt-tech
 zstd
 fcitx-pinyin
 fcitx-frontend-fbterm
-linux-support-4.19.0-8
 linux-headers-rt-amd64
 perl-openssl-defaults
 libnet-ssleay-perl
