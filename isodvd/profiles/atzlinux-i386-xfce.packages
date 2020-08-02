@@ -4,6 +4,8 @@ firmware-linux-free
 firmware-linux-nonfree
 firmware-misc-nonfree
 firmware-realtek
+firmware-brcm80211
+bluez-firmware
 albatross-gtk-theme
 arc-theme
 at-spi2-core
@@ -279,4 +281,3 @@ atzlinux-update-patch
 mtr
 ttf-mscorefonts-atzlinux
 linux-headers-rt-amd64
-firmware-brcm80211

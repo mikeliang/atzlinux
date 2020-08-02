@@ -4,6 +4,7 @@ firmware-linux-free
 firmware-linux-nonfree
 firmware-misc-nonfree
 firmware-realtek
+bluez-firmware
 file
 psmisc
 gpm
