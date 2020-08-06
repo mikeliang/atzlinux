@@ -164,3 +164,4 @@ dgit
 apt-listchanges
 xtail
 dh-python
+debsums
