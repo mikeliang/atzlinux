@@ -8,7 +8,6 @@ firmware-brcm80211
 bluez-firmware
 amd64-microcode
 intel-microcode
-fwupd-amd64-signed
 libaacs0
 libabw-0.1-1
 libao4
