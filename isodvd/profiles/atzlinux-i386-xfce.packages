@@ -281,3 +281,4 @@ mtr
 ttf-mscorefonts-atzlinux
 linux-headers-rt-amd64
 firmware-zd1211
+atmel-firmware

@@ -166,3 +166,4 @@ xtail
 dh-python
 debsums
 firmware-zd1211
+atmel-firmware
