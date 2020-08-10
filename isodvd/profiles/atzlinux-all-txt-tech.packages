@@ -165,3 +165,4 @@ apt-listchanges
 xtail
 dh-python
 debsums
+firmware-zd1211
