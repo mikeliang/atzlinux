@@ -167,6 +167,9 @@ d-i apt-setup/contrib boolean true
 d-i apt-setup/services-select multiselect security, updates, proposed, backports
 d-i apt-setup/security_host string mirrors.huaweicloud.com
 
+# 启用 APT 源代码软件源？
+apt-setup-udeb  apt-setup/enable-source-repositories    boolean false
+
 # Additional repositories, local[0-9] available
 #d-i apt-setup/local0/repository string \
 #       http://local.server/debian stable main
