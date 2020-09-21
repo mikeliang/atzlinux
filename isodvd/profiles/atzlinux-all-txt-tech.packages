@@ -168,3 +168,4 @@ debsums
 firmware-zd1211
 atmel-firmware
 exfat-utils
+dosfstools
