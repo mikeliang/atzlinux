@@ -21,7 +21,7 @@ atmel-firmware_1.3-4_all.deb
 youdao-dict_1.1.1-20200220atzlinux_amd64.deb
 ttf-mscorefonts-atzlinux_1.0.2_all.deb
 tenvideo-universal_1.0.10_amd64.deb
-baidunetdisk_3.3.2_amd64.deb
+baidunetdisk_3.4.1_amd64.deb
 bluez-firmware_1.2-4_all.deb
 unrar_5.6.6-1_amd64.deb
 flex_2.6.4-6.2_amd64.deb
@@ -1014,6 +1014,7 @@ liblilv-0-0_0.24.2~dfsg0-2_amd64.deb
 lsb-base_10.2019051400_all.deb
 lsb-release_10.2019051400_all.deb
 lftp_4.8.4-2_amd64.deb
+laptop-mode-tools_1.72-3_all.deb
 libllvm7_7.0.1-8+deb10u2_amd64.deb
 liblept5_1.76.0-1_amd64.deb
 lowmem_1.47_all.udeb
