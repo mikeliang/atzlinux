@@ -1,0 +1,38 @@
+# 
+
+# deb https://mirrors.huaweicloud.com/debian buster main contrib non-free
+# deb-src https://mirrors.huaweicloud.com/debian buster main contrib non-free
+# deb https://mirrors.huaweicloud.com/debian buster-updates main contrib non-free
+# deb-src https://mirrors.huaweicloud.com/debian buster-updates main contrib non-free
+# deb https://mirrors.huaweicloud.com/debian buster-backports main contrib non-free
+# deb-src https://mirrors.huaweicloud.com/debian buster-backports main contrib non-free
+# deb https://mirrors.huaweicloud.com/debian-security buster/updates main contrib non-free
+# deb-src https://mirrors.huaweicloud.com/debian-security buster/updates main contrib non-free
+# deb https://mirrors.huaweicloud.com/debian buster-proposed-updates main contrib non-free
+# deb-src https://mirrors.huaweicloud.com/debian buster-proposed-updates main contrib non-free
+# deb cdrom:[atzlinux GNU/Linux 10.6.1 _Buster_ - Unofficial amd64 DVD Binary-1 20200930-04:16]/ buster contrib main non-free
+
+#deb cdrom:[atzlinux GNU/Linux 10.6.1 _Buster_ - Unofficial amd64 DVD Binary-1 20200930-04:16]/ buster contrib main non-free
+
+deb https://mirrors.huaweicloud.com/debian buster main non-free contrib
+# deb-src https://mirrors.huaweicloud.com/debian buster main non-free contrib
+
+## atzlinux.com desktop project apt source
+deb https://apt.atzlinux.com/atzlinux buster  main contrib non-free
+
+deb http://mirrors.huaweicloud.com/debian-security buster/updates main contrib non-free
+# deb-src http://mirrors.huaweicloud.com/debian-security buster/updates main contrib non-free
+
+# buster-updates, previously known as 'volatile'
+deb https://mirrors.huaweicloud.com/debian buster-updates main contrib non-free
+# deb-src https://mirrors.huaweicloud.com/debian buster-updates main contrib non-free
+
+# buster-backports, previously on backports.debian.org
+deb https://mirrors.huaweicloud.com/debian buster-backports main contrib non-free
+# deb-src https://mirrors.huaweicloud.com/debian buster-backports main contrib non-free
+
+# This system was installed using small removable media
+# (e.g. netinst, live or single CD). The matching "deb cdrom"
+# entries were disabled at the end of the installation process.
+# For information about how to configure apt package sources,
+# see the sources.list(5) manual.
