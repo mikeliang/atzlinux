@@ -170,3 +170,4 @@ atmel-firmware
 exfat-utils
 dosfstools
 yiyantang
+git-buildpackage
