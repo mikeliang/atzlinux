@@ -32,13 +32,13 @@ ii  aspell-en                              2018.04.16-0-1                       
 ii  at-spi2-core                           2.30.0-7                                     amd64        Assistive Technology Service Provider Interface (dbus core)
 ii  atmel-firmware                         1.3-4                                        all          Firmware for Atmel at76c50x wireless networking chips.
 ii  atzlinux-archive-keyring               2020.08.07                                   all          GnuPG archive keys of the apt.atzlinux.com archive
-ii  atzlinux-store                         0.1.4                                        all          App store which contains useful apps in Chinese language
-ii  atzlinux-update-patch                  1.1.14                                       amd64        update patch system scripts for atzlinux
-ii  atzlinux-update-patch-xfce             1.1.14                                       amd64        update patch system scripts for atzlinux Xfce
+ii  atzlinux-store                         0.1.5                                        all          App store which contains useful apps in Chinese language
+ii  atzlinux-update-patch                  1.1.15                                       all          update patch system scripts for atzlinux
+ii  atzlinux-update-patch-xfce             1.1.15                                       all          update patch system scripts for atzlinux Xfce
 ii  avahi-autoipd                          0.7-4+b1                                     amd64        Avahi IPv4LL network address configuration daemon
 ii  ayatana-indicator-common               0.6.2-3                                      all          libayatana-indicator shared files
 ii  ayatana-indicator-session              0.4.3-2                                      amd64        Ayatana Indicator showing session management, status and user switching
-ii  baidunetdisk                           3.3.2                                        amd64        
+ii  baidunetdisk                           3.4.1                                        amd64        
 ii  bamfdaemon                             0.5.4-1                                      amd64        Window matching library - daemon
 ii  base-files                             10.3+deb10u6                                 amd64        Debian base system miscellaneous files
 ii  base-passwd                            3.5.46                                       amd64        Debian base system master password and group files
@@ -76,7 +76,7 @@ ii  chromium-common                        83.0.4103.116-1~deb10u3              
 ii  chromium-l10n                          83.0.4103.116-1~deb10u3                      all          web browser - language packs
 ii  chromium-sandbox                       83.0.4103.116-1~deb10u3                      amd64        web browser - setuid security sandbox for chromium
 ii  cifs-utils                             2:6.8-2                                      amd64        Common Internet File System utilities
-ii  cnapp-desktop-icons-atzlinux           2020.04.16                                   all          atzlinux desktop chinese app icons
+ii  cnapp-desktop-icons-atzlinux           2020.09.28                                   all          atzlinux desktop Chinese app icons
 ii  console-setup                          1.193~deb10u1                                all          console font and keymap setup program
 ii  console-setup-linux                    1.193~deb10u1                                all          Linux specific part of console-setup
 ii  convert-pgn                            0.29.6-4                                     amd64        chess book format converter
@@ -155,8 +155,8 @@ ii  file                                   1:5.35-4+deb10u1                     
 ii  filezilla                              3.39.0-2+deb10u1                             amd64        Full-featured graphical FTP/FTPS/SFTP client
 ii  filezilla-common                       3.39.0-2+deb10u1                             all          Architecture independent files for filezilla
 ii  findutils                              4.6.0+git+20190209-2                         amd64        utilities for finding files--find, xargs
-ii  firefox-esr                            68.12.0esr-1~deb10u1                         amd64        Mozilla Firefox web browser - Extended Support Release (ESR)
-ii  firefox-esr-l10n-zh-cn                 68.12.0esr-1~deb10u1                         all          Chinese (China) language package for Firefox ESR
+ii  firefox-esr                            78.3.0esr-1~deb10u1                          amd64        Mozilla Firefox web browser - Extended Support Release (ESR)
+ii  firefox-esr-l10n-zh-cn                 78.3.0esr-1~deb10u1                          all          Chinese (China) language package for Firefox ESR
 ii  firejail                               0.9.58.2-2+deb10u1                           amd64        sandbox to restrict the application environment
 ii  firmware-amd-graphics                  20200817-1~bpo10+1                           all          Binary firmware for AMD/ATI graphics chips
 ii  firmware-brcm80211                     20200817-1~bpo10+1                           all          Binary firmware for Broadcom/Cypress 802.11 wireless cards
@@ -1316,7 +1316,7 @@ ii  qml-module-qtquick-window2:amd64       5.11.3-4                             
 ii  qml-module-qtquick2:amd64              5.11.3-4                                     amd64        Qt 5 Qt Quick 2 QML module
 ii  qtchooser                              66-2                                         amd64        Wrapper to select between Qt development binary versions
 ii  qtcore4-l10n                           4:4.8.7+dfsg-18+deb10u1                      all          Qt 4 core module translations
-ii  qterm                                  1:0.7.4-2                                    amd64        BBS client for X Window System written in Qt
+ii  qterm                                  1:0.7.4+git20200929-atzlinux                 amd64        BBS client for X Window System written in Qt
 ii  rake                                   12.3.1-3+deb10u1                             all          ruby make-like utility
 ii  rar                                    2:5.5.0-1                                    amd64        Archiver for .rar files
 ii  readline-common                        7.0-5                                        all          GNU readline and history libraries, common files
