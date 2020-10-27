@@ -1,0 +1,8 @@
+firmware-iwlwifi
+firmware-linux-free
+firmware-linux-nonfree
+firmware-misc-nonfree
+bluez-firmware
+software-properties-common
+opencc
+dists-buster-files-atzlinux
