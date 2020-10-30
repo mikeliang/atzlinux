@@ -96,7 +96,7 @@ d-i netcfg/wireless_wep string
 # If you select ftp, the mirror/country string does not need to be set.
 d-i mirror/protocol string https
 d-i mirror/country string manual
-d-i mirror/https/hostname string mirrors.huaweicloud.com
+d-i mirror/https/hostname string mirrors.cloud.tencent.com
 d-i mirror/https/directory string /debian
 d-i mirror/https/proxy string
 
@@ -164,8 +164,8 @@ d-i apt-setup/contrib boolean true
 #d-i apt-setup/use_mirror boolean false
 # Select which update services to use; define the mirrors to be used.
 # Values shown below are the normal defaults.
-d-i apt-setup/services-select multiselect security, updates, proposed-updates, backports
-d-i apt-setup/security_host string mirrors.huaweicloud.com
+d-i apt-setup/services-select multiselect updates, proposed-updates, backports
+#d-i apt-setup/security_host string mirrors.cloud.tencent.com
 
 # 启用 APT 源代码软件源？
 apt-setup-udeb  apt-setup/enable-source-repositories    boolean false
@@ -307,5 +307,9 @@ d-i	samba-common/dhcp	boolean	true
 d-i apt-setup/local0/repository string \
 	https://apt.atzlinux.com/atzlinux buster  main contrib non-free
 d-i apt-setup/local0/comment string atzlinux.com desktop project apt source
+
+d-i apt-setup/local1/repository string \
+	deb https://mirrors.cloud.tencent.com/debian-security buster/updates main non-free contrib
+d-i apt-setup/local1/comment string security apt source
 
 d-i apt-setup/cdrom/set-first boolean	false
