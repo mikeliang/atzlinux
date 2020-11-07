@@ -335,4 +335,10 @@ lz4
 opencc
 telnet
 atzlinux-icons-misc
+intel-media-va-driver-non-free
+i965-va-driver-shaders
+intel-gpu-tools
+vainfo
+vdpau-driver-all
+vdpauinfo
 dists-buster-files-atzlinux
