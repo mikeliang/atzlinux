@@ -1,5 +1,5 @@
 # 《铜豌豆 Linux》-- 中文 Linux 桌面操作系统
-![《铜豌豆 Linux》图标](https://www.atzlinux.com/pics/logo/atzlinux_144x144.png)
+![《铜豌豆 Linux》图标](https://cdn.atzlinux.com/pics/logo/atzlinux_144x144.png)
 
 > https://www.atzlinux.com/
 
