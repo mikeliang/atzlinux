@@ -135,3 +135,8 @@ https://gitee.com/atzlinux/debian-cn/issues/I13NQT
 https://gitee.com/atzlinux/debian-cn/issues 或者微信群反馈。
 
 - 捐赠：https://www.atzlinux.com/juanzeng.htm
+
+## 联系方式
+
+目前项目有建立微信群和邮件列表，欢迎大家加入。
+加入方式，请访问：https://www.atzlinux.com/contact.htm
