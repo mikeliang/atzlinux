@@ -529,4 +529,5 @@ intel-gpu-tools
 vainfo
 vdpau-driver-all
 vdpauinfo
+gnome-system-tools
 dists-buster-files-atzlinux
