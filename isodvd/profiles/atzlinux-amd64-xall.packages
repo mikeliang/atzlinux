@@ -1,3 +1,4 @@
+apt-transport-https
 firmware-amd-graphics
 firmware-iwlwifi
 firmware-linux-free
@@ -359,7 +360,6 @@ acpid
 acpi-support-base
 alsa-utils
 apt-listchanges
-apt-transport-https
 debian-faq
 doc-debian
 e2fsprogs-l10n
