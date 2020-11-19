@@ -54,10 +54,8 @@ menulibre
 mousepad
 net-tools
 network-manager
-network-manager-gnome
 nxagent
 nx-x11-common
-policykit-1-gnome
 psmisc
 python3-pyqt5
 python3-sip
@@ -271,4 +269,5 @@ intel-gpu-tools
 vainfo
 vdpau-driver-all
 vdpauinfo
+kde-standard
 dists-buster-files-atzlinux
