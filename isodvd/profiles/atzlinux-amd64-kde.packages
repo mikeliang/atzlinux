@@ -5,7 +5,6 @@ firmware-linux-nonfree
 firmware-misc-nonfree
 firmware-realtek
 bluez-firmware
-arc-theme
 at-spi2-core
 ayatana-indicator-session
 budgie-sntray-plugin
@@ -58,7 +57,6 @@ python3-sip
 ristretto
 ruby-test-unit-notify
 shared-mime-info
-shiki-colors-xfwm-theme
 software-properties-common
 sudo
 task-chinese-s
