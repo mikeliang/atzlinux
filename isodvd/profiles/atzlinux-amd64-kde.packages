@@ -8,7 +8,6 @@ bluez-firmware
 at-spi2-core
 ayatana-indicator-session
 budgie-sntray-plugin
-cairo-dock-gmenu-plug-in
 desktop-profiles
 dnsutils
 exo-utils
@@ -45,7 +44,6 @@ libxfconf-0-2
 lightdm
 lightdm-gtk-greeter
 lxappearance
-menulibre
 mousepad
 net-tools
 network-manager
