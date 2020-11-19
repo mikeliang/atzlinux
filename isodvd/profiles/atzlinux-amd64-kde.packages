@@ -5,12 +5,9 @@ firmware-linux-nonfree
 firmware-misc-nonfree
 firmware-realtek
 bluez-firmware
-albatross-gtk-theme
 arc-theme
 at-spi2-core
 ayatana-indicator-session
-blackbird-gtk-theme
-bluebird-gtk-theme
 budgie-sntray-plugin
 cairo-dock-gmenu-plug-in
 desktop-profiles
@@ -33,7 +30,6 @@ firefox-esr-l10n-zh-cn
 fonts-wqy-microhei
 gamin
 gpm
-greybird-gtk-theme
 gxmessage
 iftop
 iotop
