@@ -63,7 +63,6 @@ task-chinese-s-desktop
 task-desktop
 tcpdump
 traceroute
-vala-sntray-plugin
 wget
 whois
 x11-xserver-utils
