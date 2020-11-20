@@ -8,7 +8,6 @@ firmware-realtek
 bluez-firmware
 at-spi2-core
 ayatana-indicator-session
-budgie-sntray-plugin
 desktop-profiles
 dnsutils
 exo-utils
@@ -53,7 +52,6 @@ nx-x11-common
 psmisc
 python3-pyqt5
 python3-sip
-ristretto
 ruby-test-unit-notify
 shared-mime-info
 software-properties-common
