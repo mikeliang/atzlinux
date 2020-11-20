@@ -182,7 +182,6 @@ tlp
 gdebi
 pulseaudio
 firejail
-cnapp-desktop-icons-kde-atzlinux
 dingtalk
 wiznote
 vim-gtk3
@@ -257,7 +256,11 @@ vainfo
 vdpau-driver-all
 vdpauinfo
 kde-standard
+systemsettings
+kwin-x11
+kwin-addons
 pinentry-qt
 atzlinux-update-patch
 atzlinux-update-patch-kde
+cnapp-desktop-icons-kde-atzlinux
 dists-buster-files-atzlinux
