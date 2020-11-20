@@ -260,6 +260,11 @@ systemsettings
 kwin-x11
 kwin-addons
 pinentry-qt
+kde-l10n-zhcn
+task-chinese-s-kde-desktop
+apper
+plasma-nm
+dragonplayer
 atzlinux-update-patch
 atzlinux-update-patch-kde
 cnapp-desktop-icons-kde-atzlinux
