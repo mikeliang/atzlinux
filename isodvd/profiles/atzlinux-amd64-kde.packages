@@ -218,7 +218,6 @@ fonts-noto-color-emoji
 gvfs-fuse
 ifuse
 ipheth-utils
-atzlinux-update-patch
 gvfs-backends
 simplescreenrecorder
 zstd
@@ -259,4 +258,6 @@ vdpau-driver-all
 vdpauinfo
 kde-standard
 pinentry-qt
+atzlinux-update-patch
+atzlinux-update-patch-kde
 dists-buster-files-atzlinux
