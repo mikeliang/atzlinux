@@ -258,4 +258,5 @@ vainfo
 vdpau-driver-all
 vdpauinfo
 kde-standard
+pinentry-qt
 dists-buster-files-atzlinux
