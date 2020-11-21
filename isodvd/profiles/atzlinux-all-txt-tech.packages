@@ -174,4 +174,6 @@ yiyantang
 git-buildpackage
 lz4
 opencc
+brightness-udev
+brightnessctl
 dists-buster-files-atzlinux
