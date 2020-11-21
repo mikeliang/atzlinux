@@ -390,6 +390,7 @@ libkf5identitymanagement5_18.08.3-2_amd64.deb
 kde-l10n-zhcn_17.08.3-5_all.deb
 konsole-kpart_18.04.0-1_amd64.deb
 konsole_18.04.0-1_amd64.deb
+kgamma5_5.14.5-1_amd64.deb
 kded5_5.54.0-1_amd64.deb
 kfind_17.08.3-2_amd64.deb
 libkf5emoticons-bin_5.54.0-1_amd64.deb
@@ -689,6 +690,10 @@ python3-debian_0.1.35_all.deb
 partman-jfs_57_all.udeb
 partman-btrfs_49_all.udeb
 libpangomm-1.4-1v5_2.42.0-2_amd64.deb
+powerdevil-data_5.14.5-1_all.deb
+powerdevil_5.14.5-1_amd64.deb
+libpowerdevilcore2_5.14.5-1_amd64.deb
+libpowerdevilui5_5.14.5-1_amd64.deb
 libixml10_1.8.4-2_amd64.deb
 libupnp13_1.8.4-2_amd64.deb
 perl-openssl-defaults_3_amd64.deb
@@ -1354,6 +1359,8 @@ android-liblog_8.1.0+r23-5_amd64.deb
 android-libcrypto-utils_8.1.0+r23-5_amd64.deb
 android-libadb_8.1.0+r23-5_amd64.deb
 libasound2-plugins_1.1.8-1_amd64.deb
+accountsservice_0.6.45-2_amd64.deb
+libaccountsservice0_0.6.45-2_amd64.deb
 android-libboringssl_8.1.0+r23-2_amd64.deb
 libasound2-udeb_1.1.8-1_amd64.udeb
 libasound2-data_1.1.8-1_all.deb
@@ -1361,8 +1368,8 @@ libasound2_1.1.8-1_amd64.deb
 libattica0.4_0.4.2-2+b11_amd64.deb
 adduser_3.118_all.deb
 acpid_2.0.32-1_amd64.deb
-atzlinux-update-patch_1.1.25_all.deb
-atzlinux-update-patch-kde_1.1.25_all.deb
+atzlinux-update-patch-kde_1.1.26_all.deb
+atzlinux-update-patch_1.1.26_all.deb
 atzlinux-store_0.1.9_all.deb
 akregator_18.08.3-2_amd64.deb
 libatk1.0-data_2.30.0-2_all.deb
@@ -1403,6 +1410,8 @@ libargon2-1_0~20171227-0.2_amd64.deb
 libargon2-1-udeb_0~20171227-0.2_amd64.udeb
 libplacebo7_1.7.0-2_amd64.deb
 libproxy1v5_0.4.15-5_amd64.deb
+libpwquality-common_1.4.0-3_all.deb
+libpwquality1_1.4.0-3_amd64.deb
 libpsl5_0.20.2-2_amd64.deb
 libpipeline1_1.5.1-2_amd64.deb
 libpcap0.8_1.8.1-6_amd64.deb
@@ -1453,6 +1462,7 @@ keyboard-configuration_1.193~deb10u1_all.deb
 libcairo2_1.16.0-4_amd64.deb
 libcairo-gobject2_1.16.0-4_amd64.deb
 libcfitsio7_3.450-3_amd64.deb
+libcrack2_2.9.6-2_amd64.deb
 libcrack2-udeb_2.9.6-2_amd64.udeb
 cheese_3.31.90-1_amd64.deb
 libcheese-gtk25_3.31.90-1_amd64.deb
@@ -1543,6 +1553,7 @@ libxcb-render0_1.13.1-2_amd64.deb
 libxcb-randr0_1.13.1-2_amd64.deb
 libxcb-glx0_1.13.1-2_amd64.deb
 libxcb-xfixes0_1.13.1-2_amd64.deb
+libxcb-dpms0_1.13.1-2_amd64.deb
 libxcb-dri2-0_1.13.1-2_amd64.deb
 libxcb-xv0_1.13.1-2_amd64.deb
 libxcb-record0_1.13.1-2_amd64.deb
@@ -2033,6 +2044,8 @@ libkpimgapitasks5_18.08.3-2_amd64.deb
 libsasl2-modules-kdexoauth2_18.08.3-2_amd64.deb
 libkpimgapicalendar5_18.08.3-2_amd64.deb
 libkpimgapicore5abi1_18.08.3-2_amd64.deb
+libkf5screen-bin_5.14.5-1_amd64.deb
+libkf5screen7_5.14.5-1_amd64.deb
 libkf5calendarsupport5abi1_18.08.3-1_amd64.deb
 libkf5calendarsupport-data_18.08.3-1_all.deb
 libkf5gravatar5abi2_18.08.3-1_amd64.deb
@@ -2163,6 +2176,7 @@ libudisks2-0_2.8.1-4_amd64.deb
 udisks2_2.8.1-4_amd64.deb
 usb.ids_2019.07.27-0+deb10u1_all.deb
 unar_1.10.1-2+b4_amd64.deb
+user-manager_5.14.5-1_amd64.deb
 unzip_6.0-25ubuntu1_amd64.deb
 uget_2.2.1-1+b1_amd64.deb
 libjs-underscore_1.9.1~dfsg-1_all.deb
