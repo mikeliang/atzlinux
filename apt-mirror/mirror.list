@@ -17,8 +17,12 @@ set _tilde 0
 #deb http://ftp.us.debian.org/debian unstable main contrib non-free
 #deb-src http://ftp.us.debian.org/debian unstable main contrib non-free
 
+# google-chrome-stable
 deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main
+# google-earth-pro-stable
 deb [arch=amd64] http://dl.google.com/linux/earth/deb/ stable main
+# opera-stable
+deb https://deb.opera.com/opera-stable/ stable non-free #Opera Browser (final releases)
 
 # mirror additional architectures
 #deb-alpha http://ftp.us.debian.org/debian unstable main contrib non-free
