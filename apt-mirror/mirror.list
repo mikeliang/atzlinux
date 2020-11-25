@@ -18,6 +18,7 @@ set _tilde 0
 #deb-src http://ftp.us.debian.org/debian unstable main contrib non-free
 
 deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main
+deb [arch=amd64] http://dl.google.com/linux/earth/deb/ stable main
 
 # mirror additional architectures
 #deb-alpha http://ftp.us.debian.org/debian unstable main contrib non-free
