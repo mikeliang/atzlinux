@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "开始卸载 Debian-cn 中文套件 ..."
+echo "开始卸载 atzlinux 中文套件 ..."
 
 apt -y purge  \
 baidunetdisk \
@@ -12,8 +12,12 @@ wps-office wps-office-fonts
 apt -y purge linuxqq
 
 apt -y purge debian-cn-fonts
+apt -y purge fonts-zh-cn-misc-atzlinux
+
+apt -y purge atzlinux-store
+apt -y purge atzlinux-archive-keyring
 
 echo "开始卸载不需要使用的中文软件依赖包 ..."
 apt -y autoremove
-
-./uninstall-debian-cn-repo.sh
+echo "卸载完成,谢谢使用《铜豌豆 Linux》！"
+echo "欢迎您在有需要的时候，再次使用《铜豌豆 Linux》https://www.atzlinux.com"
