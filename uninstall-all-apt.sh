@@ -11,7 +11,6 @@ wps-office wps-office-fonts
 
 apt -y purge linuxqq
 
-apt -y purge debian-cn-fonts
 apt -y purge fonts-zh-cn-misc-atzlinux
 
 apt -y purge atzlinux-store
