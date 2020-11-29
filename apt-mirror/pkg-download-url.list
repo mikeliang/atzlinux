@@ -1,4 +1,5 @@
-# pkgname url
+# pkgname section url
+# section: main contrib non-free
 alacritty
 com.thunisoft.input
 bitwarden
@@ -53,4 +54,4 @@ youdao-dict
 youker-assistant
 v2ray
 v2raylui
-zoom https://www.zoom.us/client/latest/zoom_amd64.deb
+zoom non-free https://www.zoom.us/client/latest/zoom_amd64.deb
