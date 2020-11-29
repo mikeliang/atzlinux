@@ -26,6 +26,9 @@ deb https://deb.opera.com/opera-stable/ stable non-free
 # code
 #deb [arch=amd64] http://packages.microsoft.com/repos/vscode stable main
 
+# typora
+deb https://typora.io/ linux
+
 # mirror additional architectures
 #deb-alpha http://ftp.us.debian.org/debian unstable main contrib non-free
 #deb-amd64 http://ftp.us.debian.org/debian unstable main contrib non-free
