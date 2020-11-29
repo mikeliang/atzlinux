@@ -40,13 +40,11 @@ scrcpy
 skypeforlinux
 sogoupinyin
 freewb
-stardict-gtk
-steam-launcher
-sublime-text
-systemd-swap
-tenvideo-universal
-uos-youku-app
-typora
+steam-launcher non-free https://store.steampowered.com/about/
+sublime-text non-free https://www.sublimetext.com
+systemd-swap main https://github.com/Nefelim4ag/systemd-swap
+tenvideo-universal non-free https://v.qq.com/download.html#Linux
+uos-youku-app non-free
 virtualbox-6.1 main https://www.virtualbox.org/wiki/Linux_Downloads
 wps-office non-free https://www.wps.cn/product/wpslinux
 youdao-dict non-free http://cidian.youdao.com/index-linux.html

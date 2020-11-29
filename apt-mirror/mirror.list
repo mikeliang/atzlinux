@@ -25,7 +25,6 @@ deb [arch=amd64] http://dl.google.com/linux/earth/deb/ stable main
 deb https://deb.opera.com/opera-stable/ stable non-free
 # code
 #deb [arch=amd64] http://packages.microsoft.com/repos/vscode stable main
-
 # typora
 deb https://typora.io/ linux
 
