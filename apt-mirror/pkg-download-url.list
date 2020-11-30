@@ -8,7 +8,6 @@ weibird
 mymahjong
 llk-linux
 freedownloadmanager
-honkai-import-background
 yozo-office
 zwcad-linuxpreinst
 pencil
@@ -32,9 +31,7 @@ dingtalk-electron
 mitalk
 mytime
 linuxqq
-netease-cloud-music
-cocomusic
-notepadqq-gtk
+netease-cloud-music non-free
 reciteword main http://reciteword.sourceforge.net/
 scrcpy main https://github.com/Genymobile/scrcpy/
 skypeforlinux non-free https://repo.skype.com/latest/skypeforlinux-64.deb
