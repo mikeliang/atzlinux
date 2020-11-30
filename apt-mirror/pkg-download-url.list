@@ -35,11 +35,11 @@ linuxqq
 netease-cloud-music
 cocomusic
 notepadqq-gtk
-reciteword
-scrcpy
+reciteword main http://reciteword.sourceforge.net/
+scrcpy main https://github.com/Genymobile/scrcpy/
 skypeforlinux non-free https://repo.skype.com/latest/skypeforlinux-64.deb
 sogoupinyin non-free https://pinyin.sogou.com/linux/
-freewb
+freewb non-free http://www.freewb.org
 steam-launcher non-free https://store.steampowered.com/about/
 sublime-text non-free https://www.sublimetext.com
 systemd-swap main https://github.com/Nefelim4ag/systemd-swap
