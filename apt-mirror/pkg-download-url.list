@@ -22,16 +22,15 @@ electron-ssr
 anydesk
 teamviewer
 atom
-baidunetdisk
-electronic-wechat
-deepin.com.wechat:i386
-deepin.com.qq.im:i386
-dingtalk
-dingtalk-electron
-mitalk
-mytime
-linuxqq
-netease-cloud-music non-free
+baidunetdisk non-free http://pan.baidu.com/download
+electronic-wechat non-free
+deepin.com.wechat:i386 non-free
+deepin.com.qq.im:i386 non-free
+dingtalk-electron main https://github.com/nashaofu/dingtalk/releases/
+mitalk non-free http://www.miliao.com
+mytime non-free https://mytime.ruanmei.com
+linuxqq non-free https://im.qq.com/linuxqq/download.html
+netease-cloud-music non-free https://music.163.com/#/download
 reciteword main http://reciteword.sourceforge.net/
 scrcpy main https://github.com/Genymobile/scrcpy/
 skypeforlinux non-free https://repo.skype.com/latest/skypeforlinux-64.deb
