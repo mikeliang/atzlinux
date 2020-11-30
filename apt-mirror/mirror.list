@@ -31,6 +31,8 @@ deb https://typora.io/ linux
 deb https://repo.steampowered.com/steam stable steam
 # skypeforlinux
 deb [arch=amd64] https://repo.skype.com/deb stable main
+# https://github.com/coslyk/debianopt-repo
+deb-amd64 https://dl.bintray.com/debianopt/debianopt buster main
 
 # mirror additional architectures
 #deb-alpha http://ftp.us.debian.org/debian unstable main contrib non-free
