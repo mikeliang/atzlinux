@@ -37,10 +37,9 @@ cocomusic
 notepadqq-gtk
 reciteword
 scrcpy
-skypeforlinux
-sogoupinyin
+skypeforlinux non-free https://repo.skype.com/latest/skypeforlinux-64.deb
+sogoupinyin non-free https://pinyin.sogou.com/linux/
 freewb
-steam-launcher non-free https://store.steampowered.com/about/
 sublime-text non-free https://www.sublimetext.com
 systemd-swap main https://github.com/Nefelim4ag/systemd-swap
 tenvideo-universal non-free https://v.qq.com/download.html#Linux
