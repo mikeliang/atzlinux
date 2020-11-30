@@ -29,6 +29,8 @@ deb https://deb.opera.com/opera-stable/ stable non-free
 deb https://typora.io/ linux
 # steam-launcher
 deb https://repo.steampowered.com/steam stable steam
+# skypeforlinux
+deb [arch=amd64] https://repo.skype.com/deb stable main
 
 # mirror additional architectures
 #deb-alpha http://ftp.us.debian.org/debian unstable main contrib non-free
