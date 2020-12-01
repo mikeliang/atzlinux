@@ -39,6 +39,8 @@ deb-amd64 https://dl.bintray.com/debianopt/debianopt buster main
 deb [arch=amd64] https://debrepo.freedownloadmanager.org/ bionic main
 # fsearch-trunk
 deb http://ppa.launchpad.net/christian-boxdoerfer/fsearch-daily/ubuntu focal main
+# anydesk
+deb http://deb.anydesk.com/ all main
 
 # mirror additional architectures
 #deb-alpha http://ftp.us.debian.org/debian unstable main contrib non-free
