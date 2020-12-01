@@ -13,9 +13,8 @@ master-pdf-editor non-free https://code-industry.net/get-master-pdf-editor-for-u
 xmind-vana
 synergy main https://members.symless.com/download-authentication
 openboard
-slack-desktop
-electron-ssr
-anydesk
+slack-desktop non-free https://slack.com/intl/en-cn/downloads/instructions/ubuntu
+electron-ssr main https://github.com/shadowsocksrr/electron-ssr/tags
 teamviewer non-free https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
 atom main https://atom.io/download/deb
 baidunetdisk non-free http://pan.baidu.com/download
