@@ -1,13 +1,11 @@
 # pkgname section url
 # section: main contrib non-free
-alacritty
-com.thunisoft.input
-bitwarden
-com.xunlei.download
-weibird
-mymahjong
-llk-linux
-freedownloadmanager
+alacritty main https://github.com/alacritty/alacritty/releases
+com.thunisoft.input non-free https://pinyin.thunisoft.com/index.html#/sy
+bitwarden main https://vault.bitwarden.com/download/?app=desktop&platform=linux&variant=deb
+weibird contrib
+llk-linux main http://llk-linux.sourceforge.net/
+freedownloadmanager main https://dn3.freedownloadmanager.org/6/latest/freedownloadmanager.deb
 yozo-office
 zwcad-linuxpreinst
 pencil
@@ -27,6 +25,7 @@ electronic-wechat contrib http://archive.kylinos.cn/kylin/partner/pool/
 deepin.com.wechat:i386 non-free
 deepin.com.qq.im:i386 non-free
 uos-youku-app non-free
+com.xunlei.download non-free
 dingtalk-electron main https://github.com/nashaofu/dingtalk/releases/
 mitalk non-free http://www.miliao.com
 mytime non-free https://mytime.ruanmei.com
