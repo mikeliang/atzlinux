@@ -20,7 +20,7 @@ sysbro
 slack-desktop
 electron-ssr
 anydesk
-teamviewer
+teamviewer non-free https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
 atom main https://atom.io/download/deb
 baidunetdisk non-free http://pan.baidu.com/download
 electronic-wechat contrib http://archive.kylinos.cn/kylin/partner/pool/
