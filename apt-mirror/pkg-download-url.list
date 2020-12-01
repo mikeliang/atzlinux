@@ -3,10 +3,9 @@
 alacritty main https://github.com/alacritty/alacritty/releases
 com.thunisoft.input non-free https://pinyin.thunisoft.com/index.html#/sy
 bitwarden main https://vault.bitwarden.com/download/?app=desktop&platform=linux&variant=deb
-weibird
-mymahjong
-llk-linux
-freedownloadmanager
+weibird contrib
+llk-linux main http://llk-linux.sourceforge.net/
+freedownloadmanager main https://dn3.freedownloadmanager.org/6/latest/freedownloadmanager.deb
 yozo-office
 zwcad-linuxpreinst
 pencil
