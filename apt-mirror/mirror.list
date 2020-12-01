@@ -33,6 +33,10 @@ deb https://repo.steampowered.com/steam stable steam
 deb [arch=amd64] https://repo.skype.com/deb stable main
 # https://github.com/coslyk/debianopt-repo
 deb-amd64 https://dl.bintray.com/debianopt/debianopt buster main
+# teamviewer
+#deb https://linux.teamviewer.com/deb stable main
+# freedownloadmanager
+deb [arch=amd64] https://debrepo.freedownloadmanager.org/ bionic main
 
 # mirror additional architectures
 #deb-alpha http://ftp.us.debian.org/debian unstable main contrib non-free
