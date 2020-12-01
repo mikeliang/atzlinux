@@ -6,15 +6,14 @@ bitwarden main https://vault.bitwarden.com/download/?app=desktop&platform=linux&
 weibird contrib
 llk-linux main http://llk-linux.sourceforge.net/
 freedownloadmanager main https://dn3.freedownloadmanager.org/6/latest/freedownloadmanager.deb
-yozo-office
-zwcad-linuxpreinst
-pencil
+yozo-office non-free http://www.yozosoft.com/
+zwcad-linuxpreinst non-free https://www.zwcad.com/product/cad_linux.html
+pencil main http://pencil.evolus.vn/Downloads.html
 fsearch-trunk
 master-pdf-editor
 xmind-vana
 synergy
 openboard
-sysbro
 slack-desktop
 electron-ssr
 anydesk
