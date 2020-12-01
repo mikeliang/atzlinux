@@ -21,11 +21,12 @@ slack-desktop
 electron-ssr
 anydesk
 teamviewer
-atom
+atom main https://atom.io/download/deb
 baidunetdisk non-free http://pan.baidu.com/download
-electronic-wechat non-free
+electronic-wechat contrib http://archive.kylinos.cn/kylin/partner/pool/
 deepin.com.wechat:i386 non-free
 deepin.com.qq.im:i386 non-free
+uos-youku-app non-free
 dingtalk-electron main https://github.com/nashaofu/dingtalk/releases/
 mitalk non-free http://www.miliao.com
 mytime non-free https://mytime.ruanmei.com
@@ -40,7 +41,6 @@ steam-launcher non-free https://store.steampowered.com/about/
 sublime-text non-free https://www.sublimetext.com
 systemd-swap main https://github.com/Nefelim4ag/systemd-swap
 tenvideo-universal non-free https://v.qq.com/download.html#Linux
-uos-youku-app non-free
 virtualbox-6.1 main https://www.virtualbox.org/wiki/Linux_Downloads
 wps-office non-free https://www.wps.cn/product/wpslinux
 youdao-dict non-free http://cidian.youdao.com/index-linux.html
