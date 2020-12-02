@@ -10,9 +10,9 @@ yozo-office non-free http://www.yozosoft.com/
 zwcad-linuxpreinst non-free https://www.zwcad.com/product/cad_linux.html
 pencil main http://pencil.evolus.vn/Downloads.html
 master-pdf-editor non-free https://code-industry.net/get-master-pdf-editor-for-ubuntu/?download
-xmind-vana
+xmind-vana non-free https://www.xmind.net/download/
 synergy main https://members.symless.com/download-authentication
-openboard
+openboard main https://github.com/OpenBoard-org/OpenBoard/releases
 slack-desktop non-free https://slack.com/intl/en-cn/downloads/instructions/ubuntu
 electron-ssr main https://github.com/shadowsocksrr/electron-ssr/tags
 teamviewer non-free https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
