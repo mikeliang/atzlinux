@@ -3,6 +3,7 @@ firmware-linux-free
 firmware-linux-nonfree
 firmware-misc-nonfree
 bluez-firmware
+apt-transport-https
 software-properties-common
 opencc
 dists-buster-files-atzlinux
