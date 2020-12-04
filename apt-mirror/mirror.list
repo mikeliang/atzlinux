@@ -41,6 +41,9 @@ deb [arch=amd64] https://debrepo.freedownloadmanager.org/ bionic main
 deb http://ppa.launchpad.net/christian-boxdoerfer/fsearch-daily/ubuntu focal main
 # anydesk
 deb http://deb.anydesk.com/ all main
+# http://archive.kylinos.cn/kylin/partner/pool/
+#deb-amd64 http://archive.kylinos.cn/kylin/partner 10.1 main
+deb-amd64 http://archive.kylinos.cn/kylin/partner juniper main
 
 # mirror additional architectures
 #deb-alpha http://ftp.us.debian.org/debian unstable main contrib non-free
