@@ -51,6 +51,8 @@ task-laptop
 
 # add by atzlinux, need by last grub install step
 os-prober
+libefivar1
+libefiboot1
 efibootmgr
 grub-efi-amd64-signed
 mokutil
