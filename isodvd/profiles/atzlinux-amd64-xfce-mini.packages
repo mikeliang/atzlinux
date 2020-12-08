@@ -6,6 +6,8 @@ firmware-linux-nonfree
 firmware-misc-nonfree
 firmware-realtek
 xserver-xorg-video-intel
+iw
+wireless-tools
 network-manager
 
 wget
