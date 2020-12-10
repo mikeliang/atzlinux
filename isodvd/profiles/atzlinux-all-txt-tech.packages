@@ -176,4 +176,5 @@ lz4
 opencc
 brightness-udev
 brightnessctl
+tmux
 dists-buster-files-atzlinux
