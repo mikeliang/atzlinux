@@ -1,3 +1,14 @@
+# 星火商店 spark-store
+# https://www.spark-app.store/
+#
+# 软件包已经下载至：
+# https://lx.atzlinux.com:24359/spark-store/
+# 需要对这些软件包做兼容性测试
+#
+# 测试前，请添加 Debian 的 buster-backports 源，并执行 apt update；
+# 安装时，请先将软件包下载至本地，再用 apt install ./pkgname.deb 命令安装。
+#
+
 actinidia_1.0.0_amd64.deb 图标运行正常，命令行运行添加参数可以，不添加参数运行报错。但是没有man手册，一般人不知道添加什么参数。
 admin-xdg-open_1.1.1_all.deb 安装缺失依赖dde-file-manager.dde正在往debian仓库推送
 alacritty_0.5.0-1_amd64.deb 运行显示异常，尝试输入，报段错误
