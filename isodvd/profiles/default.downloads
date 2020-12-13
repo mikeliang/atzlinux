@@ -59,6 +59,9 @@ shim-helpers-amd64-signed
 shim-signed-common
 shim-signed
 
+# add by atzlinux, https://wiki.debian.org/wl, Broadcom wireless LAN driver (wl, aka broadcom-sta)
+broadcom-sta-dkms
+
 # add by atzlinux, add all debian-cd firmware_task pkg
 firmware-b43-installer
 firmware-b43legacy-installer
