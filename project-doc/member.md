@@ -9,8 +9,8 @@
 Name: 中英文、网名、昵称均可
 Uid: 参与铜豌豆项目的 id ，一般和 @atzlinux.com 邮箱一致
 Email: 多个邮箱地址，用一个英文逗号隔开
-GPGid: 使用 gpg --keyid-format 0xshort -k 输出查看 0x 开头的 8 位 gpg key id
-       多个 id，用一个英文逗号隔开,或者 gpg --list-key --with-fingerprint --keyid-format 0xshort
+GPGid: 使用 gpg --keyid-format 0xlong -k 输出查看 0x 开头的 8 位 gpg key id
+       多个 id，用一个英文逗号隔开,或者 gpg --list-key --with-fingerprint --keyid-format 0xlong
 Since：成为项目成员的时间, yyyy-mm-dd
 ```
 添加时，请注意保留以下几行为空，方便后续新成员直接复制添加。
@@ -39,8 +39,8 @@ Since：成为项目成员的时间, yyyy-mm-dd
 ## javasboy(刘荣星)
 - Name: javasboy(刘荣星)
 - Uid: javasboy
-- Email: motion@atzlinux.com-17
-- GPGid: 0x7F4488BC
+- Email: motion@atzlinux.com
+- GPGid: 0x796FC1CC7F4488BC
 - Since: 2019-11-27
 
 ## jinbuguo(金步国)
