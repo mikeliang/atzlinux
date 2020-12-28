@@ -31,14 +31,14 @@ Since：成为项目成员的时间, yyyy-mm-dd
 
 ## Zenghai Liang(梁增海)
 - Name: Zenghai Liang(梁增海)
-- Uid: mikeliang
+- Uid: mike
 - Email: combbs@gmail.com,mike@atzlinux.com
 - GPGid: 0x863B3E2DAD77B97E
 - Since: 2019-10-25
 
 ## javasboy(刘荣星)
 - Name: javasboy(刘荣星)
-- Uid: javasboy
+- Uid: motion
 - Email: motion@atzlinux.com
 - GPGid: 0x796FC1CC7F4488BC
 - Since: 2019-11-27
@@ -52,7 +52,7 @@ Since：成为项目成员的时间, yyyy-mm-dd
 
 ## PokerFace
 - Name：PokerFace
-- Uid:PokerFace
+- Uid: pokerface
 - Email:pokerface@atzlinux.com
 - GPGid:0xD25BBE091FFA58EE
 - Since：2020-08-17
