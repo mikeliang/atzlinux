@@ -9,7 +9,7 @@
 Name: 中英文、网名、昵称均可
 Uid: 参与铜豌豆项目的 id ，一般和 @atzlinux.com 邮箱一致
 Email: 多个邮箱地址，用一个英文逗号隔开
-GPGid: 使用 gpg --keyid-format 0xlong -k 输出查看 0x 开头的 8 位 gpg key id
+GPGid: 使用 gpg --keyid-format 0xlong -K 输出查看 0x 开头的 16 位 gpg key id
        多个 id，用一个英文逗号隔开,或者 gpg --list-key --with-fingerprint --keyid-format 0xlong
 Since：成为项目成员的时间, yyyy-mm-dd
 ```
