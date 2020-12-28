@@ -54,6 +54,6 @@ Since：成为项目成员的时间, yyyy-mm-dd
 - Name：PokerFace
 - Uid:PokerFace
 - Email:pokerface@atzlinux.com
-- GPGid:暂无
+- GPGid:0xD25BBE091FFA58EE
 - Since：2020-08-17
 
