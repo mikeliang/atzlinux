@@ -48,7 +48,7 @@ Since：成为项目成员的时间, yyyy-mm-dd
 
   - dpkg -b 打包
 
-  - Tex/Latex
+  - TeX/LaTeX
 
   #### 代表项目
 
@@ -61,6 +61,7 @@ Since：成为项目成员的时间, yyyy-mm-dd
     https://sourceforge.net/projects/emacslocale/files/xiangqi/winboard-XQ/
 
   - AtzLinux 项目，多款免费商用的“英文/中文/世界各国国旗图案/海事旗语图案”字体 DEB 包的打包维护者。
+    详见：微信公众号：kuiba81 (字甲达宾)
 
 ## javasboy(刘荣星)
 - Name: javasboy(刘荣星)
