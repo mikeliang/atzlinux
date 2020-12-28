@@ -36,6 +36,32 @@ Since：成为项目成员的时间, yyyy-mm-dd
 - GPGid: 0x863B3E2DAD77B97E
 - Since: 2019-10-25
 
+## Careone (字甲达宾)
+- Name: Careone (字甲达宾)
+- Uid: careone
+- Email: emacslocale@126.com,careone@atzlinux.com
+- GPGid: 
+- Since: 2019-10-07
+- Profile: 
+
+  #### 特长
+
+  - dpkg -b 打包
+
+  - Tex/Latex
+
+  #### 代表项目
+
+  - xboard-xiangqi (XBoard 中国象棋增强插件 DEB 包) 的主要开发者。测试并适配了多款 xboard 中国象棋引擎：maxqi, hoixiangqi, sjaakii, eleeye (象眼), haqikid。
+
+  - WinBoard-XQ 4.8.0 (WinBoard 中国象棋专版-中文版）的维护者。
+
+    项目主页 (SourceForge): 
+
+    https://sourceforge.net/projects/emacslocale/files/xiangqi/winboard-XQ/
+
+  - AtzLinux 项目，多款免费商用的“英文/中文/世界各国国旗图案/海事旗语图案”字体 DEB 包的打包维护者。
+
 ## javasboy(刘荣星)
 - Name: javasboy(刘荣星)
 - Uid: motion
