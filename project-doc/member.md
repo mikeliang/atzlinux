@@ -33,7 +33,7 @@ Since：成为项目成员的时间, yyyy-mm-dd
 - Name: Zenghai Liang(梁增海)
 - Uid: mikeliang
 - Email: combbs@gmail.com,mike@atzlinux.com
-- GPGid: 0xAD77B97E
+- GPGid: 0x863B3E2DAD77B97E
 - Since: 2019-10-25
 
 ## javasboy(刘荣星)
