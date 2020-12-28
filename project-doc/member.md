@@ -31,7 +31,7 @@ Since：成为项目成员的时间, yyyy-mm-dd
 ## javasboy(刘荣星)
 - Name: javasboy(刘荣星)
 - Uid: javasboy
-- Email: motion@atzlinux.com
+- Email: motion@atzlinux.com-17
 - GPGid: 0x7F4488BC
 - Since: 2019-11-27
 ## jinbuguo(金步国)
@@ -40,3 +40,9 @@ Since：成为项目成员的时间, yyyy-mm-dd
 - Email: csfrank@qq.com
 - GPGid: 暂无
 - Since: 2020-12-28
+## PokerFace
+- Name：PokerFace
+- Uid:PokerFace
+- Email:pokerface@atzlinux.com
+- GPGid:暂无
+- Since：2020-08-17
