@@ -34,3 +34,9 @@ Since：成为项目成员的时间, yyyy-mm-dd
 - Email: motion@atzlinux.com
 - GPGid: 0x7F4488BC
 - Since: 2019-11-27
+## jinbuguo(金步国)
+- Name: jinbuguo(金步国)
+- Uid: jinbuguo
+- Email: csfrank@qq.com
+- GPGid: 暂无
+- Since: 2020-12-28
