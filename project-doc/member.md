@@ -85,3 +85,10 @@ Since：成为项目成员的时间, yyyy-mm-dd
 - GPGid:0xD25BBE091FFA58EE
 - Since：2020-08-17
 
+## qinxialei(秦夏磊)
+- Name: qinxialei(秦夏磊)
+- Uid: xialeiqin
+- Email: xialeiqin@gmail.com
+- GPGid: 0x3940C9C3FE893883
+- Since: 2020-12-12
+
