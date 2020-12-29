@@ -5,8 +5,7 @@ GPG 公钥上传
 
 目前互联网上有几个常用的公钥服务器，对公钥上传，email 确认，身份验证方式略有不同。
 
-##
-keys.openpgp.org
+## keys.openpgp.org
 
 使用方法：
 https://keys.openpgp.org/about/usage
@@ -23,5 +22,5 @@ gpg --search-keys 0x863B3E2DAD77B97E
 
 其余 keyserver 的使用情况，欢迎大家补充。
 
-##
+## hkps.pool.sks-keyservers.net
 http://hkps.pool.sks-keyservers.net/
