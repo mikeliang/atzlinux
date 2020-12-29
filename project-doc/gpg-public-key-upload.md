@@ -22,5 +22,13 @@ gpg --search-keys 0x863B3E2DAD77B97E
 
 其余 keyserver 的使用情况，欢迎大家补充。
 
+## keys.gnupg.net
 ## hkps.pool.sks-keyservers.net
+keys.gnupg.net 和 hkps.pool.sks-keyservers.net 是同一个服务，有多个域名。
+
 http://hkps.pool.sks-keyservers.net/
+
+## keyserver.ubuntu.com
+https://keyserver.ubuntu.com/
+
+gpg --keyserver keyserver.ubuntu.com --search-keys xsw@atzlinux.com
