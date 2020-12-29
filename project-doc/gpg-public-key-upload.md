@@ -5,6 +5,7 @@ GPG 公钥上传
 
 目前互联网上有几个常用的公钥服务器，对公钥上传，email 确认，身份验证方式略有不同。
 
+##
 keys.openpgp.org
 
 使用方法：
@@ -21,3 +22,6 @@ gpg --search-keys 0x863B3E2DAD77B97E
 注意要使用 16 位的长格式，或者 email 地址来搜索，8 位短格式的 id ，在 keys.openpgp.org 不支持，会提示无法搜索到。
 
 其余 keyserver 的使用情况，欢迎大家补充。
+
+##
+http://hkps.pool.sks-keyservers.net/
