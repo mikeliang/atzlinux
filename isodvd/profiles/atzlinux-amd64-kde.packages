@@ -211,6 +211,14 @@ kigo
 gnugo
 fonts-noto-cjk
 fonts-noto-color-emoji
+libplist-utils
+ideviceinstaller
+python-imobiledevice
+libimobiledevice-utils
+python-plist
+libusbmuxd-tools
+usbmuxd
+gvfs-bin
 gvfs-fuse
 ifuse
 ipheth-utils
