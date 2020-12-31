@@ -5,6 +5,14 @@
 
 目前互联网上有几个常用的公钥服务器，对公钥上传，email 确认，身份验证方式略有不同。
 
+- 查看当前用户子钥、指纹、keygrip 信息：
+```shell script
+gpg --with-keygrip --keyid-format 0xlong --fingerprint -K
+```
+- 默认的上传公钥命令示例：
+```shell script
+gpg --send-keys 0x2F338C7DC7909957
+```
 ## 1. keys.openpgp.org
 
 ### 使用方法：
