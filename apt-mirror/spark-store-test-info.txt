@@ -30,48 +30,59 @@ bear-say_1.0.0_all.deb 安装依赖不满足
 软件包名：bleachbit_4.0.0_all.deb
 应用名称：bleachbit
 测试结果：可以正常安装，使用，卸载
+收录情况：之前已经收录
 
 软件包名：blender_2.79.b+dfsg0-7_mips64el.deb
 测试结果：架构为mips，无环境，暂未测试
 
 软件包名：blossom_1.0_all.deb 
 测试结果：可以正常安装，卸载
+收录情况：没有必要收录，该软件包主要是 deepin 图片相关
 
 软件包名：boostnote_0.16.1-1_amd64.deb
 应用名称：boostnote
 测试结果：可以正常安装，使用，卸载
+收录情况：无中文界面，暂不收录
 
 软件包名：browser360-cn-stable_12.2.1070.0-1_amd64.deb 
 应用名称：360浏览器
 测试结果：可以正常安装，使用，卸载
+收录情况：铜豌豆现有浏览器已经够用，暂不收录
 
 软件包名：burpsuite_2020.5.1-0kali_amd64.deb 
 应用名称：burpsuite
 测试结果：可以正常安装，使用，卸载
+收录情况：无中文界面，暂不收录
 
 软件包名：cajviewer_1.0+sm1_amd64.deb 
 应用名称：cajviewer
 测试结果：可以正常安装，使用，卸载
+收录情况：增加收录，2020-12-31
 
 软件包名：carrion_1.0.0_amd64.deb 
 应用名称：红怪
 测试结果：可以正常安装，使用，卸载
+收录情况：增加收录，2020-12-31
 
 软件包名：chaoxin_1.8.3_amd64.deb
 应用名称：潮信
 测试结果：可以正常安装，使用，卸载
+收录情况：增加收录，2020-12-31
 
 软件包名：chiaki_1.2.1_amd64.deb
 应用名称：chiaki
 测试结果：可以正常安装，使用，卸载
+收录情况：无中文界面，暂不收录
 
 软件包名：chord_0.2.29-174_amd64.deb
 应用名称：chord
 测试结果：可以正常安装，使用，卸载
+收录情况：无中文界面，暂不收录
 
 软件包名：ciano.spark_0.2.4_amd64.deb 
 应用名称：ciano
 测试结果：可以正常安装，使用，卸载
+收录情况：无法实际转换文件格式，暂不收录
 
 软件包名：cn.lceda_4.2.12_amd64.deb 
 应用名称：力创EDA
@@ -80,18 +91,22 @@ bear-say_1.0.0_all.deb 安装依赖不满足
 软件包名：cocomusic_2.0.7_amd64.deb 
 应用名称：cocomusic
 测试结果：可以正常安装，运行和卸载
+收录情况：之前已经收录
 
 软件包名：code_1.49.0-1599744551_amd64.deb
 应用名称：vs code   
 测试结果：可以正常安装，运行和卸载
+收录情况：之前已经收录
 
 软件包名：codium_1.49.3-1601685407_amd64.deb 
 应用名称：vs codium
 测试结果：可以正常安装，运行和卸载
+收录情况：之前已经收录
 
 软件包名：com.anki.spark_2.1.34_amd64.deb 
 应用名称：anki
 测试结果：可以正常安装，运行和卸载
+收录情况：增加收录，2020-12-31
 
 软件包名：com.baidu.naotu_3.2.3_amd64.deb
 应用名称：kityminder
@@ -103,6 +118,7 @@ bear-say_1.0.0_all.deb 安装依赖不满足
 软件包名：com.bigjpg.web_1.0_amd64.deb
 应用名称：bigjpg
 测试结果：可以正常安装，运行和卸载
+收录情况：增加收录，2020-12-31
 
 软件包名：com.dida365.nonofficial_1.0_all.deb
 应用名称：滴答清单
@@ -127,6 +143,7 @@ bear-say_1.0.0_all.deb 安装依赖不满足
 软件包名：com.mozhes_1.9.7_amd64.deb
 应用名称：墨者
 测试结果：软件可以正常安装，运行和卸载
+收录情况：增加收录，2020-12-31
 
 软件包名：com.obsproject.studio_26.0.2_all.deb
 应用名称：obs-studio
@@ -171,10 +188,12 @@ bear-say_1.0.0_all.deb 安装依赖不满足
 软件包名：copytranslator_9.0.2_amd64.deb 
 应用名称：copytranslateor
 测试结果：软件可以正常安装，运行和卸载
+收录情况：无法实现翻译功能，暂不收录
 
 软件包名：cryptomator_1.5.5_amd64.deb 
 应用名称：cryptomator
 测试结果：软件可以正常安装，运行和卸载
+收录情况：增加收录，2020-12-31
 
 软件包名：cstrike_1.6_amd64.deb
 应用名称：cs1.6
