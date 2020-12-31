@@ -531,5 +531,6 @@ vdpau-driver-all
 vdpauinfo
 gnome-system-tools
 light-locker
+gnome-nettool
 dists-buster-files-atzlinux
 dists-buster-files-dep11-atzlinux
