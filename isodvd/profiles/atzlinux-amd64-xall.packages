@@ -532,5 +532,6 @@ vdpauinfo
 gnome-system-tools
 light-locker
 gnome-nettool
+gparted
 dists-buster-files-atzlinux
 dists-buster-files-dep11-atzlinux
