@@ -17,5 +17,7 @@ https://mail.atzlinux.com
 
 选择端口587和STARTTLS。 normal password 作为身份验证方法。
 
+## 支持pop协议收信
+
 ## 邮箱管理登录地址：
 https://mail.zub.pub/iredadmin/
