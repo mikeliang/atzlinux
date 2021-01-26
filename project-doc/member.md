@@ -79,10 +79,10 @@ Since：成为项目成员的时间, yyyy-mm-dd
 - Since: 2020-12-28
 
 ## PokerFace
-- Name：PokerFace
+- Name: PokerFace
 - Uid: pokerface
-- Email:pokerface@atzlinux.com
-- GPGid:0xD25BBE091FFA58EE
+- Email: pokerface@atzlinux.com
+- GPGid: 0xD25BBE091FFA58EE
 - Since：2020-08-17
 
 ## qinxialei(秦夏磊)
