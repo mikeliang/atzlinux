@@ -16,11 +16,11 @@ Since：成为项目成员的时间, yyyy-mm-dd
 添加时，请注意保留以下几行为空，方便后续新成员直接复制添加。
 ```text
 ## 英文ID(中文名)
-- Name:
-- Uid:
-- Email:
-- GPGid:
-- Since:
+- Name: 
+- Uid: 
+- Email: 
+- GPGid: 
+- Since: 
 ```
 ## xiao sheng wen(肖盛文)
 - Name: xiao sheng wen(肖盛文)
