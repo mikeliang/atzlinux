@@ -178,4 +178,5 @@ brightness-udev
 brightnessctl
 tmux
 fortunes-zh
+zh-autoconvert
 dists-buster-files-atzlinux
