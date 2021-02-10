@@ -46,6 +46,10 @@ libqt4-declarative
 libnss3
 fcitx-config-gtk
 fcitx-config-gtk2
+fcitx-frontend-gtk2
+fcitx-frontend-gtk3
+fcitx-frontend-qt4
+fcitx-frontend-qt5
 fcitx-frontend-all
 sogoupinyin
 pepperflashplugin-nonfree
