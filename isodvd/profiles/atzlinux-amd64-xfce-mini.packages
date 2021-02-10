@@ -44,6 +44,9 @@ xfonts-wqy
 
 libqt4-declarative
 libnss3
+fcitx-config-gtk
+fcitx-config-gtk2
+fcitx-frontend-all
 sogoupinyin
 pepperflashplugin-nonfree
 cnapp-desktop-icons-mini-atzlinux
