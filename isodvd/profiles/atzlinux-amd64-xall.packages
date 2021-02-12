@@ -146,6 +146,7 @@ fcitx-config-common
 fcitx-config-gtk
 fcitx-dbus-status
 fcitx-frontend-all
+fcitx-frontend-qt4
 fcitx-frontend-qt5
 fcitx-frontend-fbterm
 fcitx-googlepinyin
