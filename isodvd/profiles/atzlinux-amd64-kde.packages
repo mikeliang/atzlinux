@@ -287,4 +287,5 @@ atzlinux-update-patch
 atzlinux-update-patch-kde
 cnapp-desktop-icons-kde-atzlinux
 tarlz
+ethtool
 dists-buster-files-atzlinux

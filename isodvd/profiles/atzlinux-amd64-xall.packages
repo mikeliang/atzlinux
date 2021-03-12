@@ -540,4 +540,5 @@ unzip
 zip
 dists-buster-files-dep11-atzlinux
 tarlz
+ethtool
 dists-buster-files-atzlinux

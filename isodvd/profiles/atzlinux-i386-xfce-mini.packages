@@ -64,4 +64,5 @@ fonts-zh-cn-misc-atzlinux
 atzlinux-update-patch
 unzip
 zip
+ethtool
 dists-buster-files-atzlinux
