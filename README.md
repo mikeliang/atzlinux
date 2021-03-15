@@ -140,3 +140,7 @@ https://gitee.com/atzlinux/debian-cn/issues 或者微信群反馈。
 
 目前项目有建立微信群和邮件列表，欢迎大家加入。
 加入方式，请访问：https://www.atzlinux.com/contact.htm
+
+<p>《铜豌豆 Linux》官网二维码<br>
+<img src="https://www.atzlinux.com/pics/qr-atzlinux-com.svg" alt="《铜豌豆 Linux》官网二维码">
+</p>
