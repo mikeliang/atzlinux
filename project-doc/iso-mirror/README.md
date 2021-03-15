@@ -2,3 +2,4 @@
 
 - 177vv.com.md
 - osdn.md
+- lx.atzlinux.com
