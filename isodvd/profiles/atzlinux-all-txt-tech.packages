@@ -182,4 +182,6 @@ unzip
 zip
 tarlz
 ethtool
+ncftp
+tnftp
 dists-buster-files-atzlinux

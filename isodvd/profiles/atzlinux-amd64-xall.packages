@@ -542,4 +542,6 @@ dists-buster-files-dep11-atzlinux
 tarlz
 ethtool
 qtqr
+ncftp
+tnftp
 dists-buster-files-atzlinux

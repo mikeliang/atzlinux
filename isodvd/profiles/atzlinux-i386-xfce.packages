@@ -288,4 +288,5 @@ lz4
 unzip
 zip
 ethtool
+ncftp
 dists-buster-files-atzlinux
