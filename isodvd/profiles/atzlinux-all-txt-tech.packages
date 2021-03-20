@@ -184,4 +184,5 @@ tarlz
 ethtool
 ncftp
 tnftp
+ltrace
 dists-buster-files-atzlinux
