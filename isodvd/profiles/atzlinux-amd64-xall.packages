@@ -544,4 +544,5 @@ ethtool
 qtqr
 ncftp
 tnftp
+libspdlog1
 dists-buster-files-atzlinux
