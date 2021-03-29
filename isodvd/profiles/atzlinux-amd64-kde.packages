@@ -293,4 +293,6 @@ ncftp
 tnftp
 flameshot
 libspdlog1
+libfcitx-qt5-data
+libfcitx-qt5-1
 dists-buster-files-atzlinux
