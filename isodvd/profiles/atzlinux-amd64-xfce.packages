@@ -358,4 +358,5 @@ tnftp
 libspdlog1
 libfcitx-qt5-data
 libfcitx-qt5-1
+fcitx-inputmethod-atzlinux
 dists-buster-files-atzlinux
