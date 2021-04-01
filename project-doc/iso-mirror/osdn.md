@@ -1,15 +1,19 @@
+## osdn 镜像地址
 - osdn 同步到北师大的镜像：
 https://mirrors.bfsu.edu.cn/osdn/storage/g/a/at/atzlinux/atzlinux-cd/
 
 - osdn xtom.com.hk 镜像
 https://mirrors.xtom.com.hk/osdn/storage/g/a/at/atzlinux/atzlinux-cd/
 
+- osdn 清华镜像
+https://mirrors.tuna.tsinghua.edu.cn/osdn/storage/g/a/at/atzlinux/atzlinux-cd/
+
 ## osdn 文件上传信息
 - https://osdn.net/projects/atzlinux/admin/storage/
 
 osdn 可以使用 rsync sftp scp 上传文件。
 
-### 示例如下：
+#### 示例如下：
 
 - rsync over ssh
 rsync -a /your/files/dir/ atzlinux@storage.osdn.net:/storage/groups/a/at/atzlinux/
