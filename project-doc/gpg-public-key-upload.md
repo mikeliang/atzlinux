@@ -43,6 +43,11 @@ http://hkps.pool.sks-keyservers.net/
 ## 4. keyserver.ubuntu.com
 https://keyserver.ubuntu.com/
 
+### 命令行上传公钥示例：
+```shell script
+gpg --send-keys --keyserver keyserver.ubuntu.com 7B9C9BE1659DFB8F72EB8A0EBD9322944E91726B
+```
+
 使用邮箱地址查找公钥
 ```shell script
 gpg --keyserver keyserver.ubuntu.com --search-keys xsw@atzlinux.com
