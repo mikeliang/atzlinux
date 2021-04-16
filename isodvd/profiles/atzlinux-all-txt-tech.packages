@@ -185,4 +185,5 @@ ethtool
 ncftp
 tnftp
 ltrace
+apt-forktracer
 dists-buster-files-atzlinux
