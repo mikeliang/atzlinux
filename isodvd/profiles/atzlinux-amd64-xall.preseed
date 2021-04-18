@@ -228,6 +228,8 @@ d-i grub-installer/bootdev  string /dev/sda
 # To install to the first device (assuming it is not a USB stick):
 d-i grub-installer/bootdev  string default
 
+# 是否强制将 GRUB 安装到 EFI 可移动媒体路径？
+grub-installer  grub-installer/force-efi-extra-removable        boolean true
 # Force extra installation to the EFI removable media path?
 grub-efi-amd64	grub2/force_efi_extra_removable	boolean	true
 
