@@ -360,4 +360,5 @@ libfcitx-qt5-data
 libfcitx-qt5-1
 fcitx-inputmethod-atzlinux
 firmware-sof-signed
+wireless-regdb
 dists-buster-files-atzlinux
