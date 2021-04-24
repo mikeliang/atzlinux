@@ -187,4 +187,5 @@ tnftp
 ltrace
 apt-forktracer
 linux-cpupower
+tlp-rdw
 dists-buster-files-atzlinux

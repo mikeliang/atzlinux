@@ -300,4 +300,5 @@ firmware-sof-signed
 wireless-regdb
 smartmontools
 linux-cpupower
+tlp-rdw
 dists-buster-files-atzlinux
