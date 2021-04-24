@@ -361,4 +361,5 @@ libfcitx-qt5-1
 fcitx-inputmethod-atzlinux
 firmware-sof-signed
 wireless-regdb
+smartmontools
 dists-buster-files-atzlinux
