@@ -551,4 +551,5 @@ fcitx-inputmethod-atzlinux
 firmware-sof-signed
 wireless-regdb
 smartmontools
+linux-cpupower
 dists-buster-files-atzlinux
