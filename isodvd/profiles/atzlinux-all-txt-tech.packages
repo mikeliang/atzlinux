@@ -188,4 +188,5 @@ ltrace
 apt-forktracer
 linux-cpupower
 tlp-rdw
+arping
 dists-buster-files-atzlinux
