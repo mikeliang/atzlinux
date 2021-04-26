@@ -553,4 +553,5 @@ wireless-regdb
 smartmontools
 linux-cpupower
 tlp-rdw
+sysstat
 dists-buster-files-atzlinux
