@@ -1,3 +1,7 @@
+# ensure eatmydata-udeb can speed up offline installs too
+eatmydata
+libeatmydata1
+
 # less is more intuituve
 less
 
