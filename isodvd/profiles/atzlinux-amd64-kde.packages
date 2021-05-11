@@ -302,4 +302,5 @@ smartmontools
 linux-cpupower
 tlp-rdw
 sysstat
+bc
 dists-buster-files-atzlinux

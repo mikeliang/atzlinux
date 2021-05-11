@@ -190,4 +190,5 @@ linux-cpupower
 tlp-rdw
 arping
 sysstat
+bc
 dists-buster-files-atzlinux
