@@ -1,6 +1,6 @@
 # add packages to all X + txt suite
 
-for f in atzlinux-amd64-xall.packages atzlinux-amd64-xfce.packages atzlinux-amd64-kde.packages atzlinux-all-txt-tech.packages
+for f in atzlinux-all-txt-tech.packages atzlinux-amd64-xfce.packages atzlinux-amd64-xall.packages atzlinux-amd64-kde.packages
 	do
 		echo $f;
 		wc -l $f
