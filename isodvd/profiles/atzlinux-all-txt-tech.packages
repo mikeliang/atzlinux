@@ -192,4 +192,5 @@ arping
 sysstat
 bc
 netscripts-atzlinux
+firmware-atheros
 dists-buster-files-atzlinux
