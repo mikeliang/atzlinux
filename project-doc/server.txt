@@ -1,0 +1,15 @@
+- hwy.atzlinux.com
+
+IP 地址: 122.9.94.224
+基本配置: 8CPU , 16GB RAM, 550 GB 硬盘
+到期日:2022年1月19日
+服务器提供方: 学生开源年会(https://sosconf.org)
+(理论上到期后可以再申请继续使用,请提前申请)
+
+联系人：Man Kek-Cheung <m@zenj.org>
+
+带宽：2Mbps
+ssh port: 22
+
+操作记录：
+2021-06-04 将 www 域名 ipv4 地址指向该服务器
