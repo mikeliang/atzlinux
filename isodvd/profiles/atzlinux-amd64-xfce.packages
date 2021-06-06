@@ -368,4 +368,5 @@ sysstat
 bc
 netscripts-atzlinux
 firmware-atheros
+hw-probe
 dists-buster-files-atzlinux
