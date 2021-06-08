@@ -557,4 +557,6 @@ bc
 netscripts-atzlinux
 firmware-atheros
 hw-probe
+gnome-shell-extension-appindicator
+gnome-tweak-tool
 dists-buster-files-atzlinux
