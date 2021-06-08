@@ -306,4 +306,5 @@ bc
 netscripts-atzlinux
 firmware-atheros
 hw-probe
+lshw
 dists-buster-files-atzlinux

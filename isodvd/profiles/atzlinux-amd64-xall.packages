@@ -559,4 +559,5 @@ firmware-atheros
 hw-probe
 gnome-shell-extension-appindicator
 gnome-tweak-tool
+lshw
 dists-buster-files-atzlinux
