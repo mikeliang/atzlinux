@@ -1,6 +1,11 @@
 - hwy.atzlinux.com
 
 IP 地址: 122.9.94.224
+
+IPv6 地址： 2407:c080:fff:ffff::7a09:5ee0
+
+用的 ipv6-eip ，只能提供外面的 ipv6 访问这个 ipv6 地址，不能在云主机里去访问其他ipv6。
+
 基本配置: 8CPU , 16GB RAM, 550 GB 硬盘
 到期日:2022年1月19日
 服务器提供方: 学生开源年会(https://sosconf.org)
