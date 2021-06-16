@@ -11,3 +11,5 @@
 - 24359 --> 443
 - 11032 --> 22
 
+## 硬件信息
+- https://linux-hardware.org/?probe=014bdabb68
