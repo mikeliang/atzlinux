@@ -195,4 +195,5 @@ netscripts-atzlinux
 firmware-atheros
 hw-probe
 linux-perf-4.19
+lm-sensors
 dists-buster-files-atzlinux

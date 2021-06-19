@@ -307,4 +307,5 @@ netscripts-atzlinux
 firmware-atheros
 hw-probe
 lshw
+lm-sensors
 dists-buster-files-atzlinux

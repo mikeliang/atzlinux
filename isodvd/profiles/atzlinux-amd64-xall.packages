@@ -560,4 +560,5 @@ hw-probe
 gnome-shell-extension-appindicator
 gnome-tweak-tool
 lshw
+lm-sensors
 dists-buster-files-atzlinux
