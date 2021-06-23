@@ -371,4 +371,5 @@ firmware-atheros
 hw-probe
 lshw
 lm-sensors
+xinput
 dists-buster-files-atzlinux

@@ -561,4 +561,5 @@ gnome-shell-extension-appindicator
 gnome-tweak-tool
 lshw
 lm-sensors
+xinput
 dists-buster-files-atzlinux
