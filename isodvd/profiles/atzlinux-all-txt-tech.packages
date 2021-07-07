@@ -196,4 +196,6 @@ firmware-atheros
 hw-probe
 linux-perf-4.19
 lm-sensors
+manpages
+manpages-dev
 dists-buster-files-atzlinux
