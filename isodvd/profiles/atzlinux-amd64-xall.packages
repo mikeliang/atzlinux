@@ -562,4 +562,5 @@ gnome-tweak-tool
 lshw
 lm-sensors
 xinput
+ddcutil
 dists-buster-files-atzlinux
