@@ -563,4 +563,7 @@ lshw
 lm-sensors
 xinput
 ddcutil
+thunar-archive-plugin
+thunar-media-tags-plugin
+xfce4-sensors-plugin
 dists-buster-files-atzlinux
