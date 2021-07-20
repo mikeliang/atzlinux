@@ -1,5 +1,7 @@
 - hwy.atzlinux.com
 
+华为云区域：上海-2 区
+
 IP 地址: 122.9.94.224
 
 IPv6 地址： 2407:c080:fff:ffff::7a09:5ee0
