@@ -310,4 +310,5 @@ lshw
 lm-sensors
 xinput
 ddcutil
+screenfetch
 dists-buster-files-atzlinux
