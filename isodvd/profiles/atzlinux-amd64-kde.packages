@@ -311,4 +311,5 @@ lm-sensors
 xinput
 ddcutil
 screenfetch
+neofetch
 dists-buster-files-atzlinux
