@@ -200,4 +200,5 @@ manpages
 manpages-dev
 screenfetch
 neofetch
+jq
 dists-buster-files-atzlinux
