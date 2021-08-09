@@ -202,4 +202,5 @@ screenfetch
 neofetch
 jq
 deborphan
+apt-show-versions
 dists-buster-files-atzlinux
