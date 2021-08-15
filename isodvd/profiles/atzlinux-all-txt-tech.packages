@@ -203,4 +203,5 @@ neofetch
 jq
 deborphan
 apt-show-versions
+exfatprogs
 dists-buster-files-atzlinux
