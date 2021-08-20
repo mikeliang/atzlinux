@@ -65,4 +65,5 @@ atzlinux-update-patch
 unzip
 zip
 ethtool
+isenkram-cli
 dists-buster-files-atzlinux

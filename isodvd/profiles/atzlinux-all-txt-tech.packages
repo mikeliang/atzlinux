@@ -204,4 +204,5 @@ jq
 deborphan
 apt-show-versions
 exfatprogs
+isenkram-cli
 dists-buster-files-atzlinux

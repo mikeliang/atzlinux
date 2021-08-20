@@ -289,4 +289,5 @@ unzip
 zip
 ethtool
 ncftp
+isenkram-cli
 dists-buster-files-atzlinux
