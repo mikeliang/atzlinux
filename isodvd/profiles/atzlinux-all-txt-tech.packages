@@ -205,4 +205,5 @@ deborphan
 apt-show-versions
 exfatprogs
 isenkram-cli
+vim-scripts
 dists-buster-files-atzlinux
