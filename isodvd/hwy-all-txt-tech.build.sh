@@ -5,5 +5,5 @@ http://mirrors.huaweicloud.com/debian-security/ \
 http://mirrors.huaweicloud.com/debian/  \
 --backports-mirror \
 http://mirrors.huaweicloud.com/debian \
--b all-text-tech.build \
--a atzlinux-all-text-tech
+-b all-txt-tech.build \
+-a atzlinux-all-txt-tech
