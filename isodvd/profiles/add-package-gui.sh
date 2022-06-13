@@ -13,3 +13,4 @@ for f in atzlinux-amd64-xall.packages atzlinux-amd64-xfce.packages atzlinux-amd6
 
 cat to-add
 wc -l to-add
+git diff .
