@@ -11,4 +11,16 @@ console-setup-linux
 console-setup
 keyboard-configuration
 # atzlinux project apt key
-atzlinux-archive-keyring
+atzlinux-v11-archive-keyring
+# Debian bullseye apt
+bullseye-apt-atzlinux
+# kernel
+linux-image-rt-amd64
+linux-headers-rt-amd64
+
+# kernel driver made by atzlinux
+dkms
+
+locales
+
+systemd-timesyncd
