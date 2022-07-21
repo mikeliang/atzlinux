@@ -2,7 +2,6 @@ apt-transport-https
 firmware-amd-graphics
 firmware-iwlwifi
 firmware-linux-free
-firmware-linux-nonfree
 firmware-misc-nonfree
 firmware-realtek
 bluez-firmware
@@ -187,7 +186,7 @@ electronic-wechat
 linuxqq
 sogoupinyin
 baidunetdisk
-netease-cloud-music
+#netease-cloud-music
 youdao-dict
 wps-office
 wps-office-fonts
@@ -199,7 +198,6 @@ xz-utils
 debian-reference-zh-cn
 manpages-zh
 bluez-tools
-pepperflashplugin-nonfree
 enigmail
 chromium-sandbox
 lunar
@@ -259,7 +257,6 @@ scrcpy
 fonts-zh-cn-misc-atzlinux
 xfce-atzlinux
 usermode
-atzlinux-archive-keyring
 unar
 mtr
 ttf-mscorefonts-atzlinux
@@ -281,7 +278,6 @@ gnome-disk-utility
 gvfs-fuse
 ifuse
 ipheth-utils
-atzlinux-update-patch
 atzlinux-update-patch-xfce
 gnome-calculator
 gvfs-backends
@@ -299,7 +295,6 @@ acpi
 gthumb
 krdc
 cheese
-atzlinux-store
 ibus
 ibus-sunpinyin
 ibus-libpinyin
@@ -367,4 +362,3 @@ thunar-font-manager
 iptux
 linuxinfo
 ksnip
-dists-buster-files-atzlinux
