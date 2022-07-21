@@ -2,7 +2,6 @@ apt-transport-https
 firmware-amd-graphics
 firmware-iwlwifi
 firmware-linux-free
-firmware-linux-nonfree
 firmware-misc-nonfree
 firmware-realtek
 bluez-firmware
@@ -33,7 +32,6 @@ bind9-host
 bzip2
 csh
 netcat
-mariadb-client-core-10.3
 default-mysql-client
 rsync
 screen
@@ -116,14 +114,12 @@ tree
 httpie
 silversearcher-ag
 info
-atzlinux-archive-keyring
 python3-pip
 quilt
 dh-make
 dh-autoreconf
 dh-exec
 mp3blaster
-python-mutagen
 mtools
 dosfstools
 fbterm
@@ -131,12 +127,10 @@ python3-setuptools
 dh-python
 help2man
 libdebian-installer4-dev
-atzlinux-update-patch
 atzlinux-update-patch-txt-tech
 zstd
 fcitx-pinyin
 fcitx-frontend-fbterm
-linux-headers-rt-amd64
 perl-openssl-defaults
 libnet-ssleay-perl
 libio-socket-ssl-perl
@@ -194,7 +188,6 @@ bc
 netscripts-atzlinux
 firmware-atheros
 hw-probe
-linux-perf-4.19
 lm-sensors
 manpages
 manpages-dev
@@ -208,4 +201,3 @@ isenkram-cli
 vim-scripts
 linuxinfo
 pkg-kde-tools
-dists-buster-files-atzlinux
