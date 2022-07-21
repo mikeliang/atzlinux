@@ -306,7 +306,7 @@ app.web.kugou
 app.web.youdao.dict
 atzlinux-store-a11
 com.alibabainc.dingtalk
-com.baidu.baidunetdisk
+baidunetdisk
 com.github.yesplaymusic
 dbus-x11
 distro-info-data
