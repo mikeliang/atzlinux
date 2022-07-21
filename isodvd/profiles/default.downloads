@@ -48,6 +48,8 @@ avahi-autoipd
 bluetooth
 powertop
 task-laptop
+task-chinese-s
+manpages-zh
 
 # add by atzlinux, need by last grub install step
 os-prober
@@ -61,6 +63,9 @@ shim-signed
 
 # add by atzlinux, https://wiki.debian.org/wl, Broadcom wireless LAN driver (wl, aka broadcom-sta)
 broadcom-sta-dkms
+
+# b43 firmware
+firmware-b43-atzlinux
 
 # add by atzlinux, add all debian-cd firmware_task pkg
 firmware-b43-installer
@@ -98,3 +103,6 @@ intel-microcode
 firmware-zd1211
 amd64-microcode
 intel-microcode
+
+# only put in iso
+openssh-server
