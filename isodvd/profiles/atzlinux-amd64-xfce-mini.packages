@@ -2,7 +2,6 @@ apt-transport-https
 firmware-amd-graphics
 firmware-iwlwifi
 firmware-linux-free
-firmware-linux-nonfree
 firmware-misc-nonfree
 firmware-realtek
 xserver-xorg-video-intel
@@ -15,7 +14,6 @@ sudo
 software-properties-common
 
 liblightdm-gobject-1-0
-libindicator3-7
 lightdm
 lightdm-gtk-greeter
 task-chinese-s
@@ -42,19 +40,14 @@ fonts-wqy-microhei
 fonts-wqy-zenhei
 xfonts-wqy
 
-libqt4-declarative
 libnss3
 fcitx-config-gtk
-fcitx-config-gtk2
 fcitx-frontend-gtk2
 fcitx-frontend-gtk3
-fcitx-frontend-qt4
 fcitx-frontend-qt5
 fcitx-frontend-all
 sogoupinyin
-pepperflashplugin-nonfree
 cnapp-desktop-icons-mini-atzlinux
-atzlinux-update-patch
 atzlinux-update-patch-xfce-mini
 policykit-1-gnome
 opencc
@@ -62,4 +55,3 @@ unzip
 zip
 ethtool
 isenkram-cli
-dists-buster-files-atzlinux
