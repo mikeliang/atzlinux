@@ -316,6 +316,10 @@ d-i apt-setup/local0/repository string \
         deb https://mirrors.bfsu.edu.cn/debian-security bullseye-security  main non-free contrib
 d-i apt-setup/local0/comment string security apt source
 
+# Downloading a file failed:
+# Choices: Retry, Change mirror, Ignore
+apt-mirror-setup        apt-setup/mirror/error  select  Ignore
+
 d-i apt-setup/cdrom/set-first boolean	false
 
 ### skip some annoying installation status notes
