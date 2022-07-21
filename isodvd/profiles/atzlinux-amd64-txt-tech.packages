@@ -127,7 +127,6 @@ python3-setuptools
 dh-python
 help2man
 libdebian-installer4-dev
-atzlinux-update-patch-txt-tech
 zstd
 fcitx-pinyin
 fcitx-frontend-fbterm
@@ -207,8 +206,6 @@ ccache
 cu
 diffoscope
 distro-info-data
-dists-bullseye-files-atzlinux
-dists-bullseye-files-contents-atzlinux
 edid-decode
 fuse3
 libelf-dev
@@ -226,3 +223,6 @@ python3-mutagen
 reprotest
 squashfuse
 strace
+atzlinux-update-patch-txt-tech
+dists-bullseye-files-atzlinux
+dists-bullseye-files-contents-atzlinux
