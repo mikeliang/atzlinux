@@ -1,4 +1,4 @@
-#### Contents of the preconfiguration file (for buster)
+#### Contents of the preconfiguration file (for bullseye)
 ### Localization
 # Preseeding only locale sets language, country and locale.
 d-i debian-installer/locale string zh_CN
@@ -96,7 +96,7 @@ d-i netcfg/wireless_wep string
 # If you select ftp, the mirror/country string does not need to be set.
 d-i mirror/protocol string https
 d-i mirror/country string manual
-d-i mirror/https/hostname string mirrors.cloud.tencent.com
+d-i mirror/https/hostname string mirrors.bfsu.edu.cn
 d-i mirror/https/directory string /debian
 d-i mirror/https/proxy string
 
@@ -187,7 +187,7 @@ apt-setup-udeb  apt-setup/enable-source-repositories    boolean false
 #d-i debian-installer/allow_unauthenticated boolean true
 
 # Uncomment this to add multiarch configuration for i386
-d-i apt-setup/multiarch string i386
+#d-i apt-setup/multiarch string i386
 
 
 ### Package selection
@@ -309,13 +309,21 @@ d-i preseed/early_command string anna-install eatmydata-udeb
 # directly, or use the apt-install and in-target commands to easily install
 # packages and run commands in the target system.
 #d-i preseed/late_command string apt-install zsh; in-target chsh -s /bin/zsh
+d-i preseed/late_command string in-target mkdir -pv /boot/efi/EFI/debian ; \
+in-target cp -vf /boot/efi/EFI/atzlinux/grub.cfg /boot/efi/EFI/debian/
 
 d-i apt-setup/local0/repository string \
-	https://apt.atzlinux.com/atzlinux buster  main contrib non-free
-d-i apt-setup/local0/comment string atzlinux.com desktop project apt source
-
-d-i apt-setup/local1/repository string \
-	deb https://mirrors.cloud.tencent.com/debian-security buster/updates main non-free contrib
-d-i apt-setup/local1/comment string security apt source
+        deb https://mirrors.bfsu.edu.cn/debian-security bullseye-security  main non-free contrib
+d-i apt-setup/local0/comment string security apt source
 
 d-i apt-setup/cdrom/set-first boolean	false
+
+### skip some annoying installation status notes
+# Avoid that last message about the install being complete.
+# 安装完成
+d-i     finish-install/reboot_in_progress       note
+finish-install  finish-install/reboot_in_progress       note
+# Avoid the introductory message.
+base-config base-config/intro note
+# Avoid the final message.
+base-config base-config/login note
