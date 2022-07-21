@@ -8,13 +8,11 @@ firmware-realtek
 bluez-firmware
 at-spi2-core
 ayatana-indicator-session
-desktop-profiles
 dnsutils
 exo-utils
 fcitx-config-common
 fcitx-config-gtk
 fcitx-frontend-all
-fcitx-frontend-qt4
 fcitx-frontend-qt5
 fcitx-googlepinyin
 fcitx-m17n
@@ -34,14 +32,11 @@ iftop
 iotop
 libbsd0
 libcanberra-gtk-module
-libexo-1-0
 libexo-2-0
 libexo-common
-libexo-helpers
 libgarcon-1-0
 libgarcon-gtk3-1-0
 libnss3
-libxfconf-0-2
 lightdm
 lightdm-gtk-greeter
 lxappearance
@@ -86,13 +81,11 @@ xserver-xorg-input-mouse
 xserver-xorg-input-mtrack
 xserver-xorg-input-mutouch
 xserver-xorg-input-synaptics
-xserver-xorg-input-void
 xserver-xorg-input-wacom
 xserver-xorg-input-xwiimote
 xserver-xorg-legacy
 xserver-xorg-video-all
 xserver-xorg-video-amdgpu
-xserver-xorg-video-ast
 xserver-xorg-video-ati
 xserver-xorg-video-cirrus
 xserver-xorg-video-dummy
@@ -122,7 +115,6 @@ hddtemp
 pavucontrol
 electronic-wechat
 linuxqq
-libqt4-declarative
 sogoupinyin
 baidunetdisk
 netease-cloud-music
@@ -156,12 +148,10 @@ ncompress
 filezilla
 dia
 reciteword
-libesd0
 libaudio-scrobbler-perl
 mpg321
 vlc-l10n
 qterm
-stardict-plugin-spell
 stardict-plugin-espeak
 stardict-dic-data-atzlinux
 stardict-plugin-festival
@@ -214,9 +204,7 @@ fonts-noto-cjk
 fonts-noto-color-emoji
 libplist-utils
 ideviceinstaller
-python-imobiledevice
 libimobiledevice-utils
-python-plist
 libusbmuxd-tools
 usbmuxd
 gvfs-bin
@@ -238,7 +226,6 @@ acpi
 gthumb
 krdc
 cheese
-atzlinux-store
 ibus
 ibus-sunpinyin
 ibus-libpinyin
@@ -266,7 +253,6 @@ systemsettings
 kwin-x11
 kwin-addons
 pinentry-qt
-kde-l10n-zhcn
 task-chinese-s-kde-desktop
 apper
 plasma-nm
@@ -274,7 +260,6 @@ dragonplayer
 xsettings-kde
 powerdevil
 kgamma5
-user-manager
 kscreen
 kdeconnect
 gnome-nettool
