@@ -160,7 +160,6 @@ dh-python
 debsums
 firmware-zd1211
 atmel-firmware
-exfat-utils
 dosfstools
 yiyantang
 git-buildpackage

@@ -307,7 +307,6 @@ fonts-cns11643-kai
 grub-customizer
 firmware-zd1211
 atmel-firmware
-exfat-utils
 dosfstools
 thunar-volman
 info
