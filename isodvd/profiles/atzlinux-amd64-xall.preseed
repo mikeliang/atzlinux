@@ -319,8 +319,8 @@ d-i preseed/early_command string anna-install eatmydata-udeb
 # directly, or use the apt-install and in-target commands to easily install
 # packages and run commands in the target system.
 #d-i preseed/late_command string apt-install zsh; in-target chsh -s /bin/zsh
-d-i preseed/late_command string in-target mkdir -pv /boot/efi/EFI/debian ; \
-in-target cp -vf /boot/efi/EFI/atzlinux/grub.cfg /boot/efi/EFI/debian/
+d-i preseed/late_command string in-target mkdir -pv /boot/efi/EFI/debian || true ; \
+in-target cp -vf /boot/efi/EFI/atzlinux/grub.cfg /boot/efi/EFI/debian/ || true
 
 d-i apt-setup/local0/repository string \
         deb https://mirrors.cloud.tencent.com/debian-security bullseye-security  main non-free contrib
