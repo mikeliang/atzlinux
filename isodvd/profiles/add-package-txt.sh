@@ -1,6 +1,6 @@
 # add packages to txt suite
 
-for f in atzlinux-all-txt-tech.packages
+for f in atzlinux-amd64-txt-tech.packages
 	do
 		echo $f;
 		wc -l $f
