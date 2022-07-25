@@ -52,7 +52,6 @@ opencc
 unzip
 zip
 ethtool
-isenkram-cli
 
 dbus-x11
 fcitx
