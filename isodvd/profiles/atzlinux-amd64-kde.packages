@@ -351,4 +351,5 @@ zenity
 atzlinux-update-patch-kde
 cnapp-desktop-icons-kde-atzlinux
 dists-bullseye-files-atzlinux
+dists-bullseye-files-dep11-atzlinux-common
 dists-bullseye-files-dep11-atzlinux
