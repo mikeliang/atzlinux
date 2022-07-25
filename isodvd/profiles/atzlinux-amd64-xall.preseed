@@ -104,7 +104,7 @@ d-i netcfg/wireless_wep string
 # If you select ftp, the mirror/country string does not need to be set.
 d-i mirror/protocol string https
 d-i mirror/country string manual
-d-i mirror/https/hostname string mirrors.bfsu.edu.cn
+d-i mirror/https/hostname string mirrors.cloud.tencent.com
 d-i mirror/https/directory string /debian
 d-i mirror/https/proxy string
 
@@ -323,7 +323,7 @@ d-i preseed/late_command string in-target mkdir -pv /boot/efi/EFI/debian ; \
 in-target cp -vf /boot/efi/EFI/atzlinux/grub.cfg /boot/efi/EFI/debian/
 
 d-i apt-setup/local0/repository string \
-        deb https://mirrors.bfsu.edu.cn/debian-security bullseye-security  main non-free contrib
+        deb https://mirrors.cloud.tencent.com/debian-security bullseye-security  main non-free contrib
 d-i apt-setup/local0/comment string security apt source
 
 # Downloading a file failed:
