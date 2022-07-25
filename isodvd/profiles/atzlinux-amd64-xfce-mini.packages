@@ -68,6 +68,6 @@ net-tools
 network-manager-gnome
 zenity
 
-atzlinux-update-patch-xfce-mini
 cnapp-desktop-icons-mini-atzlinux
 dists-bullseye-files-atzlinux
+atzlinux-update-patch-xfce-mini
