@@ -408,4 +408,5 @@ zenity
 cnapp-desktop-icons-atzlinux
 dists-bullseye-files-dep11-atzlinux
 dists-bullseye-files-atzlinux
+libblockdev-crypto2
 atzlinux-update-patch-xfce
