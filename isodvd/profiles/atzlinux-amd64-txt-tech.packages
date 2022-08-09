@@ -228,4 +228,5 @@ dists-bullseye-files-contents-atzlinux
 libblockdev-crypto2
 cpufrequtils
 imagemagick
+linux-perf-5.10
 atzlinux-update-patch-txt-tech
