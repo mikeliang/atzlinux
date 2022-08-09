@@ -411,4 +411,5 @@ libblockdev-crypto2
 cpufrequtils
 imagemagick
 linux-perf-5.10
+htop
 atzlinux-update-patch-xfce
