@@ -28,4 +28,8 @@ ln -s  /home/atzlinux/debian-reference/build debian-reference
 crontab
 28 4 * * * /home/atzlinux/debian-reference/build.sh
 
-6./home/atzlinux/html/doc/os2atc2019
+6./home/atzlinux/html/atzlinux/doc/os2atc2019
+拷贝该目录下文档资料
+
+7./home/atzlinux/html/doc
+拷贝该目录下文档资料
