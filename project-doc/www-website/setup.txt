@@ -1,0 +1,31 @@
+铜豌豆网站搭建
+
+1.安装 Nginx
+
+2.git clone www 仓库
+
+3.拷贝 Nginx 配置文件，ssl 证书
+
+4.安装 webalizer
+	/etc/cron.daily/webalizer 修改，增加 export LANG=C， 避免网页乱码
+
+5.debian-reference weblate 自动构建
+
+https://hosted.weblate.org/git/debian-reference/translations/
+
+/home/atzlinux/debian-reference/build.sh
+
+cd /home/atzlinux/debian-reference
+git checkout latest
+rm -fv po/zh-cn.po
+git checkout po
+git pull
+make test LANGPO=zh-cn
+
+~/html/doc/manuals/
+ln -s  /home/atzlinux/debian-reference/build debian-reference
+
+crontab
+28 4 * * * /home/atzlinux/debian-reference/build.sh
+
+6./home/atzlinux/html/doc/os2atc2019
