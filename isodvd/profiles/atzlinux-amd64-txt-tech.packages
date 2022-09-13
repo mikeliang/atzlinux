@@ -230,4 +230,5 @@ cpufrequtils
 imagemagick
 linux-perf-5.10
 ca-certificates-atzlinux
+sbsigntool
 atzlinux-update-patch-txt-tech

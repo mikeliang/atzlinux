@@ -360,4 +360,5 @@ htop
 desktop-base-atzlinux
 apvlv
 ca-certificates-atzlinux
+sbsigntool
 atzlinux-update-patch-kde

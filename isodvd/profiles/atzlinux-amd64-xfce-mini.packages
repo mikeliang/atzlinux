@@ -72,4 +72,5 @@ cnapp-desktop-icons-mini-atzlinux
 dists-bullseye-files-atzlinux
 cpufrequtils
 ca-certificates-atzlinux
+sbsigntool
 atzlinux-update-patch-xfce-mini
