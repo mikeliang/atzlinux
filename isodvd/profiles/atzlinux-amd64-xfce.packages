@@ -418,4 +418,5 @@ desktop-base-atzlinux
 apvlv
 ca-certificates-atzlinux
 sbsigntool
+mesa-va-drivers
 atzlinux-update-patch-xfce
