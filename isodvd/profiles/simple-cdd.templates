@@ -2,5 +2,6 @@ Template: simple-cdd/profiles
 Type: select
 Choices: CHOICES
 Default: DEFAULTS
-Description: 请根据用途选择其中一个版本，不能够同时选择多个：
-  请选择安装版本：
+Description: 请根据需求选择其中一个 子版本 进行安装，不能够同时选择多个：
+  铜豌豆 Linux 子版本详细说明：
+  https://www.atzlinux.com/faq.htm#ver
