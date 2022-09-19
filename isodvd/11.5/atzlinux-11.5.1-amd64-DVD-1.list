@@ -44,7 +44,7 @@ nvidia-alternative_470.141.03-1~deb11u1_amd64.deb
 wps-office_11.1.0.11664_amd64.deb
 wps-office-fonts_1.0_all.deb
 bluez-firmware_1.2-7_all.deb
-baidunetdisk_4.10.5_amd64.deb
+baidunetdisk_4.12.5_amd64.deb
 broadcom-sta-dkms_6.30.223.271-17_all.deb
 atmel-firmware_1.3-6_all.deb
 amd64-microcode_3.20191218.1_amd64.deb
@@ -547,7 +547,7 @@ libisns-udeb_0.100-3_amd64.udeb
 libosp5_1.5.2-13+b2_amd64.deb
 opensp_1.5.2-13+b2_amd64.deb
 ocl-icd-libopencl1_2.2.14-2_amd64.deb
-opengnb_1.2.9.0-1~bpo11+1_amd64.deb
+opengnb_1.2.9.0-2~bpo11+1_amd64.deb
 firmware-ath9k-htc_1.4.0-106-gc583009+dfsg1-1_all.deb
 openssh-server-udeb_8.4p1-5+deb11u1_amd64.udeb
 openssh-server_8.4p1-5+deb11u1_amd64.deb
