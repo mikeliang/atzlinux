@@ -419,4 +419,5 @@ apvlv
 ca-certificates-atzlinux
 sbsigntool
 mesa-va-drivers
+acl
 atzlinux-update-patch-xfce

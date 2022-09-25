@@ -231,4 +231,5 @@ imagemagick
 linux-perf-5.10
 ca-certificates-atzlinux
 sbsigntool
+acl
 atzlinux-update-patch-txt-tech
