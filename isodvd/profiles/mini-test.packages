@@ -1,4 +1,4 @@
 apt-transport-https
 software-properties-common
 opencc
-dists-buster-files-atzlinux
+dists-bullseye-files-atzlinux
