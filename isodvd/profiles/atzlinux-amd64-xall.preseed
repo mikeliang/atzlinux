@@ -104,7 +104,7 @@ d-i netcfg/wireless_wep string
 # If you select ftp, the mirror/country string does not need to be set.
 d-i mirror/protocol string https
 d-i mirror/country string manual
-d-i mirror/https/hostname string mirrors.tencent.com
+#d-i mirror/https/hostname string mirrors.tencent.com
 d-i mirror/https/directory string /debian
 d-i mirror/https/proxy string
 
@@ -323,9 +323,9 @@ d-i preseed/early_command string anna-install eatmydata-udeb
 # packages and run commands in the target system.
 #d-i preseed/late_command string apt-install zsh; in-target chsh -s /bin/zsh
 
-d-i apt-setup/local0/repository string \
-        deb https://mirrors.tencent.com/debian-security bullseye-security  main non-free contrib
-d-i apt-setup/local0/comment string security apt source
+#d-i apt-setup/local0/repository string \
+#        deb https://mirrors.tencent.com/debian-security bullseye-security  main non-free contrib
+#d-i apt-setup/local0/comment string security apt source
 
 # Downloading a file failed:
 # Choices: Retry, Change mirror, Ignore
