@@ -1,6 +1,6 @@
 # ensure eatmydata-udeb can speed up offline installs too
-eatmydata
 libeatmydata1
+eatmydata
 
 # less is more intuituve
 less
@@ -13,6 +13,9 @@ keyboard-configuration
 # atzlinux project apt key
 atzlinux-v11-archive-keyring
 # Debian bullseye apt
+dists-bullseye-files-atzlinux
+debian-mirror-bullseye-tencent-apt-source
+debian-mirror-bullseye
 bullseye-apt-atzlinux
 # kernel
 linux-image-rt-amd64
