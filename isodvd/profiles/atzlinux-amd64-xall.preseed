@@ -332,6 +332,7 @@ d-i preseed/early_command string anna-install eatmydata-udeb
 apt-mirror-setup        apt-setup/mirror/error  select  Ignore
 
 d-i apt-setup/cdrom/set-first boolean	false
+apt-cdrom-setup apt-setup/disable-cdrom-entries boolean false
 
 ### skip some annoying installation status notes
 # Avoid that last message about the install being complete.
