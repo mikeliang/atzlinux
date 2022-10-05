@@ -327,10 +327,6 @@ d-i preseed/early_command string anna-install eatmydata-udeb
 #d-i preseed/late_command string apt-install zsh; in-target chsh -s /bin/zsh
 d-i preseed/late_command string in-target cp -v /dev/null /etc/apt/sources.list
 
-#d-i apt-setup/local0/repository string \
-#        deb https://mirrors.tencent.com/debian-security bullseye-security  main non-free contrib
-#d-i apt-setup/local0/comment string security apt source
-
 # Downloading a file failed:
 # Choices: Retry, Change mirror, Ignore
 apt-mirror-setup        apt-setup/mirror/error  select  Ignore
