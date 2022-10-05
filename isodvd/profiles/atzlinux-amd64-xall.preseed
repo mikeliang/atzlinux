@@ -104,9 +104,12 @@ d-i netcfg/wireless_wep string
 # If you select ftp, the mirror/country string does not need to be set.
 d-i mirror/protocol string https
 d-i mirror/country string manual
-#d-i mirror/https/hostname string mirrors.tencent.com
+d-i mirror/https/hostname string mirrors.tencent.com
 d-i mirror/https/directory string /debian
 d-i mirror/https/proxy string
+
+# Debian 仓库镜像所在的国家：
+choose-mirror-bin       mirror/http/countries   select  CN
 
 # Suite to install.
 #d-i mirror/suite string testing
@@ -322,6 +325,7 @@ d-i preseed/early_command string anna-install eatmydata-udeb
 # directly, or use the apt-install and in-target commands to easily install
 # packages and run commands in the target system.
 #d-i preseed/late_command string apt-install zsh; in-target chsh -s /bin/zsh
+d-i preseed/late_command string in-target cp -v /dev/null /etc/apt/sources.list
 
 #d-i apt-setup/local0/repository string \
 #        deb https://mirrors.tencent.com/debian-security bullseye-security  main non-free contrib
@@ -332,7 +336,7 @@ d-i preseed/early_command string anna-install eatmydata-udeb
 apt-mirror-setup        apt-setup/mirror/error  select  Ignore
 
 d-i apt-setup/cdrom/set-first boolean	false
-apt-cdrom-setup apt-setup/disable-cdrom-entries boolean false
+apt-cdrom-setup apt-setup/disable-cdrom-entries boolean true
 
 ### skip some annoying installation status notes
 # Avoid that last message about the install being complete.
