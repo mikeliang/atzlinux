@@ -4,3 +4,4 @@ opencc
 dists-bullseye-files-atzlinux
 debconf-utils
 zhcon
+bash-completion
