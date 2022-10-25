@@ -74,7 +74,6 @@ firmware-b43legacy-installer
 firmware-linux-free
 hdmi2usb-fx2-firmware
 firmware-ath9k-htc
-amd64-microcode
 atmel-firmware
 bluez-firmware
 dahdi-firmware-nonfree
@@ -100,7 +99,6 @@ firmware-realtek
 firmware-samsung
 firmware-siano
 firmware-ti-connectivity
-intel-microcode
 firmware-zd1211
 amd64-microcode
 intel-microcode
