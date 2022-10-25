@@ -54,6 +54,7 @@ manpages-zh
 # add by atzlinux, need by last grub install step
 os-prober
 efibootmgr
+grub-efi-amd64
 grub-efi-amd64-signed
 mokutil
 shim-unsigned
