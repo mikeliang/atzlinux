@@ -50,6 +50,7 @@ powertop
 task-laptop
 task-chinese-s
 manpages-zh
+xterm
 
 # add by atzlinux, need by last grub install step
 os-prober
