@@ -79,7 +79,7 @@ d-i netcfg/get_domain string unassigned-domain
 # If you want to force a hostname, regardless of what either the DHCP
 # server returns or what the reverse DNS entry for the IP is, uncomment
 # and adjust the following line.
-d-i netcfg/hostname string atzlinux
+#d-i netcfg/hostname string
 
 # Disable that annoying WEP key dialog.
 d-i netcfg/wireless_wep string
@@ -327,7 +327,11 @@ d-i preseed/early_command string anna-install eatmydata-udeb
 # directly, or use the apt-install and in-target commands to easily install
 # packages and run commands in the target system.
 #d-i preseed/late_command string apt-install zsh; in-target chsh -s /bin/zsh
-d-i preseed/late_command string in-target cp -v /dev/null /etc/apt/sources.list
+d-i preseed/late_command string in-target cp -v /dev/null /etc/apt/sources.list; \
+echo "atzlinux-`cut -c 31- /target/etc/machine-id`" > /target/etc/hostname; \
+echo "127.0.0.1 `cat /target/etc/hostname`" >> /target/etc/hosts; \
+chroot /target bash -c "sed -i /"atzlinux$"/d /etc/hosts"; \
+exit 0
 
 # Downloading a file failed:
 # Choices: Retry, Change mirror, Ignore
