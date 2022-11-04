@@ -6,6 +6,10 @@ firmware-linux-nonfree
 firmware-misc-nonfree
 firmware-realtek
 bluez-firmware
+
+# lib packages neet to install first
+libgamin0
+
 at-spi2-core
 ayatana-indicator-session
 dnsutils
