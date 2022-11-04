@@ -14,6 +14,8 @@ d-i localechooser/supported-locales multiselect zh_CN.GB18030 zh_CN.GBK zh_CN.GB
 d-i keyboard-configuration/xkb-keymap select us
 # d-i keyboard-configuration/toggle select No toggling
 
+# for internal use; can be preseeded
+partman-base    partman/default_filesystem      string  ext4
 # 返回菜单并更正错误吗？
 partman-basicfilesystems        partman-basicfilesystems/swap_check_failed      boolean false
 # 您是否想返回分区菜单？
