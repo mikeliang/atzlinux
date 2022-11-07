@@ -602,4 +602,5 @@ mesa-va-drivers
 acl
 radeontop
 webp-pixbuf-loader
+gnome-power-manager
 atzlinux-update-patch-xall
