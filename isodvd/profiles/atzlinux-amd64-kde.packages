@@ -2,7 +2,6 @@ apt-transport-https
 firmware-amd-graphics
 firmware-iwlwifi
 firmware-linux-free
-firmware-linux-nonfree
 firmware-misc-nonfree
 firmware-realtek
 bluez-firmware
