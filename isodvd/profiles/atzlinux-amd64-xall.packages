@@ -602,4 +602,5 @@ webp-pixbuf-loader
 gnome-power-manager
 ncal
 libavif-gdk-pixbuf
+heif-gdk-pixbuf
 atzlinux-update-patch-xall
