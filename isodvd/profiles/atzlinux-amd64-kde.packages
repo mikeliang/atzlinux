@@ -368,4 +368,5 @@ acl
 radeontop
 webp-pixbuf-loader
 ncal
+libavif-gdk-pixbuf
 atzlinux-update-patch-kde
