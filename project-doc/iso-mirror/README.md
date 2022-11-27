@@ -10,15 +10,20 @@
 
 ## 机器捐赠信息
 - https://www.atzlinux.com/juanzeng.htm#iso-node
-该页面实际是调用如下网页展示：
+
+  该页面实际是调用如下网页展示：
+
 - https://www.atzlinux.com/atzlinux-cd/iso-site-info.htm
 
 ## 生成 iso 下载网页的脚本
 - https://www.atzlinux.com/atzlinux-cd/get-iso-html.sh
-每次更新镜像网站信息，iso 文件信息，均需重新运行该脚本，生成 iso 下载网页：
+
+  每次更新镜像网站信息，iso 文件信息，均需重新运行该脚本，生成 iso 下载网页：
 
 - iso-10.13.1amd64.htm
+
 - iso-11.5.1amd64.htm
+
 - iso-11.5.2arm64.htm
 
 以上网页的内容，会被下载页面自动包含展示：
@@ -33,7 +38,8 @@ https://motion.atzlinux.com:3000/d/Sj56fJUnz/atzlinux-isoxia-zai-dian-jian-kong-
 ### 脚本监控
 监控脚本在 铜豌豆码云 www 仓库维护：
 - https://gitee.com/atzlinux/www/blob/master/atzlinux-cd/check-iso.sh
-脚本需部署在网站 /atzlinux-cd/ 目录下， 和两个 iso 镜像网站 基础信息文件 iso.list iso-site-cityisp.txt 放置同一个目录。
+
+  脚本需部署在网站 /atzlinux-cd/ 目录下， 和两个 iso 镜像网站 基础信息文件 iso.list iso-site-cityisp.txt 放置同一个目录。
 
 脚本会将检测结果放入文件：
 - check-iso-error.txt 最近一次检测异常情况
@@ -52,7 +58,8 @@ crontab：
 
 */13 * * * * cd /home/atzlinux/html/atzlinux-cd/; ./check-iso.sh
 
-2. 新加坡华为云
+2.新加坡华为云
+
 - http://xjphwy.atzlinux.com/atzlinux-cd/check-iso-error.txt
 - http://xjphwy.atzlinux.com/atzlinux-cd/check-iso-error-history.txt
 
