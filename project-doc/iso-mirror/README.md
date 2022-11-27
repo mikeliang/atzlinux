@@ -44,18 +44,20 @@ https://motion.atzlinux.com:3000/d/Sj56fJUnz/atzlinux-isoxia-zai-dian-jian-kong-
 
 目前在成都腾讯云机器（铜豌豆 www 主网站）、新加坡华为云节点机器部署该监控。
 
-- 成都腾讯云
+1.成都腾讯云
 - https://www.atzlinux.com/atzlinux-cd/check-iso-error.txt
 - https://www.atzlinux.com/atzlinux-cd/check-iso-error-history.txt
 
 crontab：
+
 */13 * * * * cd /home/atzlinux/html/atzlinux-cd/; ./check-iso.sh
 
-- 新加坡华为云
+2. 新加坡华为云
 - http://xjphwy.atzlinux.com/atzlinux-cd/check-iso-error.txt
 - http://xjphwy.atzlinux.com/atzlinux-cd/check-iso-error-history.txt
 
 crontab：
+
 */9 * * * * cd /home/atzlinux/html/atzlinux-cd/; ./check-iso.sh
 
 ## iso 镜像网站搭建
