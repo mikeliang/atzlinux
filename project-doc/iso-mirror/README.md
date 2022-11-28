@@ -68,7 +68,42 @@ crontab：
 */9 * * * * cd /home/atzlinux/html/atzlinux-cd/; ./check-iso.sh
 
 ## iso 镜像网站搭建
-todo
+使用任一 web 服务端软件启动 web 服务，使用任一端口启动 web 服务均可。
+在网站根目录下 创建 atzlinux-cd 子目录用于放置 iso 相关文件。
+
+#### http 网站
+以使用 Nginx 为例说明：
+
+- 安装 Nginx
+  `apt install nginx`
+
+- 安装目录索引模块
+  `apt install libnginx-mod-http-fancyindex`
+
+- 配置文件
+
+  - Nginx 配置文件路径为：
+    - /etc/nginx/sites-available
+    - /etc/nginx/sites-enabled
+
+    该目录下有到 /etc/nginx/sites-available 配置文件的符号链接，表示启用该配置文件
+
+  - 配置文件修改
+
+    - 监听端口
+    - 主机名 server_name _;
+    - 网站根目录路径
+    - 给 atzlinux-cd 目录增加目录索引
+
+铜豌豆主机可以跟机器现有 Nginx 共用同一个 web 端口，通过主机名区分。
+本目录下的 atzlinux-cd 配置文件可以作为参考，请参考最下面 80 端口部分。
+
+#### https 和 网站证书
+提供 iso 文件下载，可以不使用 https 功能，只需要 http 即可。
+对需要使用 https 的，可以使用网站域名自己的证书，也可以增加一个铜豌豆 atzlinux.com 的子域名，使用铜豌豆子域名的证书。
+
+本目录下的 atzlinux-cd 配置文件可以作为参考。
+一个机器可以同时提供 http 和 https 服务。
 
 ## iso 镜像网站同步
 todo
