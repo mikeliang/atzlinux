@@ -4,7 +4,7 @@
 - https://www.atzlinux.com/atzlinux-cd/iso-site-cityisp.txt
 
 ## 当前最新版本 iso 路径信息
-- https://www.atzlinux.com/atzlinux-cd/iso.list
+- https://www.atzlinux.com/atzlinux-cd/iso.list.txt
 
 以上两个文件，是作为 iso 镜像网站 基础信息数据，用于搭建新的镜像站点，生成下载网页，设置监控等。
 
@@ -39,7 +39,7 @@ https://motion.atzlinux.com:3000/d/Sj56fJUnz/atzlinux-isoxia-zai-dian-jian-kong-
 监控脚本在 铜豌豆码云 www 仓库维护：
 - https://gitee.com/atzlinux/www/blob/master/atzlinux-cd/check-iso.sh
 
-  脚本需部署在网站 /atzlinux-cd/ 目录下， 和两个 iso 镜像网站 基础信息文件 iso.list iso-site-cityisp.txt 放置同一个目录。
+  脚本需部署在网站 /atzlinux-cd/ 目录下， 和两个 iso 镜像网站 基础信息文件 iso.list.txt iso-site-cityisp.txt 放置同一个目录。
 
 脚本会将检测结果放入文件：
 - check-iso-error.txt 最近一次检测异常情况
