@@ -29,8 +29,8 @@ Since：成为项目成员的时间, yyyy-mm-dd
 - GPGid: 0x2F338C7DC7909957,0x00186602339240CB
 - Since: 2019-10-04
 
-## Zenghai Liang(梁增海)
-- Name: Zenghai Liang(梁增海)
+## Mike Liang(海子Mike)
+- Name: Mike Liang(海子Mike)
 - Uid: mike
 - Email: combbs@gmail.com,mike@atzlinux.com
 - GPGid: 0x863B3E2DAD77B97E
