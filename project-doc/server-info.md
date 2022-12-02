@@ -4,16 +4,19 @@
 - cdtxy.atzlinux.com
 
 成都腾讯云 1核1GB内存 40GB硬盘 有 IPv6，流量计费，
+
 apt 软件源构建，CDN 源站存储
 
 - njtxy.atzlinux.com
 
 南京腾讯云 1核1GB内存 50GB硬盘，1Mb 带宽，无 IPv6
+
 铜豌豆网站服务器
 
 - xjphwy.atzlinux.com
 
 新加坡华为云 4核16GB内存 40GB 硬盘，10Mb 带宽，无 IPv6
+
 铜豌豆海外 iso 下载服务器，deb 软件包构建
 
 - 111.207.111.194
@@ -27,6 +30,7 @@ https://www.atzlinux.com/skills-tech.htm#gpgssh
 - 180.109.143.27
 
 riscv 架构测试机器, 和开源社区共用，
+
 先需要到 https://github.com/plctlab/riscv-lab-access 创建 PR 申请普通账号登录权限。
 
 #### 有普通账号登录权限的机器信息
