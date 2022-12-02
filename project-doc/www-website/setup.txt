@@ -7,6 +7,8 @@
 3.拷贝 Nginx 配置文件，ssl 证书
 
 4.安装 webalizer
+需先添加 Debian 10 buster 软件源。
+
 	/etc/cron.daily/webalizer 修改，增加 export LANG=C， 避免网页乱码
 
 5.debian-reference weblate 自动构建
