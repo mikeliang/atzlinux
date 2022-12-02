@@ -25,7 +25,8 @@ https://www.atzlinux.com/webtj/
 
 5.debian-reference weblate 自动构建
 
-https://hosted.weblate.org/git/debian-reference/translations/
+git clone https://hosted.weblate.org/git/debian-reference/translations/
+mv translations debian-reference
 
 /home/atzlinux/debian-reference/build.sh
 
@@ -36,14 +37,15 @@ git checkout po
 git pull
 make test LANGPO=zh-cn
 
-~/html/doc/manuals/
+mkdir -p ~/html/doc/manuals/
+cd ~/html/doc/manuals/
 ln -s  /home/atzlinux/debian-reference/build debian-reference
 
 crontab
 28 4 * * * /home/atzlinux/debian-reference/build.sh
 
 6./home/atzlinux/html/atzlinux/doc/os2atc2019
-拷贝该目录下文档资料
+该目录下文档资料,目前已经放入 CDN。
 
 7./home/atzlinux/html/doc
 拷贝该目录下文档资料
