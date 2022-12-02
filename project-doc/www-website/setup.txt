@@ -3,6 +3,7 @@
 1.安装 Nginx
 
 2.git clone www 仓库
+将 www 目录拷贝至 html 目录，删除 .git 目录。
 
 3.拷贝 Nginx 配置文件，ssl 证书
 
