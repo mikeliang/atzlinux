@@ -9,7 +9,19 @@
 4.安装 webalizer
 需先添加 Debian 10 buster 软件源。
 
-	/etc/cron.daily/webalizer 修改，增加 export LANG=C， 避免网页乱码
+修改 配置文件：
+/etc/webalizer/webalizer.conf
+
+- 日志文件使用 Nginx：
+LogFile /var/log/nginx/access.log.1
+
+- /etc/cron.daily/webalizer 修改，增加 export LANG=C， 避免网页乱码
+直接运行 /etc/cron.daily/webalizer 在 /var/www/webalizer 目录下生成统计数据。
+
+在网站根目录下，增加符号链接目录 webtj --》 /var/www/webalizer
+
+访问：
+https://www.atzlinux.com/webtj/
 
 5.debian-reference weblate 自动构建
 
