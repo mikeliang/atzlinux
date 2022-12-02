@@ -37,6 +37,9 @@ git checkout po
 git pull
 make test LANGPO=zh-cn
 
+make entity
+./build.sh
+
 mkdir -p ~/html/doc/manuals/
 cd ~/html/doc/manuals/
 ln -s  /home/atzlinux/debian-reference/build debian-reference
