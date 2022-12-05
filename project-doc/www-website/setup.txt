@@ -15,6 +15,9 @@
 
 - 日志文件使用 Nginx：
 LogFile /var/log/nginx/access.log.1
+- 打开增量日志分析功能
+Incremental     yes
+IncrementalName webalizer.current
 
 - /etc/cron.daily/webalizer 修改，增加 export LANG=C， 避免网页乱码
 直接运行 /etc/cron.daily/webalizer 在 /var/www/webalizer 目录下生成统计数据。
