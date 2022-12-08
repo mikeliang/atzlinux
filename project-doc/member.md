@@ -26,7 +26,7 @@ Since：成为项目成员的时间, yyyy-mm-dd
 - Name: xiao sheng wen(肖盛文)
 - Uid: xsw
 - Email: xsw@atzlinux.com,atzlinux@yeah.net,atzlinux@sina.com
-- GPGid: 0x2F338C7DC7909957,0x00186602339240CB
+- GPGid: 0x2F338C7DC7909957
 - Since: 2019-10-04
 
 ## Mike Liang(海子Mike)
