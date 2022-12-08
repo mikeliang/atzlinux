@@ -36,7 +36,7 @@ https://www.atzlinux.com/download-iso.htm
 https://motion.atzlinux.com:3000/d/Sj56fJUnz/atzlinux-isoxia-zai-dian-jian-kong-mian-ban?orgId=1&refresh=30s&from=now-3h&to=now
 
 ### 脚本监控
-监控脚本在 铜豌豆码云 www 仓库维护：
+监控脚本在 铜豌豆 码云 www 仓库维护：
 - https://gitee.com/atzlinux/www/blob/master/atzlinux-cd/check-iso.sh
 
   脚本需部署在网站 /atzlinux-cd/ 目录下， 和两个 iso 镜像网站 基础信息文件 iso.list.txt iso-site-cityisp.txt 放置同一个目录。
