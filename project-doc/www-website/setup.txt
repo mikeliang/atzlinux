@@ -18,6 +18,10 @@ LogFile /var/log/nginx/access.log.1
 - 打开增量日志分析功能
 Incremental     yes
 IncrementalName webalizer.current
+- 设置网站域名
+HostName www.atzlinux.com
+- 设置使用 HTTPS
+UseHTTPS       yes
 
 - /etc/cron.daily/webalizer 修改，增加 export LANG=C， 避免网页乱码
 直接运行 /etc/cron.daily/webalizer 在 /var/www/webalizer 目录下生成统计数据。
