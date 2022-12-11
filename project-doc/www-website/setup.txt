@@ -7,6 +7,15 @@
 
 3.拷贝 Nginx 配置文件，ssl 证书
 
+需要在 80 端口 和 443 端口，打开 ssi 和 autoindex。
+
+ssi on;
+ssi_silent_errors on;
+
+autoindex on;
+autoindex_localtime on;
+charset 'utf-8';
+
 4.安装 webalizer
 需先添加 Debian 10 buster 软件源。
 
