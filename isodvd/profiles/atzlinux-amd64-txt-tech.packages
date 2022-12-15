@@ -233,4 +233,5 @@ ca-certificates-atzlinux
 sbsigntool
 acl
 ncal
+subnetcalc
 atzlinux-update-patch-txt-tech
