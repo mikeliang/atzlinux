@@ -10,3 +10,6 @@ apt-get download $p
 apt-get -o Dir::Cache::Archives=/home/atzlinux/a11test/atzlinux/$pooldir autoclean
 cd -
 done
+
+# clear lock file from apt-get autoclean
+find ./ -name "lock" -exec rm -fv {} \;
