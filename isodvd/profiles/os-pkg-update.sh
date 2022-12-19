@@ -7,5 +7,6 @@ echo $pooldir
 mkdir -pv $pooldir
 cd $pooldir
 apt-get download $p
+apt-get -o Dir::Cache::Archives=/home/atzlinux/a11test/atzlinux/$pooldir autoclean
 cd -
 done
