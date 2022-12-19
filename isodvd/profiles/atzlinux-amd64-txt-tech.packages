@@ -61,7 +61,6 @@ lftp
 lunar
 p7zip-full
 disktype
-ntfs-3g
 exfat-fuse
 vpnc
 axel
@@ -234,4 +233,5 @@ sbsigntool
 acl
 ncal
 subnetcalc
+ntfs-3g
 atzlinux-update-patch-txt-tech

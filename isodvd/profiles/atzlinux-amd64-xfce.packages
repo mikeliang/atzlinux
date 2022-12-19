@@ -202,7 +202,6 @@ chromium-sandbox
 lunar
 gftp
 p7zip-full
-ntfs-3g
 exfat-fuse
 network-manager-vpnc-gnome
 vlc
@@ -424,4 +423,5 @@ ncal
 libavif-gdk-pixbuf
 heif-gdk-pixbuf
 hypnotix
+ntfs-3g
 atzlinux-update-patch-xfce
