@@ -368,7 +368,6 @@ dosfstools
 krb5-locales
 libgdk-pixbuf2.0-bin
 libsasl2-modules
-manpages
 ncurses-term
 netcat-traditional
 publicsuffix
@@ -603,4 +602,8 @@ libavif-gdk-pixbuf
 heif-gdk-pixbuf
 hypnotix
 ntfs-3g
+libgsettings-qt1
+manpages
+xboard-xiangqi
+yesplaymusic
 atzlinux-update-patch-xall
