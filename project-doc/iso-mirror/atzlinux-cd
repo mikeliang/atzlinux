@@ -25,7 +25,6 @@ server {
 	 listen 443 ssl default_server;
 	 listen [::]:443 ssl default_server;
 server_name xjphwy.atzlinux.com;
-ssl on;
      #证书文件名称
      ssl_certificate /etc/nginx/ssl/xjphwy.atzlinux.com_bundle.crt;
      #私钥文件名称

@@ -8,7 +8,7 @@
 
 以上两个文件，是作为 iso 镜像网站 基础信息数据，用于搭建新的镜像站点，生成下载网页，设置监控等。
 
-## 机器捐赠信息
+## iso 机器捐赠信息网页
 - https://www.atzlinux.com/juanzeng.htm#iso-node
 
   该页面实际是调用如下网页展示：
@@ -30,13 +30,16 @@
 
 https://www.atzlinux.com/download-iso.htm
 
+每次新版本 iso 发布，生成的 iso 下载 网页文件名也会发生变化，需要在此页面更新包含文件名。
+
+
 ##  iso 下载可用性情况监控
 
 ### Grafana 监控
 https://motion.atzlinux.com:3000/d/Sj56fJUnz/atzlinux-isoxia-zai-dian-jian-kong-mian-ban?orgId=1&refresh=30s&from=now-3h&to=now
 
 ### 脚本监控
-监控脚本在 铜豌豆码云 www 仓库维护：
+监控脚本在 铜豌豆 码云 www 仓库维护：
 - https://gitee.com/atzlinux/www/blob/master/atzlinux-cd/check-iso.sh
 
   脚本需部署在网站 /atzlinux-cd/ 目录下， 和两个 iso 镜像网站 基础信息文件 iso.list.txt iso-site-cityisp.txt 放置同一个目录。
@@ -48,9 +51,9 @@ https://motion.atzlinux.com:3000/d/Sj56fJUnz/atzlinux-isoxia-zai-dian-jian-kong-
 
 - check-iso-error-history.txt 历史所有检测异常情况
 
-目前在成都腾讯云机器（铜豌豆 www 主网站）、新加坡华为云节点机器部署该监控。
+目前在 铜豌豆 www 主网站服务器、新加坡华为云节点机器部署该监控。
 
-1.成都腾讯云
+1.www 服务器
 - https://www.atzlinux.com/atzlinux-cd/check-iso-error.txt
 - https://www.atzlinux.com/atzlinux-cd/check-iso-error-history.txt
 
@@ -60,8 +63,8 @@ crontab：
 
 2.新加坡华为云
 
-- http://xjphwy.atzlinux.com/atzlinux-cd/check-iso-error.txt
-- http://xjphwy.atzlinux.com/atzlinux-cd/check-iso-error-history.txt
+- https://xjphwy.atzlinux.com/atzlinux-cd/check-iso-error.txt
+- https://xjphwy.atzlinux.com/atzlinux-cd/check-iso-error-history.txt
 
 crontab：
 
