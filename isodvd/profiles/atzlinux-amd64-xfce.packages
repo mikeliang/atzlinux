@@ -5,6 +5,7 @@ firmware-linux-free
 firmware-misc-nonfree
 firmware-realtek
 bluez-firmware
+fuse3
 arc-theme
 at-spi2-core
 ayatana-indicator-session
@@ -373,7 +374,6 @@ fcitx-ui-light
 firmware-b43-atzlinux
 fonts-jetbrains-mono
 fonts-lxgw-wenkai
-fuse3
 gconf2-common
 gconf-service
 gnome-sound-recorder

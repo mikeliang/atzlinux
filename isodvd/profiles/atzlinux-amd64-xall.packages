@@ -8,6 +8,7 @@ firmware-brcm80211
 bluez-firmware
 amd64-microcode
 intel-microcode
+fuse3
 libaacs0
 libabw-0.1-1
 libao4
@@ -541,7 +542,6 @@ fcitx-ui-light
 firmware-b43-atzlinux
 fonts-jetbrains-mono
 fonts-lxgw-wenkai
-fuse3
 gconf2-common
 gconf-service
 gnome-shell-extension-top-icons-plus

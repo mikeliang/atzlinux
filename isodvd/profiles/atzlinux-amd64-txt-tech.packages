@@ -5,6 +5,7 @@ firmware-linux-free
 firmware-misc-nonfree
 firmware-realtek
 bluez-firmware
+fuse3
 file
 psmisc
 gpm
@@ -196,7 +197,6 @@ cu
 diffoscope
 distro-info-data
 edid-decode
-fuse3
 libelf-dev
 libncurses-dev
 libsodium23
