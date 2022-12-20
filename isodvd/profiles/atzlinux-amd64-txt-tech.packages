@@ -141,7 +141,6 @@ debhelper
 dh-make
 dh-autoreconf
 dh-exec
-dh-make-perl
 dh-runit
 debmake
 reportbug
