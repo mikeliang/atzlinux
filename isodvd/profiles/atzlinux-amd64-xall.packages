@@ -310,7 +310,6 @@ bash-completion
 libgail-common
 blueman
 usbmuxd
-ifuse
 deepin-terminal
 deepin-image-viewer
 deepin-screenshot
