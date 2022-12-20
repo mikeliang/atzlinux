@@ -295,7 +295,6 @@ pavucontrol
 electronic-wechat
 linuxqq
 sogoupinyin
-baidunetdisk
 netease-cloud-music
 wps-office
 wps-office-fonts
@@ -364,7 +363,6 @@ mate-media
 mate-power-manager
 apparmor
 dnsmasq-base
-dosfstools
 krb5-locales
 libgdk-pixbuf2.0-bin
 libsasl2-modules
