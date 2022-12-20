@@ -37,7 +37,6 @@ rsync
 screen
 zsh
 vim
-alien
 iptables
 smartmontools
 hdparm
@@ -77,7 +76,6 @@ dstat
 debconf-utils
 acpi-support
 acpica-tools
-tmux
 aria2
 iw
 wireless-tools
@@ -96,7 +94,6 @@ xorriso
 debian-cd
 installation-guide-amd64
 dpkg-dev
-debhelper
 myrepos
 po4a
 docbook-xsl
@@ -115,9 +112,6 @@ silversearcher-ag
 info
 python3-pip
 quilt
-dh-make
-dh-autoreconf
-dh-exec
 mp3blaster
 mtools
 dosfstools
@@ -148,18 +142,15 @@ dh-autoreconf
 dh-exec
 dh-make-perl
 dh-runit
-dh-make-perl
 debmake
 reportbug
 dupload
 dgit
 apt-listchanges
 xtail
-dh-python
 debsums
 firmware-zd1211
 atmel-firmware
-dosfstools
 yiyantang
 git-buildpackage
 lz4
