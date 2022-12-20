@@ -580,7 +580,6 @@ dists-bullseye-files-atzlinux
 dists-bullseye-files-dep11-atzlinux-common
 dists-bullseye-files-dep11-atzlinux
 cnapp-desktop-icons-atzlinux
-libblockdev-crypto2
 cpufrequtils
 imagemagick
 linux-perf-5.10
