@@ -12,6 +12,9 @@ Debian 是一款非常优秀的 Linux 操作系统，但由于版权限制等多
 
 《铜豌豆 Linux》操作系统在 Debian 基础上，简化安装步骤，收集整理制作中文常用软件、一键安装脚本，搭建软件源，一次性安装完成常用中文应用，节省大家定制 Debian 的时间,做到“开箱即用”。
 
+## iso 下载
+(https://www.atzlinux.com/download-iso.htm)
+
 ## 背景 & 初衷
 
 原生 Debian 的安装，总体还是比较麻烦。由于 Debian 严格遵循源代码开放的自由协议，硬件厂家的闭源驱动固件 firmware，默认是不在 Debian 官方 iso 里面。
