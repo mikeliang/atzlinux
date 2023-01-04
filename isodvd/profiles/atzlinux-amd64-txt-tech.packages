@@ -225,4 +225,5 @@ ncal
 subnetcalc
 ntfs-3g
 tools-atzlinux-dev
+dpkg-repack
 atzlinux-update-patch-txt-tech
