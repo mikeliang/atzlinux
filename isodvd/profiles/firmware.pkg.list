@@ -28,6 +28,7 @@ firmware-qlogic
 firmware-realtek
 firmware-samsung
 firmware-siano
+firmware-sof-signed
 firmware-ti-connectivity
 firmware-zd1211
 hdmi2usb-fx2-firmware
