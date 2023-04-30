@@ -12,6 +12,8 @@ console-setup
 keyboard-configuration
 # atzlinux project apt key
 atzlinux-v11-archive-keyring
+# atzlinux project patch
+atzlinux-update-patch
 # Debian bullseye apt
 dists-bullseye-files-atzlinux
 debian-mirror-bullseye-tencent-apt-source
