@@ -383,4 +383,5 @@ qt5-image-formats-plugins
 light
 mpv
 p7zip-rar
+kio-fuse
 atzlinux-update-patch-kde
