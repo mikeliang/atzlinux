@@ -69,6 +69,9 @@ broadcom-sta-dkms
 # b43 firmware
 firmware-b43-atzlinux
 
+# nouveau firmware
+firmware-nouveau-atzlinux
+
 # add by atzlinux, add all debian-cd firmware_task pkg
 firmware-b43-installer
 firmware-b43legacy-installer
