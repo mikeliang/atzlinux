@@ -228,4 +228,5 @@ tools-atzlinux-dev
 dpkg-repack
 light
 p7zip-rar
+ffmpeg
 atzlinux-update-patch-txt-tech
