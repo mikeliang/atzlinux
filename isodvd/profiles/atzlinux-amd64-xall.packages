@@ -534,7 +534,6 @@ distro-info-data
 edid-decode
 enchant-2
 fcitx
-fcitx-frontend-gtk2
 fcitx-frontend-gtk3
 fcitx-libs
 fcitx-module-kimpanel

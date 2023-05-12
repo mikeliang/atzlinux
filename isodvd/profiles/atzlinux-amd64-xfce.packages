@@ -366,7 +366,6 @@ dbus-x11
 distro-info-data
 edid-decode
 fcitx
-fcitx-frontend-gtk2
 fcitx-frontend-gtk3
 fcitx-libs
 fcitx-module-kimpanel
