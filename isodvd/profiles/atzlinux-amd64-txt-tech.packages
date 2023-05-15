@@ -229,4 +229,5 @@ dpkg-repack
 light
 p7zip-rar
 ffmpeg
+i2c-tools
 atzlinux-update-patch-txt-tech
