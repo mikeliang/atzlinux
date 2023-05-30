@@ -102,6 +102,7 @@ https://tracker.debian.org/pkg/fonts-lxgw-wenkai
 对中文商业软件在适配测试过程中发现的问题，也积极和商业公司沟通，进行良性互动。得到了百度网盘、WPS
 、永中 office 等公司的反馈。
 在 linuxqq 反馈页面反馈的意见，在 linuxqq 新版本中，也得到了改进。
+
 ![用户桌面默认图标](https://cdn.atzlinux.com/pics/desktop-item.png)
 
 ## 反馈开源社区
